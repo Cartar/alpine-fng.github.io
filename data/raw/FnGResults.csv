@@ -1,0 +1,4202 @@
+race_id,discipline,racer_id,_time
+1,SKI ,"Cox, Jeff",35.82
+1,SKI ,"Wood, McLean",36.1
+1,SKI ,"Parr, Jeff",36.95
+1,SKI ,"Crawford, Derek",36.97
+1,SKI ,"Hune, Brandon",37.93
+1,SKI ,"Andersen, Tom",38.09
+1,SKI ,"Coward, Peter",38.49
+1,SKI ,"Reid, Rob",38.5
+1,SKI ,"Hawtin, Robert",38.64
+1,SKI ,"Beattie, Kevin",38.73
+1,SKI ,"Moorhead, Peter",38.79
+1,SKI ,"Brock, Brad",38.94
+1,SKI ,"Perreault, Joanna",39.11
+1,SKI ,"Coward, Laura",39.15
+1,SKI ,"Park, Jason",39.27
+1,SKI ,"Chapple, Bruce",39.3
+1,SKI ,"Beemer, John",39.43
+1,SKI ,"Glover, John",39.45
+1,SKI ,"Cox, Alana",40.13
+1,SKI ,"Petrella, Anika",40.34
+1,SKI ,"Smitheman, Neal",40.34
+1,SKI ,"Ramshaw, Doug",40.58
+1,SKI ,"Morrison, David",40.67
+1,SKI ,"Abbott, Brad",40.77
+1,SKI ,"Kilmer-Choi, Kevin",41.2
+1,SKI ,"Lavoie, Daniel",41.25
+1,SKI ,"Muntwyler, Trevor",41.66
+1,SKI ,"Leistner, Linda",41.94
+1,SKI ,"Berg, Manfred",42.16
+1,SKI ,"Currie, Paul",42.57
+1,SKI ,"Cameron, David",42.62
+1,SKI ,"Buzzi, Peter",42.75
+1,SKI ,"Hobbs, Barry",42.77
+1,SKI ,"Perreault, Mitch",43.47
+1,SKI ,"Kirshenbaum, Lorne",43.47
+1,SKI ,"Ramshaw, Sheri",44.28
+1,SKI ,"Koster, Steven",44.95
+1,SKI ,"Kahn, Stephen",45.05
+1,SKI ,"Perlus, Jon",45.7
+1,SKI ,"Henry, Alex",45.73
+1,SKI ,"Coward, Mariann",45.89
+1,SKI ,"Chapman, Grant",46.94
+1,SKI ,"McEachen, Paul",47.15
+1,SKI ,"D'Amico, Angelo",47.2
+1,SKI ,"Norrey, Brent",47.43
+1,SKI ,"Morrison, Roz",47.73
+1,SKI ,"Nicol, Heather",47.81
+1,SKI ,"Tattle, John",48.05
+1,SKI ,"Edey, Jennifer",48.3
+1,SKI ,"Palin, Gord",48.61
+1,SKI ,"Oegema, Bernard",48.73
+1,SKI ,"Tse, Jennifer",48.87
+1,SKI ,"Mehta, Tushar",50.2
+1,SKI ,"Berg, Jackie",50.86
+1,SKI ,"Romano, Donald",52.41
+1,SKI ,"Madge, Jason",54.49
+1,SKI ,"Van Den Berg, Inge",55.77
+1,SNBD,"Kilmer-Choi, Kevin",51.22
+1,SNBD,"Manley, Robin",52.5
+1,SNBD,"Oegema, Bernard",54.53
+1,SNBD,"Woodside, Terence",55.23
+1,SNBD,"Livingston, Kim",56.61
+1,SNBD,"Farber, Joel",56.63
+1,SNBD,"McEachen, Paul",57.42
+1,SNBD,"Palmer, James",58.58
+1,SNBD,"Leistner, Linda",61.14
+1,SNBD,"Cameron, David",63.3
+1,SNBD,"Ramshaw, Sheri",64.26
+1,SNBD,"Kiss, Andrea",65.34
+1,SNBD,"Romano, Donald",78.34
+2,SKI ,"McTaggart, Michael",25.95
+2,SKI ,"Watt, Perry",26.14
+2,SKI ,"Cox, Jeff",26.27
+2,SKI ,"Gottlieb, Darren",26.55
+2,SKI ,"Bellamy, Craig",26.66
+2,SKI ,"Wood, McLean",27.11
+2,SKI ,"Crawford, Derek",27.16
+2,SKI ,"Henry, Shane",27.17
+2,SKI ,"Hawtin, Robert",27.35
+2,SKI ,"Andersen, Tom",27.41
+2,SKI ,"Coward, Peter",27.46
+2,SKI ,"Newall, David",27.56
+2,SKI ,"Perlus, Miklos",27.56
+2,SKI ,"Long, Andrew",27.63
+2,SKI ,"Beattie, Kevin",27.63
+2,SKI ,"Glover, John",27.77
+2,SKI ,"Brock, Brad",27.91
+2,SKI ,"Muntwyler, Trevor",28.12
+2,SKI ,"Reid, Rob",28.14
+2,SKI ,"Erlick, Jeremy",28.14
+2,SKI ,"Beemer, John",28.19
+2,SKI ,"French, Don",28.32
+2,SKI ,"Morse, Michael",28.33
+2,SKI ,"Ramshaw, Doug",28.36
+2,SKI ,"Silverberg, Geoff",28.53
+2,SKI ,"Hambly, Shane",28.54
+2,SKI ,"Henry, Rebecca",28.67
+2,SKI ,"Slezic, Lana",28.69
+2,SKI ,"Caplan, Phil",28.72
+2,SKI ,"Daly, Peter",28.8
+2,SKI ,"Milthorpe, Randy",29
+2,SKI ,"Berg, Manfred",29.04
+2,SKI ,"Kilmer-Choi, Kevin",29.19
+2,SKI ,"Smitheman, Neal",29.29
+2,SKI ,"French, Bill",29.33
+2,SKI ,"Buzzi, Peter",29.63
+2,SKI ,"Morrison, David",29.7
+2,SKI ,"Graham, Byron",29.91
+2,SKI ,"Brazier, Don",30.1
+2,SKI ,"Hobbs, Barry",30.24
+2,SKI ,"Tadross, Nick",30.3
+2,SKI ,"Ramshaw, Sheri",30.35
+2,SKI ,"Petrella, Tony",30.42
+2,SKI ,"Leistner, Linda",30.42
+2,SKI ,"Abbott, Brad",30.52
+2,SKI ,"Williamson, Kerina",30.8
+2,SKI ,"Merker, Iva",30.94
+2,SKI ,"Moss, Gary",31.17
+2,SKI ,"Perlus, Jon",31.47
+2,SKI ,"Graham, Sydney",31.64
+2,SKI ,"Norrey, Brent",31.68
+2,SKI ,"Koster, Steven",31.78
+2,SKI ,"Palin, Gord",31.9
+2,SKI ,"Nicol, Heather",32.11
+2,SKI ,"Tattle, Dawn",32.18
+2,SKI ,"Coward, Mariann",32.54
+2,SKI ,"D'Amico, Angelo",32.58
+2,SKI ,"Livingston, Peter",32.67
+2,SKI ,"Cole-Brownlow, Heather",32.86
+2,SKI ,"Schatzmair, Kelly",33.31
+2,SKI ,"Oegema, Bernard",34.14
+2,SKI ,"Pridham, Sue",34.22
+2,SKI ,"McDonald, Murray",34.3
+2,SKI ,"McEachen, Paul",34.33
+2,SKI ,"Morrison, Roz",34.45
+2,SKI ,"Henry, Alex",34.57
+2,SKI ,"Reid, Shanna",34.95
+2,SKI ,"Berg, Jackie",35.29
+2,SKI ,"Edey, Jennifer",35.52
+2,SKI ,"King, Jenn",35.59
+2,SKI ,"Kupka, Susan",36.48
+2,SKI ,"Romano, Marilyn",37.6
+2,SKI ,"Kilmer-Choi, Elaine",37.95
+2,SKI ,"Douglas, Dorothy",40.34
+2,SKI ,"Sheridan, Sandy",45.14
+2,SNBD,"Perlus, Miklos",31.34
+2,SNBD,"Kilmer-Choi, Kevin",32.68
+2,SNBD,"Williamson, Duff",33.12
+2,SNBD,"Manley, Robin",33.63
+2,SNBD,"Farber, Joel",34.21
+2,SNBD,"Woodside, Terence",34.79
+2,SNBD,"Oegema, Bernard",35.09
+2,SNBD,"Muntwyler, Trevor",38.27
+2,SNBD,"Milthorpe, Randy",39.47
+2,SNBD,"McEachen, Paul",40.2
+2,SNBD,"Leistner, Linda",40.52
+2,SNBD,"Kiss, Andrea",42.58
+2,SNBD,"Silverberg, Dena",43.24
+2,SNBD,"Ramshaw, Sheri",43.45
+2,SNBD,"Graham, Sydney",44.06
+2,SNBD,"Smith, John",45.22
+2,SNBD,"Kilmer-Choi, Elaine",45.69
+2,SNBD,"Thorpe, Carey",46.44
+2,SNBD,"French, Kelly",47.15
+2,SNBD,"Knutson, Andrea",47.8
+2,SNBD,"Livingston, Lynn",49.32
+3,SKI ,"Wood, McLean",37.61
+3,SKI ,"King, Brad",38.22
+3,SKI ,"Henry, Shane",38.24
+3,SKI ,"Crawford, Derek",38.87
+3,SKI ,"Bellamy, Craig",39.3
+3,SKI ,"Andersen, Tom",39.4
+3,SKI ,"Coward, Peter",39.44
+3,SKI ,"Erlick, Jeremy",39.53
+3,SKI ,"Perlus, Miklos",39.74
+3,SKI ,"Hawtin, Robert",40.05
+3,SKI ,"Beattie, Kevin",40.17
+3,SKI ,"Beemer, John",40.32
+3,SKI ,"Brock, Brad",40.32
+3,SKI ,"Gottlieb, Darren",40.4
+3,SKI ,"Newall, David",40.57
+3,SKI ,"Muntwyler, Trevor",40.72
+3,SKI ,"Long, Andrew",40.82
+3,SKI ,"Reid, Rob",40.88
+3,SKI ,"Slezic, Lana",41.2
+3,SKI ,"Glover, John",41.33
+3,SKI ,"Daly, Peter",41.45
+3,SKI ,"Caplan, Phil",41.59
+3,SKI ,"Henry, Rebecca",41.68
+3,SKI ,"Petrella, Tony",41.76
+3,SKI ,"Milthorpe, Randy",41.91
+3,SKI ,"Morse, Michael",41.95
+3,SKI ,"Berg, Manfred",42.11
+3,SKI ,"Leistner, Linda",42.2
+3,SKI ,"Morrison, David",43.02
+3,SKI ,"Ramshaw, Doug",43.08
+3,SKI ,"Abbott, Brad",43.68
+3,SKI ,"Buzzi, Peter",43.94
+3,SKI ,"Solway, Gary",44.02
+3,SKI ,"Brazier, Don",44.07
+3,SKI ,"French, Bill",44.49
+3,SKI ,"Tadross, Nick",44.64
+3,SKI ,"Schatzmair, Ralph",45.01
+3,SKI ,"Ramshaw, Sheri",45.04
+3,SKI ,"Norrey, Brent",45.46
+3,SKI ,"Tattle, Dawn",45.64
+3,SKI ,"Coward, Mariann",46.06
+3,SKI ,"Williamson, Kerina",46.54
+3,SKI ,"Graham, Sydney",46.63
+3,SKI ,"Nicol, Heather",46.64
+3,SKI ,"Koster, Steven",46.68
+3,SKI ,"Palin, Gord",47.45
+3,SKI ,"Pridham, Sue",47.73
+3,SKI ,"Graham, Byron",47.9
+3,SKI ,"Livingston, Peter",47.93
+3,SKI ,"Oegema, Bernard",48.24
+3,SKI ,"Schatzmair, Kelly",48.36
+3,SKI ,"D'Amico, Angelo",48.74
+3,SKI ,"Cole-Brownlow, Heather",48.8
+3,SKI ,"Morrison, Roz",49.85
+3,SKI ,"Henry, Alex",49.96
+3,SKI ,"Taub, David",50.07
+3,SKI ,"Berg, Jackie",51.23
+3,SKI ,"Edey, Jennifer",52.67
+3,SKI ,"Romano, Marilyn",53.17
+3,SKI ,"Reid, Shanna",56.18
+3,SKI ,"Kupka, Susan",57.12
+3,SKI ,"Douglas, Dorothy",61.49
+3,SKI ,"Sheridan, Sandy",65.58
+3,SKI ,"Kilmer-Choi, Elaine",85.21
+3,SNBD,"Perlus, Miklos",30.9
+3,SNBD,"Kilmer-Choi, Kevin",32.19
+3,SNBD,"Oegema, Bernard",33.28
+3,SNBD,"Brock, Brad",33.54
+3,SNBD,"Farber, Joel",34.32
+3,SNBD,"Leistner, Linda",36.47
+3,SNBD,"Milthorpe, Randy",37.91
+3,SNBD,"Muntwyler, Trevor",38.12
+3,SNBD,"Kiss, Andrea",41.65
+3,SNBD,"Palmer, James",41.78
+3,SNBD,"Graham, Sydney",42.26
+3,SNBD,"Smith, John",43.7
+3,SNBD,"Ramshaw, Sheri",44.09
+3,SNBD,"Knutson, Andrea",46
+3,SNBD,"Silverberg, Dena",46.61
+3,SNBD,"Thorpe, Carey",47.83
+3,SNBD,"Kilmer-Choi, Elaine",48.13
+3,SNBD,"Livingston, Lynn",48.19
+3,SNBD,"Pearson, Mia",51.9
+4,SKI ,"McTaggart, Michael",37.96
+4,SKI ,"Wood, McLean",38.44
+4,SKI ,"Watt, Perry",38.59
+4,SKI ,"Cox, Jeff",38.79
+4,SKI ,"Gottlieb, Darren",38.93
+4,SKI ,"Henry, Shane",39.92
+4,SKI ,"Crawford, Derek",39.97
+4,SKI ,"Perlus, Miklos",40.2
+4,SKI ,"Andersen, Tom",40.31
+4,SKI ,"Beattie, Kevin",40.37
+4,SKI ,"Coward, Peter",40.37
+4,SKI ,"Hawtin, Robert",40.54
+4,SKI ,"Hambly, Shane",40.88
+4,SKI ,"Brock, Brad",41
+4,SKI ,"Beemer, John",41.03
+4,SKI ,"Glover, John",41.33
+4,SKI ,"Muntwyler, Trevor",41.47
+4,SKI ,"Caplan, Phil",41.87
+4,SKI ,"Daly, Peter",41.87
+4,SKI ,"Milthorpe, Randy",41.89
+4,SKI ,"Smitheman, Neal",42.22
+4,SKI ,"Morse, Michael",42.3
+4,SKI ,"Skelding, Neil",42.43
+4,SKI ,"Ramshaw, Doug",42.6
+4,SKI ,"Henry, Rebecca",42.68
+4,SKI ,"Merker, Iva",42.86
+4,SKI ,"Petrella, Tony",42.87
+4,SKI ,"Buzzi, Peter",42.96
+4,SKI ,"Solway, Gary",43.21
+4,SKI ,"Morrison, David",43.59
+4,SKI ,"Abbott, Brad",43.72
+4,SKI ,"Perlus, Jon",44.08
+4,SKI ,"French, Bill",44.14
+4,SKI ,"Hobbs, Barry",44.18
+4,SKI ,"Leistner, Linda",44.54
+4,SKI ,"Kilmer-Choi, Kevin",44.81
+4,SKI ,"Ramshaw, Sheri",45.15
+4,SKI ,"Livingston, Peter",45.64
+4,SKI ,"Moss, Gary",46.44
+4,SKI ,"Tattle, Dawn",46.55
+4,SKI ,"Coward, Mariann",46.88
+4,SKI ,"Graham, Sydney",47.54
+4,SKI ,"D'Amico, Angelo",47.64
+4,SKI ,"Koster, Steven",47.8
+4,SKI ,"Hambly, Nicole",47.9
+4,SKI ,"Palin, Gord",48.04
+4,SKI ,"Oegema, Bernard",48.67
+4,SKI ,"Cole-Brownlow, Heather",48.88
+4,SKI ,"Graham, Byron",48.89
+4,SKI ,"Taub, David",49.79
+4,SKI ,"Henry, Alex",49.94
+4,SKI ,"Douglas, Dorothy",50.58
+4,SKI ,"McEachen, Paul",50.72
+4,SKI ,"McDonald, Murray",51.04
+4,SKI ,"Morrison, Roz",51.42
+4,SKI ,"Berg, Jackie",51.72
+4,SKI ,"Edey, Jennifer",53.07
+4,SKI ,"Reid, Shanna",53.3
+4,SKI ,"Romano, Marilyn",54.57
+4,SKI ,"Kupka, Susan",54.81
+4,SKI ,"Sheridan, Sandy",66.77
+4,SNBD,"Perlus, Miklos",31.12
+4,SNBD,"Woodside, Terence",33.2
+4,SNBD,"Oegema, Bernard",33.27
+4,SNBD,"Kilmer-Choi, Kevin",33.68
+4,SNBD,"Brock, Brad",33.91
+4,SNBD,"Leistner, Linda",37.07
+4,SNBD,"Milthorpe, Randy",38.75
+4,SNBD,"Palmer, James",39.01
+4,SNBD,"Muntwyler, Trevor",39.11
+4,SNBD,"McEachen, Paul",39.64
+4,SNBD,"Ramshaw, Sheri",40.02
+4,SNBD,"Graham, Sydney",41.06
+4,SNBD,"Smith, John",42.08
+4,SNBD,"Silverberg, Dena",42.33
+4,SNBD,"Livingston, Lynn",44.18
+4,SNBD,"Kiss, Andrea",44.19
+4,SNBD,"Thorpe, Carey",44.57
+4,SNBD,"Knutson, Andrea",45.01
+4,SNBD,"French, Kelly",50.65
+5,SKI ,"Cox, Jeff",37.68
+5,SKI ,"Watt, Perry",37.7
+5,SKI ,"Wood, McLean",38.18
+5,SKI ,"King, Brad",38.31
+5,SKI ,"Gottlieb, Darren",38.77
+5,SKI ,"Henry, Shane",38.8
+5,SKI ,"Crawford, Derek",39.27
+5,SKI ,"Andersen, Tom",39.54
+5,SKI ,"Hambly, Shane",40.32
+5,SKI ,"Beattie, Kevin",40.43
+5,SKI ,"Glover, John",40.53
+5,SKI ,"Hawtin, Robert",40.58
+5,SKI ,"Erlick, Jeremy",40.78
+5,SKI ,"Long, Andrew",40.84
+5,SKI ,"Newall, David",40.93
+5,SKI ,"Slezic, Lana",40.97
+5,SKI ,"Beemer, John",41.01
+5,SKI ,"Muntwyler, Trevor",41.12
+5,SKI ,"Brock, Brad",41.16
+5,SKI ,"Perlus, Miklos",41.38
+5,SKI ,"Daly, Peter",41.47
+5,SKI ,"Morse, Michael",41.58
+5,SKI ,"Reid, Rob",41.74
+5,SKI ,"Petrella, Tony",42.47
+5,SKI ,"Smitheman, Neal",42.67
+5,SKI ,"Henry, Rebecca",42.74
+5,SKI ,"Kilmer-Choi, Kevin",43.12
+5,SKI ,"Leistner, Linda",43.18
+5,SKI ,"Ramshaw, Doug",43.55
+5,SKI ,"Merker, Iva",43.62
+5,SKI ,"Buzzi, Peter",43.7
+5,SKI ,"Skelding, Neil",43.74
+5,SKI ,"Abbott, Brad",43.95
+5,SKI ,"Solway, Gary",43.96
+5,SKI ,"Tadross, Nick",44.8
+5,SKI ,"Tattle, Dawn",44.82
+5,SKI ,"Morrison, David",44.92
+5,SKI ,"Hobbs, Barry",45.15
+5,SKI ,"Ramshaw, Sheri",45.3
+5,SKI ,"Williamson, Kerina",45.39
+5,SKI ,"French, Bill",45.59
+5,SKI ,"Schatzmair, Ralph",45.81
+5,SKI ,"Graham, Sydney",46.17
+5,SKI ,"Koster, Steven",46.63
+5,SKI ,"Moss, Gary",47.42
+5,SKI ,"Nicol, Heather",47.56
+5,SKI ,"Livingston, Peter",47.64
+5,SKI ,"D'Amico, Angelo",47.77
+5,SKI ,"Schatzmair, Kelly",47.8
+5,SKI ,"Graham, Byron",48.27
+5,SKI ,"Taub, David",48.73
+5,SKI ,"Palin, Gord",48.74
+5,SKI ,"Morrison, Roz",49.27
+5,SKI ,"McEachen, Paul",50.36
+5,SKI ,"Hambly, Nicole",50.39
+5,SKI ,"McDonald, Murray",50.4
+5,SKI ,"Pridham, Sue",50.42
+5,SKI ,"Cole-Brownlow, Heather",50.99
+5,SKI ,"Berg, Jackie",51.06
+5,SKI ,"Henry, Alex",51.35
+5,SKI ,"Edey, Jennifer",52.55
+5,SKI ,"Douglas, Dorothy",53.43
+5,SKI ,"Kilmer-Choi, Elaine",56.64
+5,SKI ,"Kupka, Susan",62.87
+5,SKI ,"King, Jenn",63.45
+5,SKI ,"Sheridan, Sandy",66.59
+5,SNBD,"Perlus, Miklos",30.76
+5,SNBD,"Farber, Joel",30.9
+5,SNBD,"Kilmer-Choi, Kevin",32.15
+5,SNBD,"Manley, Robin",33.17
+5,SNBD,"Woodside, Terence",33.85
+5,SNBD,"Brock, Brad",33.99
+5,SNBD,"Leistner, Linda",38.21
+5,SNBD,"McEachen, Paul",38.52
+5,SNBD,"Muntwyler, Trevor",39.72
+5,SNBD,"Ramshaw, Sheri",41.26
+5,SNBD,"Graham, Sydney",41.71
+5,SNBD,"Kiss, Andrea",42.19
+5,SNBD,"Smith, John",44.1
+5,SNBD,"Kilmer-Choi, Elaine",45.81
+5,SNBD,"Knutson, Andrea",46.4
+5,SNBD,"Livingston, Lynn",46.42
+5,SNBD,"French, Kelly",48.09
+5,SNBD,"Silverberg, Dena",48.44
+5,SNBD,"Pearson, Mia",49.47
+6,SKI ,"Parr, Jeff",35.29
+6,SKI ,"Cox, Jeff",35.69
+6,SKI ,"Wega, Greg",36.66
+6,SKI ,"Hawtin, Robert",37.56
+6,SKI ,"Garber, David",37.65
+6,SKI ,"Henry, Shane",38.26
+6,SKI ,"Bassin, Stuart",38.37
+6,SKI ,"Kamin, Lowell",38.93
+6,SKI ,"French, Don",39.13
+6,SKI ,"Andersen, Tom",39.21
+6,SKI ,"Reid, Rob",39.37
+6,SKI ,"Glover, John",40.05
+6,SKI ,"Nischan, Derek",40.69
+6,SKI ,"Beattie, Kevin",40.82
+6,SKI ,"Perlus, Miklos",42.08
+6,SKI ,"Leistner, Linda",42.53
+6,SKI ,"Pesut, Kris",42.57
+6,SKI ,"Smitheman, Neal",42.65
+6,SKI ,"Long, Andrew",42.77
+6,SKI ,"Gottlieb, Darren",42.89
+6,SKI ,"Solway, Gary",42.97
+6,SKI ,"Beemer, John",43.3
+6,SKI ,"Petrella, Tony",43.64
+6,SKI ,"Skelding, Neil",43.72
+6,SKI ,"Stewart, Perry",44.12
+6,SKI ,"Abbott, Brad",44.85
+6,SKI ,"French, Bill",45.28
+6,SKI ,"Brazier, Don",45.33
+6,SKI ,"Ramshaw, Doug",45.88
+6,SKI ,"Buzzi, Peter",46
+6,SKI ,"Perlus, Jon",46.36
+6,SKI ,"Berg, Manfred",46.53
+6,SKI ,"Hobbs, Barry",46.72
+6,SKI ,"Milthorpe, Randy",47.1
+6,SKI ,"Graham, Sydney",47.32
+6,SKI ,"Crawford, Bob",47.49
+6,SKI ,"Coward, Mariann",47.6
+6,SKI ,"Koster, Steven",47.61
+6,SKI ,"Perry, Linda",47.81
+6,SKI ,"Coward, Michael",48.31
+6,SKI ,"Livingston, Lynn",48.73
+6,SKI ,"Tadross, Nick",48.99
+6,SKI ,"Norrey, Brent",49.34
+6,SKI ,"Williamson, Kerina",49.64
+6,SKI ,"Wenge, Marni",50.75
+6,SKI ,"Livingston, Peter",51.15
+6,SKI ,"Ramshaw, Sheri",51.17
+6,SKI ,"Kiss, Andrea",51.19
+6,SKI ,"Morrison, Roz",51.57
+6,SKI ,"Thomson, Greg",52.18
+6,SKI ,"Berg, Jackie",53.96
+6,SKI ,"Kupka, Susan",54.76
+6,SKI ,"Romano, Donald",55.03
+6,SKI ,"Thomson, Cathy",55.42
+6,SKI ,"Stadelman, Ben",55.61
+6,SKI ,"Henry, Alex",55.85
+6,SKI ,"Kilmer-Choi, Elaine",57.05
+6,SKI ,"McEachen, Paul",58.24
+6,SKI ,"McDonald, Murray",59.13
+6,SKI ,"Knutson, Andrea",60.03
+6,SKI ,"Johnston, Brenda",61.52
+6,SKI ,"Wega, Audrey",64.13
+6,SKI ,"O'Brien, Sharon",74.52
+6,SNBD,"Nischan, Derek",43.55
+6,SNBD,"Hune, Brandon",44.08
+6,SNBD,"Perlus, Miklos",45.34
+6,SNBD,"Kilmer-Choi, Kevin",46.96
+6,SNBD,"Williamson, Duff",47.33
+6,SNBD,"Manley, Robin",48.82
+6,SNBD,"Woodside, Terence",50.38
+6,SNBD,"Wega, Greg",50.38
+6,SNBD,"Farber, Joel",50.92
+6,SNBD,"Milthorpe, Randy",52.94
+6,SNBD,"Leistner, Linda",53.3
+6,SNBD,"Stewart, Perry",53.37
+6,SNBD,"Ramshaw, Sheri",56.4
+6,SNBD,"McEachen, Paul",57.04
+6,SNBD,"VanGroningen, Laureen",57.98
+6,SNBD,"Palmer, James",58.72
+6,SNBD,"Town, Ken",59
+6,SNBD,"Meyerowitz, Berry",59.28
+6,SNBD,"Kilmer-Choi, Elaine",59.31
+6,SNBD,"Kiss, Andrea",60.17
+6,SNBD,"Silverberg, Dena",61.03
+6,SNBD,"Vales, Yvonne",61.65
+6,SNBD,"Knutson, Andrea",63.28
+6,SNBD,"Bennewies, Tracey",64.71
+6,SNBD,"Thorpe, Carey",67.13
+6,SNBD,"Romano, Donald",68.07
+6,SNBD,"Johnston, Brenda",68.31
+6,SNBD,"Pearson, Mia",68.52
+6,SNBD,"French, Kelly",68.57
+6,SNBD,"Ramsay, Joan",70.52
+7,SKI ,"McTaggart, Michael",38.29
+7,SKI ,"Cox, Jeff",38.73
+7,SKI ,"King, Brad",39.09
+7,SKI ,"Wood, McLean",39.2
+7,SKI ,"Crawford, Derek",39.62
+7,SKI ,"Henry, Shane",40.37
+7,SKI ,"Perlus, Miklos",41.16
+7,SKI ,"Moorhead, Peter",41.19
+7,SKI ,"Hune, Brandon",41.24
+7,SKI ,"Perreault, Joanna",41.7
+7,SKI ,"Hawtin, Robert",41.89
+7,SKI ,"Coward, Peter",42.16
+7,SKI ,"Hambly, Shane",42.49
+7,SKI ,"Andersen, Tom",42.6
+7,SKI ,"Beattie, Kevin",42.64
+7,SKI ,"Reid, Rob",42.99
+7,SKI ,"Gottlieb, Darren",43.06
+7,SKI ,"Petrella, Anika",43.42
+7,SKI ,"Coward, Laura",43.7
+7,SKI ,"Brock, Brad",43.77
+7,SKI ,"Klein, Jamie",43.91
+7,SKI ,"Henry, Rebecca",44.01
+7,SKI ,"Petrella, Tony",44.11
+7,SKI ,"Lavoie, Daniel",44.39
+7,SKI ,"Newall, David",44.4
+7,SKI ,"Muntwyler, Trevor",44.43
+7,SKI ,"Beemer, John",44.55
+7,SKI ,"Chapple, Bruce",44.7
+7,SKI ,"Morrison, David",44.96
+7,SKI ,"Ramshaw, Doug",45.01
+7,SKI ,"Garber, David",45.07
+7,SKI ,"Smitheman, Neal",45.16
+7,SKI ,"Daly, Peter",45.17
+7,SKI ,"Skelding, Neil",45.34
+7,SKI ,"Milthorpe, Randy",45.55
+7,SKI ,"Abbott, Brad",45.62
+7,SKI ,"Currie, Paul",45.76
+7,SKI ,"Leistner, Linda",46.49
+7,SKI ,"Solway, Gary",47.03
+7,SKI ,"Cameron, David",47.68
+7,SKI ,"Ramshaw, Sheri",47.76
+7,SKI ,"Buzzi, Peter",48.01
+7,SKI ,"Hobbs, Barry",48.05
+7,SKI ,"Perreault, Mitch",48.1
+7,SKI ,"Berg, Manfred",48.39
+7,SKI ,"Fridman, Richard",48.97
+7,SKI ,"Tadross, Nick",49.34
+7,SKI ,"French, Bill",49.54
+7,SKI ,"Schatzmair, Ralph",49.72
+7,SKI ,"Koster, Steven",49.96
+7,SKI ,"Palin, Gord",50.02
+7,SKI ,"Perlus, Jon",50.18
+7,SKI ,"Livingston, Peter",50.89
+7,SKI ,"Hambly, Nicole",51.05
+7,SKI ,"Klein, Joelle",51.11
+7,SKI ,"Chapman, Grant",51.18
+7,SKI ,"Coward, Mariann",51.22
+7,SKI ,"McCormack-Hamilton, Lisa",51.38
+7,SKI ,"Kahn, Stephen",52.16
+7,SKI ,"Norrey, Brent",52.19
+7,SKI ,"Mehta, Tushar",52.61
+7,SKI ,"Pridham, Sue",52.69
+7,SKI ,"Gentile, Ryan",52.96
+7,SKI ,"D'Amico, Angelo",53.27
+7,SKI ,"Blakeley, Trevor",53.76
+7,SKI ,"Henry, Alex",53.77
+7,SKI ,"Morrison, Roz",54.1
+7,SKI ,"Tattle, John",54.57
+7,SKI ,"Madge, Jason",55.18
+7,SKI ,"McEachen, Paul",55.54
+7,SKI ,"Romano, Donald",55.57
+7,SKI ,"Edey, Jennifer",55.64
+7,SKI ,"Houston, David",59.65
+7,SKI ,"Silverberg, Geoff",65.32
+7,SKI ,"Kupka, Susan",65.5
+7,SKI ,"Zarek, David",66.5
+7,SKI ,"Van Den Berg, Inge",67.5
+7,SNBD,"Hune, Brandon",31.21
+7,SNBD,"Perlus, Miklos",32.85
+7,SNBD,"Williamson, Duff",35.4
+7,SNBD,"Kilmer-Choi, Kevin",37.21
+7,SNBD,"Leistner, Linda",39.9
+7,SNBD,"Livingston, Kim",39.99
+7,SNBD,"McEachen, Paul",40.83
+7,SNBD,"Palmer, James",42.7
+7,SNBD,"Muntwyler, Trevor",43.8
+7,SNBD,"Ramshaw, Sheri",43.92
+7,SNBD,"Moorcroft, Jayme",44.69
+7,SNBD,"Kiss, Andrea",44.81
+7,SNBD,"Cameron, David",45.75
+7,SNBD,"Milthorpe, Randy",46.06
+7,SNBD,"Romano, Donald",48.34
+7,SNBD,"Silverberg, Dena",50.5
+7,SNBD,"Kupka, Dave",55.64
+8,SKI ,"McTaggart, Michael",37.66
+8,SKI ,"King, Brad",38.49
+8,SKI ,"Parr, Jeff",38.5
+8,SKI ,"Cox, Jeff",39.16
+8,SKI ,"Wood, McLean",39.52
+8,SKI ,"Crawford, Derek",39.62
+8,SKI ,"Henry, Shane",40.44
+8,SKI ,"Gottlieb, Darren",40.74
+8,SKI ,"Hambly, Shane",40.89
+8,SKI ,"Perlus, Miklos",41.13
+8,SKI ,"Hune, Brandon",41.17
+8,SKI ,"Coward, Peter",41.22
+8,SKI ,"Park, Jason",41.25
+8,SKI ,"Coward, Laura",41.3
+8,SKI ,"Perreault, Joanna",41.74
+8,SKI ,"Brock, Brad",42.1
+8,SKI ,"Beemer, John",42.24
+8,SKI ,"Andersen, Tom",42.25
+8,SKI ,"Muntwyler, Trevor",42.57
+8,SKI ,"Beattie, Kevin",42.59
+8,SKI ,"Petrella, Anika",42.83
+8,SKI ,"Glover, John",42.84
+8,SKI ,"Lavoie, Daniel",42.9
+8,SKI ,"Garber, David",43.08
+8,SKI ,"Morse, Michael",43.76
+8,SKI ,"Leistner, Linda",44.1
+8,SKI ,"Henry, Rebecca",44.12
+8,SKI ,"Klein, Jamie",44.19
+8,SKI ,"Chapple, Bruce",44.21
+8,SKI ,"Newall, David",44.58
+8,SKI ,"Daly, Peter",44.62
+8,SKI ,"Silverberg, Geoff",45.26
+8,SKI ,"Perreault, Mitch",45.35
+8,SKI ,"Ramshaw, Doug",45.43
+8,SKI ,"Currie, Paul",45.46
+8,SKI ,"Milthorpe, Randy",45.46
+8,SKI ,"Abbott, Brad",45.59
+8,SKI ,"Smitheman, Neal",45.88
+8,SKI ,"McCormack-Hamilton, Lisa",46.3
+8,SKI ,"Solway, Gary",46.68
+8,SKI ,"Ramshaw, Sheri",46.93
+8,SKI ,"Tadross, Nick",47.44
+8,SKI ,"Norrey, Brent",47.74
+8,SKI ,"Buzzi, Peter",47.86
+8,SKI ,"Fridman, Richard",47.94
+8,SKI ,"Nicol, Heather",47.95
+8,SKI ,"Koster, Steven",48.12
+8,SKI ,"Livingston, Peter",48.29
+8,SKI ,"Schatzmair, Ralph",48.75
+8,SKI ,"Klein, Joelle",49.41
+8,SKI ,"Chapman, Grant",49.43
+8,SKI ,"Gentile, Ryan",49.48
+8,SKI ,"French, Bill",50.04
+8,SKI ,"Palin, Gord",50.29
+8,SKI ,"Henry, Alex",50.52
+8,SKI ,"Mehta, Tushar",50.76
+8,SKI ,"Kahn, Stephen",51.26
+8,SKI ,"McEachen, Paul",51.75
+8,SKI ,"Tattle, John",51.85
+8,SKI ,"Coward, Mariann",52.11
+8,SKI ,"Tse, Jennifer",52.39
+8,SKI ,"Morrison, Roz",52.85
+8,SKI ,"Edey, Jennifer",53.84
+8,SKI ,"Oegema, Bernard",54.53
+8,SKI ,"Schatzmair, Kelly",55.63
+8,SKI ,"Madge, Jason",56.81
+8,SKI ,"Van Den Berg, Inge",60.76
+8,SKI ,"Kupka, Susan",61.71
+8,SNBD,"Hune, Brandon",33.75
+8,SNBD,"Perlus, Miklos",36.86
+8,SNBD,"Kilmer-Choi, Kevin",37.54
+8,SNBD,"Woodside, Terence",39.11
+8,SNBD,"Williamson, Duff",39.74
+8,SNBD,"Farber, Joel",41.28
+8,SNBD,"Oegema, Bernard",41.44
+8,SNBD,"Livingston, Kim",42.04
+8,SNBD,"Leistner, Linda",43.82
+8,SNBD,"McEachen, Paul",45.7
+8,SNBD,"Palmer, James",47.61
+8,SNBD,"Kiss, Andrea",47.88
+8,SNBD,"Ramshaw, Sheri",48.1
+8,SNBD,"Berger, David",48.12
+8,SNBD,"Milthorpe, Randy",48.58
+8,SNBD,"Muntwyler, Trevor",48.96
+8,SNBD,"Silverberg, Dena",51.3
+8,SNBD,"Kupka, Dave",59.99
+9,SKI ,"Parr, Jeff",37.51
+9,SKI ,"Cox, Jeff",37.59
+9,SKI ,"King, Brad",37.68
+9,SKI ,"Wood, McLean",37.88
+9,SKI ,"Henry, Shane",38.11
+9,SKI ,"Gottlieb, Darren",38.29
+9,SKI ,"Crawford, Derek",38.66
+9,SKI ,"Park, Jason",38.82
+9,SKI ,"Beattie, Kevin",39.06
+9,SKI ,"Moorhead, Peter",39.19
+9,SKI ,"Hambly, Shane",39.35
+9,SKI ,"Hawtin, Robert",39.61
+9,SKI ,"Coward, Peter",39.66
+9,SKI ,"Coward, Laura",39.69
+9,SKI ,"Beemer, John",39.74
+9,SKI ,"Andersen, Tom",39.79
+9,SKI ,"Garber, David",40.07
+9,SKI ,"Reid, Rob",40.11
+9,SKI ,"Klein, Jamie",40.16
+9,SKI ,"Perreault, Joanna",40.34
+9,SKI ,"Petrella, Anika",40.5
+9,SKI ,"Lavoie, Daniel",40.61
+9,SKI ,"Morse, Michael",40.69
+9,SKI ,"Chapple, Bruce",40.96
+9,SKI ,"Henry, Rebecca",41.38
+9,SKI ,"Daly, Peter",41.5
+9,SKI ,"Berg, Manfred",41.67
+9,SKI ,"Milthorpe, Randy",41.93
+9,SKI ,"Cameron, David",41.97
+9,SKI ,"Leistner, Linda",42.05
+9,SKI ,"Silverberg, Geoff",42.08
+9,SKI ,"Abbott, Brad",42.38
+9,SKI ,"Skelding, Neil",42.41
+9,SKI ,"Perreault, Mitch",42.55
+9,SKI ,"Currie, Paul",42.73
+9,SKI ,"Ramshaw, Doug",43.01
+9,SKI ,"Tadross, Nick",43.19
+9,SKI ,"Petrella, Tony",43.26
+9,SKI ,"Solway, Gary",43.35
+9,SKI ,"Schatzmair, Ralph",43.46
+9,SKI ,"Buzzi, Peter",43.64
+9,SKI ,"Ramshaw, Sheri",43.72
+9,SKI ,"Morrison, David",43.77
+9,SKI ,"Chapman, Grant",44
+9,SKI ,"French, Bill",44.24
+9,SKI ,"McCormack-Hamilton, Lisa",44.37
+9,SKI ,"Tse, Jennifer",44.5
+9,SKI ,"Livingston, Peter",44.75
+9,SKI ,"Hambly, Nicole",45.02
+9,SKI ,"Nicol, Heather",45.58
+9,SKI ,"Fridman, Richard",45.86
+9,SKI ,"Perlus, Jon",45.88
+9,SKI ,"Coward, Mariann",46.05
+9,SKI ,"Mehta, Tushar",46.75
+9,SKI ,"Klein, Joelle",47.02
+9,SKI ,"Palin, Gord",47.07
+9,SKI ,"Madge, Jason",47.52
+9,SKI ,"Pridham, Sue",48.72
+9,SKI ,"Kahn, Stephen",48.9
+9,SKI ,"Berg, Jackie",49.31
+9,SKI ,"Morrison, Roz",49.36
+9,SKI ,"Oegema, Bernard",50.75
+9,SKI ,"Tattle, John",51.6
+9,SKI ,"Houston, David",55.26
+9,SKI ,"Kupka, Susan",55.41
+9,SKI ,"Van Den Berg, Inge",55.53
+9,SKI ,"Zarek, David",57.23
+9,SNBD,"Livingston, Kim",54.8
+9,SNBD,"Williamson, Duff",55.27
+9,SNBD,"Kilmer-Choi, Kevin",55.69
+9,SNBD,"Woodside, Terence",58.13
+9,SNBD,"Oegema, Bernard",60.22
+9,SNBD,"Moorcroft, Jayme",63.26
+9,SNBD,"Leistner, Linda",63.83
+9,SNBD,"Kiss, Andrea",64.53
+9,SNBD,"Ramshaw, Sheri",66.03
+9,SNBD,"Cameron, David",67.92
+9,SNBD,"Kupka, Dave",80.1
+9,SNBD,"Silverberg, Dena",89.76
+10,SKI ,"McTaggart, Michael",36.43
+10,SKI ,"Cox, Jeff",38
+10,SKI ,"King, Brad",38.16
+10,SKI ,"Gottlieb, Darren",38.46
+10,SKI ,"Henry, Shane",38.72
+10,SKI ,"Park, Jason",39.56
+10,SKI ,"Hune, Brandon",39.61
+10,SKI ,"Coward, Peter",39.66
+10,SKI ,"Moorhead, Peter",39.83
+10,SKI ,"Hawtin, Robert",39.93
+10,SKI ,"Perreault, Joanna",40
+10,SKI ,"Perlus, Miklos",40.1
+10,SKI ,"Andersen, Tom",40.16
+10,SKI ,"Coward, Laura",40.59
+10,SKI ,"Brock, Brad",40.9
+10,SKI ,"Beattie, Kevin",41
+10,SKI ,"Garber, David",41.09
+10,SKI ,"Petrella, Anika",41.37
+10,SKI ,"Beemer, John",41.42
+10,SKI ,"Lavoie, Daniel",41.54
+10,SKI ,"Klein, Jamie",42.01
+10,SKI ,"Glover, John",42.02
+10,SKI ,"Perreault, Mitch",42.44
+10,SKI ,"Ramshaw, Doug",42.58
+10,SKI ,"Henry, Rebecca",42.66
+10,SKI ,"Daly, Peter",42.72
+10,SKI ,"Skelding, Neil",42.78
+10,SKI ,"Petrella, Tony",43.68
+10,SKI ,"Milthorpe, Randy",44.04
+10,SKI ,"Currie, Paul",44.36
+10,SKI ,"Tadross, Nick",44.37
+10,SKI ,"Cameron, David",44.42
+10,SKI ,"Berg, Manfred",44.45
+10,SKI ,"Perlus, Jon",45.02
+10,SKI ,"French, Bill",45.19
+10,SKI ,"Chapman, Grant",45.38
+10,SKI ,"McCormack-Hamilton, Lisa",45.83
+10,SKI ,"Fridman, Richard",45.91
+10,SKI ,"Ramshaw, Sheri",46.04
+10,SKI ,"Nicol, Heather",46.33
+10,SKI ,"Coward, Mariann",46.53
+10,SKI ,"Tse, Jennifer",46.56
+10,SKI ,"Klein, Joelle",47.09
+10,SKI ,"Mehta, Tushar",47.18
+10,SKI ,"Kahn, Stephen",47.57
+10,SKI ,"Livingston, Peter",47.72
+10,SKI ,"Gentile, Ryan",47.89
+10,SKI ,"Morrison, Roz",47.96
+10,SKI ,"Blakeley, Trevor",48.65
+10,SKI ,"Madge, Jason",49.64
+10,SKI ,"Henry, Alex",49.73
+10,SKI ,"Tattle, John",50.19
+10,SKI ,"Palin, Gord",50.46
+10,SKI ,"Oegema, Bernard",50.61
+10,SKI ,"Edey, Jennifer",51.45
+10,SKI ,"Schatzmair, Kelly",52.17
+10,SKI ,"Pridham, Sue",52.23
+10,SKI ,"Romano, Donald",52.43
+10,SKI ,"Kupka, Susan",53.76
+10,SKI ,"Houston, David",54.63
+10,SKI ,"Van Den Berg, Inge",57.33
+10,SNBD,"Hune, Brandon",31
+10,SNBD,"Perlus, Miklos",33.61
+10,SNBD,"Farber, Joel",34.73
+10,SNBD,"Woodside, Terence",35.18
+10,SNBD,"Williamson, Duff",35.73
+10,SNBD,"Kilmer-Choi, Kevin",37.89
+10,SNBD,"Livingston, Kim",38.7
+10,SNBD,"Oegema, Bernard",39.09
+10,SNBD,"Leistner, Linda",39.88
+10,SNBD,"McEachen, Paul",42.36
+10,SNBD,"Ramshaw, Sheri",43.19
+10,SNBD,"Palmer, James",43.59
+10,SNBD,"Cameron, David",45.18
+10,SNBD,"Berger, David",45.31
+10,SNBD,"Romano, Donald",46.6
+10,SNBD,"Milthorpe, Randy",47.67
+10,SNBD,"Moorcroft, Jayme",48.24
+10,SNBD,"Silverberg, Dena",51.81
+11,SKI ,"McTaggart, Michael",23.8
+11,SKI ,"Cox, Jeff",24.7
+11,SKI ,"Crawford, Derek",25.23
+11,SKI ,"Parr, Jeff",25.74
+11,SKI ,"Cotnam, Sean",25.97
+11,SKI ,"Perreault, Joanna",26.11
+11,SKI ,"Hune, Brandon",26.58
+11,SKI ,"Reid, Rob",26.71
+11,SKI ,"Petrella, Anika",27.09
+11,SKI ,"Hambly, Shane",27.14
+11,SKI ,"Daly, Peter",27.57
+11,SKI ,"Smitheman, Neal",27.73
+11,SKI ,"Andersen, Tom",27.79
+11,SKI ,"Hawtin, Robert",27.81
+11,SKI ,"Garber, David",27.93
+11,SKI ,"Lavoie, Daniel",28.25
+11,SKI ,"Chapple, Bruce",28.32
+11,SKI ,"Park, Jason",28.44
+11,SKI ,"Brennan, Christine",28.69
+11,SKI ,"Beattie, Kevin",28.88
+11,SKI ,"Ramshaw, Doug",29.08
+11,SKI ,"Glover, John",29.42
+11,SKI ,"Muntwyler, Trevor",29.58
+11,SKI ,"Elder, Jeff",29.75
+11,SKI ,"Perreault, Mitch",30.05
+11,SKI ,"Bugler, Lisa",30.51
+11,SKI ,"Leistner, Linda",30.56
+11,SKI ,"Currie, Paul",30.65
+11,SKI ,"Abbott, Brad",31.2
+11,SKI ,"Kilmer-Choi, Kevin",31.29
+11,SKI ,"Ramshaw, Sheri",31.47
+11,SKI ,"Coward, Mariann",31.51
+11,SKI ,"Kiss, Andrea",31.55
+11,SKI ,"Livingston, Peter",31.76
+11,SKI ,"Milthorpe, Randy",32.06
+11,SKI ,"Dan, Steve",32.31
+11,SKI ,"Koster, Steven",32.46
+11,SKI ,"Gentile, Ryan",32.52
+11,SKI ,"Fridman, Richard",32.54
+11,SKI ,"Blakeley, Trevor",33.08
+11,SKI ,"Norrey, Brent",33.2
+11,SKI ,"Nicholson, Carla",33.32
+11,SKI ,"McGillivray, Allison",33.49
+11,SKI ,"Morrison, Roz",34.11
+11,SKI ,"Pridham, Sue",34.14
+11,SKI ,"Taub, David",34.16
+11,SKI ,"Palin, Gord",34.17
+11,SKI ,"Nicol, Heather",34.28
+11,SKI ,"McKean, Craig",35.66
+11,SKI ,"Brennan, Rebecca",35.69
+11,SKI ,"Cooke, Chris",35.99
+11,SKI ,"Mehta, Tushar",36.63
+11,SKI ,"Low, Carey",37.34
+11,SKI ,"Allan, Christine",37.98
+11,SKI ,"Edey, Jennifer",38.58
+11,SKI ,"Graham, Byron",38.6
+11,SKI ,"Ross, Felicia",38.77
+11,SKI ,"Tucci, Adrian",39.83
+11,SKI ,"Fuchs, Steffen",40.09
+11,SKI ,"Oegema, Bernard",40.13
+11,SNBD,"Kilmer-Choi, Kevin",38.35
+11,SNBD,"Oegema, Bernard",39.04
+11,SNBD,"Leistner, Linda",41.44
+11,SNBD,"Farber, Joel",41.99
+11,SNBD,"Kiss, Andrea",44.01
+11,SNBD,"Ramshaw, Sheri",44.77
+11,SNBD,"Cameron, David",45.9
+11,SNBD,"Palmer, James",46.37
+11,SNBD,"Nesbitt, Justin",48.67
+11,SNBD,"McDonald, D'Arcy",48.93
+11,SNBD,"McKean, Craig",58.26
+12,SKI ,"McTaggart, Michael",36.71
+12,SKI ,"Weinberg, Cale",37.73
+12,SKI ,"King, Brad",38.16
+12,SKI ,"Parr, Jeff",38.2
+12,SKI ,"Kansun, Rob",38.21
+12,SKI ,"Cox, Jeff",38.22
+12,SKI ,"Kansun, Jeff",38.42
+12,SKI ,"Gottlieb, Darren",38.81
+12,SKI ,"Wood, McLean",38.82
+12,SKI ,"Henry, Shane",38.86
+12,SKI ,"Cotnam, Sean",39.02
+12,SKI ,"Crawford, Derek",39.08
+12,SKI ,"Hune, Brandon",39.29
+12,SKI ,"Coward, Laura",39.99
+12,SKI ,"Beattie, Kevin",40.12
+12,SKI ,"Perreault, Joanna",40.44
+12,SKI ,"Muntwyler, Trevor",40.46
+12,SKI ,"Moorhead, Peter",40.53
+12,SKI ,"Hambly, Shane",40.53
+12,SKI ,"Reid, Rob",40.53
+12,SKI ,"Petrella, Anika",40.7
+12,SKI ,"Andersen, Tom",40.86
+12,SKI ,"Hawtin, Robert",40.91
+12,SKI ,"Garber, David",40.98
+12,SKI ,"Daly, Peter",41.57
+12,SKI ,"Beemer, John",41.61
+12,SKI ,"Elder, Jeff",41.85
+12,SKI ,"Perlus, Miklos",42.16
+12,SKI ,"Lavoie, Daniel",42.2
+12,SKI ,"Chapple, Bruce",42.24
+12,SKI ,"Ramshaw, Doug",42.59
+12,SKI ,"Milthorpe, Randy",42.6
+12,SKI ,"Smitheman, Neal",42.75
+12,SKI ,"Henry, Rebecca",42.8
+12,SKI ,"Leistner, Linda",42.93
+12,SKI ,"Brennan, Christine",42.94
+12,SKI ,"Petrella, Tony",43.24
+12,SKI ,"Perreault, Mitch",43.83
+12,SKI ,"Kilmer-Choi, Kevin",43.87
+12,SKI ,"Currie, Paul",43.87
+12,SKI ,"Bugler, Lisa",44.04
+12,SKI ,"Berg, Manfred",44.94
+12,SKI ,"Abbott, Brad",45.03
+12,SKI ,"Freedman, Amy",45.32
+12,SKI ,"Coward, Mariann",45.67
+12,SKI ,"Schatzmair, Ralph",45.68
+12,SKI ,"Norrey, Brent",45.73
+12,SKI ,"Timmins, Becky",45.74
+12,SKI ,"Cooke, Chris",45.81
+12,SKI ,"Kiss, Andrea",46.04
+12,SKI ,"Fridman, Richard",46.56
+12,SKI ,"Klein, Joelle",46.69
+12,SKI ,"Taub, David",46.72
+12,SKI ,"Dan, Steve",46.73
+12,SKI ,"Livingston, Peter",46.84
+12,SKI ,"Ramshaw, Sheri",47.41
+12,SKI ,"Nicol, Heather",47.46
+12,SKI ,"Koster, Steven",47.79
+12,SKI ,"Perlus, Jon",47.92
+12,SKI ,"McGillivray, Allison",48.23
+12,SKI ,"Low, Carey",48.33
+12,SKI ,"Fuchs, Steffen",48.34
+12,SKI ,"Mehta, Tushar",48.37
+12,SKI ,"Gentile, Ryan",48.68
+12,SKI ,"Brennan, Rebecca",48.93
+12,SKI ,"Palin, Gord",49.03
+12,SKI ,"McKean, Craig",49.38
+12,SKI ,"Pridham, Sue",49.89
+12,SKI ,"Graham, Byron",49.96
+12,SKI ,"Madge, Jason",50.25
+12,SKI ,"Edey, Jennifer",50.4
+12,SKI ,"Nicholson, Carla",50.57
+12,SKI ,"Morrison, Roz",51.01
+12,SKI ,"Henry, Alex",51.61
+12,SKI ,"Gingrich, Wayne",52.08
+12,SKI ,"Perlus, Joanna",52.32
+12,SKI ,"Allan, Christine",52.51
+12,SKI ,"Ross, Felicia",52.64
+12,SKI ,"Houston, David",52.89
+12,SKI ,"Oegema, Bernard",53.02
+12,SKI ,"Schatzmair, Kelly",54.62
+12,SKI ,"Kupka, Susan",56.42
+12,SKI ,"Zarek, David",59.72
+12,SNBD,"Hune, Brandon",30.12
+12,SNBD,"Perlus, Miklos",31.93
+12,SNBD,"Woodside, Terence",33.04
+12,SNBD,"Farber, Joel",34.9
+12,SNBD,"Kilmer-Choi, Kevin",35.67
+12,SNBD,"Oegema, Bernard",35.71
+12,SNBD,"McEachen, Paul",37.07
+12,SNBD,"Milthorpe, Randy",38.63
+12,SNBD,"Muntwyler, Trevor",38.96
+12,SNBD,"Leistner, Linda",39.65
+12,SNBD,"Palmer, James",40.34
+12,SNBD,"Cameron, David",40.56
+12,SNBD,"McDonald, D'Arcy",40.89
+12,SNBD,"Nesbitt, Justin",41.93
+12,SNBD,"Kiss, Andrea",42.44
+12,SNBD,"Ramshaw, Sheri",43.28
+12,SNBD,"McKean, Craig",47.21
+12,SNBD,"Perlus, Joanna",51.14
+13,SKI ,"McTaggart, Michael",35.54
+13,SKI ,"Cox, Jeff",36.73
+13,SKI ,"Weinberg, Cale",37.02
+13,SKI ,"King, Brad",37.29
+13,SKI ,"Henry, Shane",37.59
+13,SKI ,"Parr, Jeff",37.69
+13,SKI ,"Crawford, Derek",37.94
+13,SKI ,"Gottlieb, Darren",37.99
+13,SKI ,"Park, Jason",38.26
+13,SKI ,"Cotnam, Sean",38.31
+13,SKI ,"Hune, Brandon",38.49
+13,SKI ,"Wood, McLean",38.54
+13,SKI ,"Beattie, Kevin",38.77
+13,SKI ,"Coward, Laura",38.82
+13,SKI ,"Hawtin, Robert",38.98
+13,SKI ,"Moorhead, Peter",39.18
+13,SKI ,"Perlus, Miklos",39.19
+13,SKI ,"Garber, David",39.37
+13,SKI ,"Hambly, Shane",39.44
+13,SKI ,"Beemer, John",39.54
+13,SKI ,"Petrella, Anika",39.6
+13,SKI ,"Andersen, Tom",39.61
+13,SKI ,"Perreault, Joanna",39.73
+13,SKI ,"Muntwyler, Trevor",40.1
+13,SKI ,"Brennan, Christine",40.2
+13,SKI ,"Ramshaw, Doug",40.22
+13,SKI ,"Reid, Rob",40.25
+13,SKI ,"Daly, Peter",40.37
+13,SKI ,"Glover, John",40.55
+13,SKI ,"Milthorpe, Randy",40.57
+13,SKI ,"Elder, Jeff",40.64
+13,SKI ,"Leistner, Linda",40.96
+13,SKI ,"Smitheman, Neal",40.99
+13,SKI ,"Petrella, Tony",41.47
+13,SKI ,"Perreault, Mitch",41.48
+13,SKI ,"Morrison, David",41.65
+13,SKI ,"Norrey, Brent",41.85
+13,SKI ,"Henry, Rebecca",41.95
+13,SKI ,"Currie, Paul",42.13
+13,SKI ,"Lavoie, Daniel",42.18
+13,SKI ,"Kilmer-Choi, Kevin",42.35
+13,SKI ,"Cooke, Chris",42.47
+13,SKI ,"Freedman, Amy",42.54
+13,SKI ,"Dan, Steve",42.82
+13,SKI ,"Abbott, Brad",42.86
+13,SKI ,"Brennan, Rebecca",43.46
+13,SKI ,"Schatzmair, Ralph",43.5
+13,SKI ,"Klein, Joelle",43.94
+13,SKI ,"Fridman, Richard",44.07
+13,SKI ,"Bugler, Lisa",44.17
+13,SKI ,"Silverberg, Geoff",44.23
+13,SKI ,"Coward, Mariann",44.56
+13,SKI ,"Kiss, Andrea",44.59
+13,SKI ,"Perlus, Jon",44.85
+13,SKI ,"Koster, Steven",44.88
+13,SKI ,"Palin, Gord",45.22
+13,SKI ,"Nicol, Heather",45.34
+13,SKI ,"Mehta, Tushar",45.35
+13,SKI ,"Livingston, Peter",45.37
+13,SKI ,"Gentile, Ryan",45.47
+13,SKI ,"Ramshaw, Sheri",45.6
+13,SKI ,"Blakeley, Trevor",46.1
+13,SKI ,"McKean, Craig",46.44
+13,SKI ,"Berrang, Rudy",46.78
+13,SKI ,"Graham, Byron",46.86
+13,SKI ,"McGillivray, Allison",47.35
+13,SKI ,"Madge, Jason",47.48
+13,SKI ,"Gingrich, Wayne",47.95
+13,SKI ,"Nicholson, Carla",48.88
+13,SKI ,"Pridham, Sue",49.06
+13,SKI ,"Perlus, Joanna",49.12
+13,SKI ,"Schatzmair, Kelly",49.19
+13,SKI ,"Henry, Alex",49.73
+13,SKI ,"Edey, Jennifer",49.77
+13,SKI ,"Allan, Christine",50.23
+13,SKI ,"Fuchs, Steffen",50.91
+13,SKI ,"Kupka, Susan",52.79
+13,SKI ,"Zarek, David",55.69
+13,SNBD,"Hune, Brandon",29.59
+13,SNBD,"Perlus, Miklos",32.27
+13,SNBD,"Farber, Joel",32.58
+13,SNBD,"Woodside, Terence",33.58
+13,SNBD,"Kilmer-Choi, Kevin",35.39
+13,SNBD,"Leistner, Linda",39.22
+13,SNBD,"Milthorpe, Randy",41.19
+13,SNBD,"Muntwyler, Trevor",41.31
+13,SNBD,"Cameron, David",41.35
+13,SNBD,"Palmer, James",42.75
+13,SNBD,"McKean, Craig",43.09
+13,SNBD,"Kiss, Andrea",44.32
+13,SNBD,"McDonald, D'Arcy",44.6
+13,SNBD,"Nesbitt, Justin",44.85
+13,SNBD,"Ramshaw, Sheri",45.86
+13,SNBD,"Perlus, Joanna",49.63
+13,SNBD,"Silverberg, Dena",49.72
+14,SKI ,"McTaggart, Michael",36.44
+14,SKI ,"Cox, Jeff",37.16
+14,SKI ,"King, Brad",37.51
+14,SKI ,"Crawford, Derek",38.05
+14,SKI ,"Henry, Shane",38.36
+14,SKI ,"Parr, Jeff",38.43
+14,SKI ,"Hune, Brandon",38.74
+14,SKI ,"Park, Jason",38.92
+14,SKI ,"Cotnam, Sean",38.94
+14,SKI ,"Moorhead, Peter",39.16
+14,SKI ,"Coward, Laura",39.67
+14,SKI ,"Beattie, Kevin",39.89
+14,SKI ,"Hawtin, Robert",40.06
+14,SKI ,"Petrella, Anika",40.4
+14,SKI ,"Glover, John",40.67
+14,SKI ,"Perlus, Miklos",40.7
+14,SKI ,"Garber, David",41.12
+14,SKI ,"Beemer, John",41.12
+14,SKI ,"Brennan, Christine",41.18
+14,SKI ,"Muntwyler, Trevor",41.21
+14,SKI ,"Elder, Jeff",41.26
+14,SKI ,"Cooke, Chris",41.26
+14,SKI ,"Perreault, Joanna",41.29
+14,SKI ,"Smitheman, Neal",41.57
+14,SKI ,"Reid, Rob",41.58
+14,SKI ,"Chapple, Bruce",41.85
+14,SKI ,"Perreault, Mitch",42
+14,SKI ,"Kilmer-Choi, Kevin",42.07
+14,SKI ,"Milthorpe, Randy",42.23
+14,SKI ,"Ramshaw, Doug",42.5
+14,SKI ,"Daly, Peter",42.56
+14,SKI ,"Leistner, Linda",42.61
+14,SKI ,"Brennan, Rebecca",42.64
+14,SKI ,"Henry, Rebecca",42.78
+14,SKI ,"Berg, Manfred",43.09
+14,SKI ,"Currie, Paul",43.1
+14,SKI ,"Petrella, Tony",43.29
+14,SKI ,"Bugler, Lisa",43.55
+14,SKI ,"Abbott, Brad",43.58
+14,SKI ,"Coward, Mariann",44.44
+14,SKI ,"Fridman, Richard",44.47
+14,SKI ,"Dan, Steve",44.55
+14,SKI ,"Lavoie, Daniel",44.99
+14,SKI ,"McKean, Craig",45.44
+14,SKI ,"Gentile, Ryan",45.56
+14,SKI ,"Ramshaw, Sheri",46.4
+14,SKI ,"Kiss, Andrea",46.52
+14,SKI ,"Nicol, Heather",46.71
+14,SKI ,"Blakeley, Trevor",46.71
+14,SKI ,"Koster, Steven",46.94
+14,SKI ,"Timmins, Becky",46.96
+14,SKI ,"Mehta, Tushar",46.97
+14,SKI ,"Livingston, Peter",47.34
+14,SKI ,"Low, Carey",47.42
+14,SKI ,"Gingrich, Wayne",47.84
+14,SKI ,"Madge, Jason",48.08
+14,SKI ,"Palin, Gord",48.08
+14,SKI ,"Graham, Byron",48.58
+14,SKI ,"Pridham, Sue",48.71
+14,SKI ,"Morrison, Roz",50.09
+14,SKI ,"Perlus, Joanna",50.72
+14,SKI ,"Oegema, Bernard",52.76
+14,SKI ,"Zarek, David",56.76
+14,SNBD,"Hune, Brandon",28.94
+14,SNBD,"Perlus, Miklos",31.37
+14,SNBD,"Farber, Joel",31.84
+14,SNBD,"Kilmer-Choi, Kevin",32.38
+14,SNBD,"Woodside, Terence",33.76
+14,SNBD,"Leistner, Linda",38.46
+14,SNBD,"Oegema, Bernard",38.73
+14,SNBD,"Milthorpe, Randy",39.02
+14,SNBD,"McKean, Craig",39.69
+14,SNBD,"McDonald, D'Arcy",40.04
+14,SNBD,"Cameron, David",40.22
+14,SNBD,"Muntwyler, Trevor",40.35
+14,SNBD,"Palmer, James",40.57
+14,SNBD,"Nesbitt, Justin",41.77
+14,SNBD,"Ramshaw, Sheri",43.78
+14,SNBD,"Kiss, Andrea",46.6
+14,SNBD,"Perlus, Joanna",47.11
+15,SKI ,"McTaggart, Michael",41.95
+15,SKI ,"Parr, Jeff",43.18
+15,SKI ,"King, Brad",43.41
+15,SKI ,"Park, Jason",43.81
+15,SKI ,"Cox, Jeff",43.96
+15,SKI ,"Crawford, Derek",44.01
+15,SKI ,"Henry, Shane",44.27
+15,SKI ,"Wood, McLean",44.56
+15,SKI ,"Hune, Brandon",45.18
+15,SKI ,"Cotnam, Sean",45.27
+15,SKI ,"Perlus, Miklos",45.35
+15,SKI ,"Perreault, Joanna",45.69
+15,SKI ,"Glover, John",46.16
+15,SKI ,"Hawtin, Robert",46.44
+15,SKI ,"Elder, Jeff",46.47
+15,SKI ,"Brennan, Christine",46.52
+15,SKI ,"Beemer, John",46.58
+15,SKI ,"Petrella, Anika",46.58
+15,SKI ,"Moorhead, Peter",46.66
+15,SKI ,"Milthorpe, Randy",46.77
+15,SKI ,"Coward, Laura",46.84
+15,SKI ,"Daly, Peter",46.93
+15,SKI ,"Ramshaw, Doug",47.61
+15,SKI ,"Smitheman, Neal",48.06
+15,SKI ,"Chapple, Bruce",48.17
+15,SKI ,"Petrella, Tony",48.44
+15,SKI ,"Cooke, Chris",48.54
+15,SKI ,"Abbott, Brad",48.86
+15,SKI ,"Kilmer-Choi, Kevin",48.91
+15,SKI ,"Reid, Rob",49.03
+15,SKI ,"Leistner, Linda",49.15
+15,SKI ,"Lavoie, Daniel",49.22
+15,SKI ,"Berg, Manfred",49.22
+15,SKI ,"Freedman, Amy",49.27
+15,SKI ,"Brennan, Rebecca",49.32
+15,SKI ,"Currie, Paul",49.56
+15,SKI ,"Perreault, Mitch",49.77
+15,SKI ,"Norrey, Brent",50.3
+15,SKI ,"Nicol, Heather",50.71
+15,SKI ,"Bugler, Lisa",51.15
+15,SKI ,"Fridman, Richard",51.55
+15,SKI ,"Coward, Mariann",52.1
+15,SKI ,"Gentile, Ryan",52.41
+15,SKI ,"Kiss, Andrea",52.7
+15,SKI ,"Taub, David",52.93
+15,SKI ,"Berrang, Rudy",52.96
+15,SKI ,"Livingston, Peter",53.3
+15,SKI ,"Timmins, Becky",53.41
+15,SKI ,"Mehta, Tushar",53.43
+15,SKI ,"Ramshaw, Sheri",53.56
+15,SKI ,"Low, Carey",53.93
+15,SKI ,"Koster, Steven",54.45
+15,SKI ,"Blakeley, Trevor",54.56
+15,SKI ,"Klein, Joelle",54.75
+15,SKI ,"Palin, Gord",54.79
+15,SKI ,"Gingrich, Wayne",54.81
+15,SKI ,"McKean, Craig",54.86
+15,SKI ,"Madge, Jason",55.05
+15,SKI ,"Morrison, Roz",55.1
+15,SKI ,"Henry, Alex",55.16
+15,SKI ,"Pridham, Sue",55.8
+15,SKI ,"Graham, Byron",56.31
+15,SKI ,"Fuchs, Steffen",56.46
+15,SKI ,"Edey, Jennifer",58.92
+15,SKI ,"Perlus, Joanna",59.28
+15,SKI ,"Houston, David",59.44
+15,SKI ,"Oegema, Bernard",60.59
+15,SKI ,"Kupka, Susan",65.62
+15,SKI ,"Zarek, David",68.6
+15,SNBD,"Perlus, Miklos",32.8
+15,SNBD,"Woodside, Terence",34.9
+15,SNBD,"Kilmer-Choi, Kevin",36.41
+15,SNBD,"Oegema, Bernard",39.15
+15,SNBD,"Muntwyler, Trevor",41.09
+15,SNBD,"Cameron, David",41.26
+15,SNBD,"Milthorpe, Randy",41.81
+15,SNBD,"McDonald, D'Arcy",42.39
+15,SNBD,"Leistner, Linda",42.45
+15,SNBD,"Palmer, James",43.11
+15,SNBD,"McEachen, Paul",43.2
+15,SNBD,"McKean, Craig",44.58
+15,SNBD,"Nesbitt, Justin",44.89
+15,SNBD,"Kiss, Andrea",46.34
+15,SNBD,"Ramshaw, Sheri",46.68
+15,SNBD,"Perlus, Joanna",51.49
+15,SNBD,"Silverberg, Dena",55.18
+16,SKI ,"Weinberg, Cale",35.72
+16,SKI ,"Kofman, Jordan",35.81
+16,SKI ,"Cox, Jeff",36.03
+16,SKI ,"Wood, McLean",36.35
+16,SKI ,"Parr, Jeff",36.71
+16,SKI ,"King, Brad",37.06
+16,SKI ,"Crawford, Derek",37.27
+16,SKI ,"Henry, Shane",37.82
+16,SKI ,"Kansun, Rob",37.95
+16,SKI ,"Moorhead, Peter",38.58
+16,SKI ,"Coward, Laura",38.93
+16,SKI ,"Hawtin, Robert",39
+16,SKI ,"Andersen, Tom",39.19
+16,SKI ,"Beattie, Kevin",39.5
+16,SKI ,"Petrella, Anika",39.9
+16,SKI ,"Berrang, Sarah",40.1
+16,SKI ,"Brock, Brad",40.19
+16,SKI ,"Garber, David",40.41
+16,SKI ,"Perlus, Miklos",40.45
+16,SKI ,"Cotnam, Sean",40.66
+16,SKI ,"Daly, Peter",40.79
+16,SKI ,"Ramshaw, Doug",40.83
+16,SKI ,"Cox, Alana",41.4
+16,SKI ,"Leistner, Linda",41.94
+16,SKI ,"Kilmer-Choi, Kevin",42.22
+16,SKI ,"Newall, David",42.37
+16,SKI ,"Henry, Rebecca",42.49
+16,SKI ,"Elder, Jeff",42.75
+16,SKI ,"French, Don",42.77
+16,SKI ,"Norrey, Brent",43.37
+16,SKI ,"Cooke, Chris",43.49
+16,SKI ,"Milthorpe, Randy",43.57
+16,SKI ,"Kiss, Andrea",43.68
+16,SKI ,"Dan, Steve",43.73
+16,SKI ,"Petrella, Tony",43.8
+16,SKI ,"Tadross, Nick",44.26
+16,SKI ,"Bugler, Lisa",44.28
+16,SKI ,"Perreault, Mitch",44.34
+16,SKI ,"Fridman, Richard",44.45
+16,SKI ,"Cameron, David",44.57
+16,SKI ,"Lepholtz, Chris",44.78
+16,SKI ,"Beemer, John",45.23
+16,SKI ,"Capek, Catherine",45.44
+16,SKI ,"Coward, Mariann",45.53
+16,SKI ,"Brennan, Rebecca",46.05
+16,SKI ,"Alexander Ash, Sue",46.19
+16,SKI ,"Silverberg, Geoff",46.19
+16,SKI ,"Gelfand, Michael",46.27
+16,SKI ,"Herrmann, Chris",47.3
+16,SKI ,"Gentile, Ryan",47.44
+16,SKI ,"Howden, Rick",47.48
+16,SKI ,"Koster, Steven",47.59
+16,SKI ,"Graham, Byron",47.73
+16,SKI ,"Livingston, Peter",47.87
+16,SKI ,"Duffy, Earl",48.05
+16,SKI ,"Mehta, Tushar",48.15
+16,SKI ,"Perlus, Joanna",48.35
+16,SKI ,"Morrison, Roz",48.67
+16,SKI ,"Klein, Joelle",48.86
+16,SKI ,"Page, Krystal",49.03
+16,SKI ,"Henry, Alex",49.39
+16,SKI ,"Ramshaw, Sheri",49.5
+16,SKI ,"Nicholson, Carla",50.66
+16,SKI ,"McKean, Craig",51.05
+16,SKI ,"Gingrich, Wayne",51.5
+16,SKI ,"Thomson, Cathy",51.53
+16,SKI ,"Berrang, Rudy",51.57
+16,SKI ,"Brennan, Bill",51.6
+16,SKI ,"Madge, Jason",52.59
+16,SKI ,"Palin, Gord",52.81
+16,SKI ,"Forrest, Rod",54.08
+16,SKI ,"Houston, David",55.5
+16,SKI ,"Skelding, Fiona",60.57
+16,SKI ,"Kirkpatrick, Chris",60.8
+16,SKI ,"Reedie, Derek",64.52
+16,SKI ,"Gelfand, Sara",65.85
+16,SKI ,"Reedie, Crystal",66.94
+16,SKI ,"Vanags, Laura",71.71
+16,SNBD,"Hune, Brandon",29.4
+16,SNBD,"Perlus, Miklos",33.48
+16,SNBD,"Williamson, Duff",33.75
+16,SNBD,"Woodside, Terence",34.04
+16,SNBD,"Farber, Joel",35.45
+16,SNBD,"Kilmer-Choi, Kevin",36.57
+16,SNBD,"Leistner, Linda",40.09
+16,SNBD,"McDonald, D'Arcy",40.26
+16,SNBD,"Kiss, Andrea",40.26
+16,SNBD,"Milthorpe, Randy",41.2
+16,SNBD,"McKean, Craig",42.05
+16,SNBD,"McEachen, Paul",43.63
+16,SNBD,"Huxley, Ben",44.83
+16,SNBD,"Cameron, David",45.88
+16,SNBD,"Thorpe, Carey",46.65
+16,SNBD,"Thielmann, Paul",47.28
+16,SNBD,"Perlus, Joanna",47.56
+16,SNBD,"Ramshaw, Sheri",48.01
+16,SNBD,"Knutson, Andrea",48.07
+16,SNBD,"Kupka, Dave",53.9
+16,SNBD,"Silverberg, Dena",58.19
+17,SKI ,"Weinberg, Cale",35.28
+17,SKI ,"McTaggart, Michael",36.04
+17,SKI ,"Kofman, Jordan",36.62
+17,SKI ,"Kansun, Jeff",37.1
+17,SKI ,"Parr, Jeff",37.14
+17,SKI ,"Hune, Brandon",37.25
+17,SKI ,"King, Brad",37.34
+17,SKI ,"Kansun, Rob",37.65
+17,SKI ,"Crawford, Derek",37.87
+17,SKI ,"Henry, Shane",38.1
+17,SKI ,"Wood, McLean",38.11
+17,SKI ,"Perlus, Miklos",38.5
+17,SKI ,"Petrella, Anika",38.79
+17,SKI ,"Park, Jason",39.19
+17,SKI ,"Hambly, Shane",39.45
+17,SKI ,"Coward, Laura",39.58
+17,SKI ,"Cotnam, Sean",39.74
+17,SKI ,"Moorhead, Peter",39.92
+17,SKI ,"Beattie, Kevin",40.31
+17,SKI ,"Garber, David",40.33
+17,SKI ,"Glover, John",40.81
+17,SKI ,"Brock, Brad",40.92
+17,SKI ,"Daly, Peter",40.97
+17,SKI ,"Elder, Jeff",41.1
+17,SKI ,"Andersen, Tom",41.23
+17,SKI ,"Cooke, Chris",41.39
+17,SKI ,"French, Don",41.9
+17,SKI ,"Cox, Alana",41.96
+17,SKI ,"Leistner, Linda",41.99
+17,SKI ,"Beemer, John",42.12
+17,SKI ,"Newall, David",42.67
+17,SKI ,"Ramshaw, Doug",42.79
+17,SKI ,"Henry, Rebecca",43.34
+17,SKI ,"Fridman, Richard",43.49
+17,SKI ,"Perreault, Mitch",43.59
+17,SKI ,"Dan, Steve",43.68
+17,SKI ,"Norrey, Brent",43.71
+17,SKI ,"Kiss, Andrea",43.92
+17,SKI ,"Kilmer-Choi, Kevin",43.99
+17,SKI ,"Cameron, David",44.17
+17,SKI ,"Petrella, Tony",44.41
+17,SKI ,"Nicol, Heather",44.43
+17,SKI ,"Gentile, Ryan",44.5
+17,SKI ,"Bugler, Lisa",44.53
+17,SKI ,"Alexander Ash, Sue",45.34
+17,SKI ,"Duffy, Earl",45.68
+17,SKI ,"Mehta, Tushar",45.8
+17,SKI ,"Coward, Mariann",45.82
+17,SKI ,"Page, Krystal",46.17
+17,SKI ,"Herrmann, Chris",46.18
+17,SKI ,"Berg, Manfred",46.25
+17,SKI ,"Milthorpe, Randy",46.31
+17,SKI ,"Forrest, Rod",46.73
+17,SKI ,"Howden, Rick",47.21
+17,SKI ,"Tadross, Nick",47.32
+17,SKI ,"Gelfand, Michael",47.33
+17,SKI ,"Koster, Steven",48
+17,SKI ,"Klein, Joelle",48.09
+17,SKI ,"Berrang, Rudy",48.58
+17,SKI ,"McKean, Craig",48.87
+17,SKI ,"Henry, Alex",49.31
+17,SKI ,"Graham, Byron",49.58
+17,SKI ,"Nicholson, Carla",50.26
+17,SKI ,"Ramshaw, Sheri",50.33
+17,SKI ,"Gingrich, Wayne",50.72
+17,SKI ,"Perlus, Joanna",51.05
+17,SKI ,"Morrison, Roz",51.22
+17,SKI ,"Brennan, Bill",51.6
+17,SKI ,"Palin, Gord",52.35
+17,SKI ,"Madge, Jason",53.18
+17,SKI ,"Houston, David",54.75
+17,SKI ,"Skelding, Fiona",56.53
+17,SKI ,"Kirkpatrick, Chris",56.71
+17,SKI ,"Reedie, Derek",58.56
+17,SKI ,"Vanags, Laura",61.17
+17,SKI ,"Gelfand, Sara",62.73
+17,SNBD,"Hune, Brandon",28.2
+17,SNBD,"Perlus, Miklos",31.96
+17,SNBD,"Williamson, Duff",33.59
+17,SNBD,"Kilmer-Choi, Kevin",37.18
+17,SNBD,"Leistner, Linda",39.51
+17,SNBD,"McDonald, D'Arcy",39.86
+17,SNBD,"McEachen, Paul",41.73
+17,SNBD,"Kiss, Andrea",41.83
+17,SNBD,"Milthorpe, Randy",42.14
+17,SNBD,"McKean, Craig",42.77
+17,SNBD,"Cameron, David",43.04
+17,SNBD,"Huxley, Ben",43.33
+17,SNBD,"Ramshaw, Sheri",44.6
+17,SNBD,"Knutson, Andrea",46.56
+17,SNBD,"Thorpe, Carey",48.11
+17,SNBD,"Perlus, Joanna",48.7
+17,SNBD,"Kupka, Dave",54.83
+17,SNBD,"Silverberg, Dena",54.85
+18,SKI ,"Weinberg, Cale",31.71
+18,SKI ,"McTaggart, Michael",32.79
+18,SKI ,"Cox, Jeff",33.43
+18,SKI ,"King, Brad",34.36
+18,SKI ,"Crawford, Derek",35.01
+18,SKI ,"Hune, Brandon",35.32
+18,SKI ,"Park, Jason",36.15
+18,SKI ,"Parr, Jeff",36.22
+18,SKI ,"Henry, Shane",36.27
+18,SKI ,"Garber, David",37.49
+18,SKI ,"French, Don",38.01
+18,SKI ,"Brock, Brad",38.16
+18,SKI ,"Cotnam, Sean",38.23
+18,SKI ,"Hawtin, Robert",38.45
+18,SKI ,"Petrella, Anika",38.75
+18,SKI ,"Hambly, Shane",39.35
+18,SKI ,"Berrang, Sarah",39.82
+18,SKI ,"Perlus, Miklos",39.89
+18,SKI ,"Beattie, Kevin",40.1
+18,SKI ,"Daly, Peter",40.27
+18,SKI ,"Moorhead, Peter",40.34
+18,SKI ,"Glover, John",41.15
+18,SKI ,"Petrella, Tony",41.4
+18,SKI ,"Elder, Jeff",42.11
+18,SKI ,"Henry, Rebecca",42.28
+18,SKI ,"Cox, Alana",42.54
+18,SKI ,"Cooke, Chris",42.63
+18,SKI ,"Leistner, Linda",43.17
+18,SKI ,"Dan, Steve",43.62
+18,SKI ,"Beemer, John",44.59
+18,SKI ,"Silverberg, Geoff",44.72
+18,SKI ,"Coward, Laura",44.89
+18,SKI ,"Kilmer-Choi, Kevin",44.91
+18,SKI ,"Fridman, Richard",45.23
+18,SKI ,"Cameron, David",45.54
+18,SKI ,"Ramshaw, Doug",45.66
+18,SKI ,"Alexander Ash, Sue",46.09
+18,SKI ,"Norrey, Brent",46.16
+18,SKI ,"Perreault, Mitch",46.63
+18,SKI ,"Kiss, Andrea",46.89
+18,SKI ,"Bugler, Lisa",47.31
+18,SKI ,"Mehta, Tushar",48.04
+18,SKI ,"Howden, Rick",48.14
+18,SKI ,"Coward, Mariann",48.14
+18,SKI ,"Forrest, Rod",48.59
+18,SKI ,"Lepholtz, Chris",48.79
+18,SKI ,"Milthorpe, Randy",49.69
+18,SKI ,"Nicol, Heather",49.72
+18,SKI ,"Berg, Manfred",50.36
+18,SKI ,"Koster, Steven",50.4
+18,SKI ,"Perlus, Joanna",51.62
+18,SKI ,"Livingston, Peter",52.06
+18,SKI ,"McKean, Craig",52.11
+18,SKI ,"Brennan, Bill",52.77
+18,SKI ,"Gingrich, Wayne",54.16
+18,SKI ,"Henry, Alex",55.81
+18,SKI ,"Madge, Jason",55.86
+18,SKI ,"Nicholson, Carla",56.08
+18,SKI ,"Palin, Gord",56.18
+18,SKI ,"Ramshaw, Sheri",56.94
+18,SKI ,"Thomson, Cathy",58.76
+18,SKI ,"Vanags, Laura",60.89
+18,SKI ,"Brennan, Rebecca",65.96
+18,SNBD,"Perlus, Miklos",39.26
+18,SNBD,"Woodside, Terence",44.78
+18,SNBD,"Williamson, Duff",45.27
+18,SNBD,"Kilmer-Choi, Kevin",46.12
+18,SNBD,"McDonald, D'Arcy",46.9
+18,SNBD,"Leistner, Linda",51.86
+18,SNBD,"Cameron, David",53.41
+18,SNBD,"Huxley, Ben",53.77
+18,SNBD,"McKean, Craig",56.26
+18,SNBD,"Kiss, Andrea",56.75
+18,SNBD,"Ramshaw, Sheri",57.33
+18,SNBD,"Perlus, Joanna",58.9
+18,SNBD,"Knutson, Andrea",59.23
+18,SNBD,"Silverberg, Dena",61.8
+18,SNBD,"Kupka, Dave",64.46
+19,SKI ,"Kofman, Jordan",43.17
+19,SKI ,"Cox, Jeff",43.93
+19,SKI ,"Crawford, Derek",44.49
+19,SKI ,"Wood, McLean",45.11
+19,SKI ,"Parr, Jeff",45.27
+19,SKI ,"King, Brad",45.56
+19,SKI ,"Henry, Shane",45.64
+19,SKI ,"Park, Jason",45.84
+19,SKI ,"Cotnam, Sean",46.54
+19,SKI ,"Berrang, Sarah",46.74
+19,SKI ,"Coward, Laura",46.76
+19,SKI ,"Brock, Brad",46.85
+19,SKI ,"Petrella, Anika",46.96
+19,SKI ,"Perlus, Miklos",47.11
+19,SKI ,"Beattie, Kevin",47.12
+19,SKI ,"Elder, Jeff",47.25
+19,SKI ,"Andersen, Tom",47.59
+19,SKI ,"Daly, Peter",48.14
+19,SKI ,"Garber, David",48.3
+19,SKI ,"Glover, John",48.56
+19,SKI ,"Henry, Rebecca",48.91
+19,SKI ,"Beemer, John",48.92
+19,SKI ,"Perreault, Mitch",49.32
+19,SKI ,"French, Don",49.6
+19,SKI ,"Cox, Alana",49.91
+19,SKI ,"Leistner, Linda",50.01
+19,SKI ,"Ramshaw, Doug",50.05
+19,SKI ,"Duffy, Earl",50.76
+19,SKI ,"Norrey, Brent",51.19
+19,SKI ,"Bugler, Lisa",51.19
+19,SKI ,"Milthorpe, Randy",51.33
+19,SKI ,"Dan, Steve",51.37
+19,SKI ,"Petrella, Tony",51.54
+19,SKI ,"Berg, Manfred",51.74
+19,SKI ,"Cameron, David",51.82
+19,SKI ,"Kilmer-Choi, Kevin",51.85
+19,SKI ,"Herrmann, Chris",52.54
+19,SKI ,"Silverberg, Geoff",52.61
+19,SKI ,"Tadross, Nick",53.12
+19,SKI ,"Gentile, Ryan",53.36
+19,SKI ,"Kiss, Andrea",53.43
+19,SKI ,"Mehta, Tushar",54.33
+19,SKI ,"Alexander Ash, Sue",54.35
+19,SKI ,"Lepholtz, Chris",54.63
+19,SKI ,"Klein, Joelle",54.64
+19,SKI ,"Page, Krystal",54.64
+19,SKI ,"Ramshaw, Sheri",54.84
+19,SKI ,"Howden, Rick",54.94
+19,SKI ,"Livingston, Peter",55.21
+19,SKI ,"Coward, Mariann",55.31
+19,SKI ,"Nicol, Heather",56.06
+19,SKI ,"Graham, Byron",57.7
+19,SKI ,"Nicholson, Carla",58.63
+19,SKI ,"Perlus, Joanna",58.91
+19,SKI ,"Koster, Steven",59.14
+19,SKI ,"McKean, Craig",59.51
+19,SKI ,"Brennan, Bill",59.67
+19,SKI ,"Gingrich, Wayne",59.92
+19,SKI ,"Henry, Alex",60.86
+19,SKI ,"Madge, Jason",61.69
+19,SKI ,"Romano, Donald",62.32
+19,SKI ,"Reedie, Crystal",63.04
+19,SKI ,"Palin, Gord",63.69
+19,SKI ,"Vanags, Laura",65.65
+19,SKI ,"Houston, David",66.27
+19,SKI ,"Reedie, Derek",66.34
+19,SKI ,"Morrison, Roz",66.97
+19,SKI ,"Thomson, Cathy",68.46
+19,SKI ,"Kirkpatrick, Chris",71.65
+19,SKI ,"Skelding, Fiona",75.58
+19,SNBD,"Perlus, Miklos",31.23
+19,SNBD,"Hune, Brandon",31.74
+19,SNBD,"Farber, Joel",32.4
+19,SNBD,"Woodside, Terence",33.01
+19,SNBD,"Kilmer-Choi, Kevin",37.4
+19,SNBD,"Leistner, Linda",37.68
+19,SNBD,"McDonald, D'Arcy",38.43
+19,SNBD,"McKean, Craig",39.09
+19,SNBD,"Milthorpe, Randy",39.5
+19,SNBD,"Cameron, David",40.85
+19,SNBD,"McEachen, Paul",41.34
+19,SNBD,"Huxley, Ben",42.04
+19,SNBD,"Ramshaw, Sheri",42.22
+19,SNBD,"Kiss, Andrea",44.93
+19,SNBD,"Romano, Donald",47.84
+19,SNBD,"Kupka, Dave",48.05
+19,SNBD,"Perlus, Joanna",49.25
+19,SNBD,"Silverberg, Dena",54.24
+1017,SKI ,"Kofman, Jordan",25.53
+1017,SKI ,"Weinberg, Cale",25.83
+1017,SKI ,"Kansun, Rob",26.16
+1017,SKI ,"McTaggart, Michael",26.43
+1017,SKI ,"Cox, Jeff",26.63
+1017,SKI ,"Hune, Brandon",26.71
+1017,SKI ,"Wood, McLean",26.99
+1017,SKI ,"Petrella, Anika",27.08
+1017,SKI ,"DeGeer, Trevor",27.16
+1017,SKI ,"Crawford, Derek",27.25
+1017,SKI ,"Daly, Thomas",27.58
+1017,SKI ,"Kansun, Alexandra",27.66
+1017,SKI ,"Henry, Shane",27.96
+1017,SKI ,"Coward, Laura",28.07
+1017,SKI ,"Daly, Michael",28.3
+1017,SKI ,"Kolber, Daniel",28.33
+1017,SKI ,"Gottlieb, Darren",28.67
+1017,SKI ,"Brock, Brad",28.77
+1017,SKI ,"Perlus, Miklos",28.79
+1017,SKI ,"Park, Jason",28.86
+1017,SKI ,"Andersen, Tom",28.98
+1017,SKI ,"Henry, Rebecca",29.02
+1017,SKI ,"Elder, Jeff",29.31
+1017,SKI ,"Daly, Peter",29.45
+1017,SKI ,"Moorhead, Peter",29.61
+1017,SKI ,"Ramshaw, Doug",29.7
+1017,SKI ,"French, Don",29.74
+1017,SKI ,"Perreault, Joanna",29.81
+1017,SKI ,"Glover, John",29.82
+1017,SKI ,"DeGeer, Lisa",29.86
+1017,SKI ,"Cox, Alana",29.99
+1017,SKI ,"Laurie, Mark",30.09
+1017,SKI ,"Cooke, Chris",30.1
+1017,SKI ,"Newall, David",30.25
+1017,SKI ,"Kofman, Peter",30.45
+1017,SKI ,"Johnson, Mike",30.59
+1017,SKI ,"Perreault, Mitch",30.65
+1017,SKI ,"Petrella, Tony",30.88
+1017,SKI ,"Morrison, David",30.92
+1017,SKI ,"Currie, Paul",31.15
+1017,SKI ,"Diamond, Matthew",31.26
+1017,SKI ,"Duffy, Earl",31.47
+1017,SKI ,"Smitheman, Neal",31.47
+1017,SKI ,"Laurie, Nathan",31.74
+1017,SKI ,"Kilmer-Choi, Kevin",31.88
+1017,SKI ,"Kiss, Andrea",32.22
+1017,SKI ,"Norrey, Brent",32.34
+1017,SKI ,"Fraiberg, Corey",32.94
+1017,SKI ,"Gentile, Ryan",33.03
+1017,SKI ,"Livingston, Peter",33.22
+1017,SKI ,"Goren, Robyn",33.45
+1017,SKI ,"Coward, Mariann",33.57
+1017,SKI ,"Lepholtz, Chris",33.74
+1017,SKI ,"Kofman, Lori",33.82
+1017,SKI ,"Williamson, Kerina",34.36
+1017,SKI ,"Koster, Steven",34.52
+1017,SKI ,"McKean, Craig",34.64
+1017,SKI ,"Tadross, Nick",34.81
+1017,SKI ,"Perlus, Joanna",35.8
+1017,SKI ,"Laski, Brian",35.81
+1017,SKI ,"Mehta, Tushar",35.85
+1017,SKI ,"Schatzmair, Ralph",35.97
+1017,SKI ,"Graham, Byron",36.06
+1017,SKI ,"Heldman, Theo",36.88
+1017,SKI ,"Henry, Alex",36.98
+1017,SKI ,"Palin, Gord",37.22
+1017,SKI ,"Morrison, Roz",37.82
+1017,SKI ,"Oegema, Bernard",38.19
+1017,SKI ,"Pirnia, Hassan",38.38
+1017,SKI ,"Kansun, Morris",38.64
+1017,SKI ,"Lewis, Michael",39
+1017,SKI ,"Howden, Rick",39.49
+1017,SKI ,"Kofman, Courtney",43.32
+1017,SKI ,"Laurie, Talia",45.21
+1017,SKI ,"Morrison, Deb",47.4
+1017,SKI ,"Laurie, Bonnie",50.21
+1017,SKI ,"Nemtean, Ariel",51.71
+1018,SKI ,"Kofman, Jordan",25.48
+1018,SKI ,"McTaggart, Michael",25.69
+1018,SKI ,"Cox, Jeff",26.15
+1018,SKI ,"Hune, Brandon",26.51
+1018,SKI ,"DeGeer, Trevor",26.62
+1018,SKI ,"Wood, McLean",26.77
+1018,SKI ,"Henry, Shane",26.78
+1018,SKI ,"Daly, Thomas",26.79
+1018,SKI ,"King, Brad",27.09
+1018,SKI ,"Coward, Laura",27.33
+1018,SKI ,"Cotnam, Sean",27.85
+1018,SKI ,"Kolber, Daniel",28
+1018,SKI ,"Daly, Michael",28.12
+1018,SKI ,"Petrella, Anika",28.22
+1018,SKI ,"Crawford, Derek",28.3
+1018,SKI ,"Perlus, Miklos",28.89
+1018,SKI ,"Moorhead, Peter",29.09
+1018,SKI ,"Elder, Jeff",29.27
+1018,SKI ,"Perreault, Joanna",29.39
+1018,SKI ,"Brock, Brad",29.45
+1018,SKI ,"Cox, Alana",29.51
+1018,SKI ,"Henry, Rebecca",29.58
+1018,SKI ,"Garber, David",29.6
+1018,SKI ,"Leistner-Lavoie, Melanie",29.78
+1018,SKI ,"Andersen, Tom",29.83
+1018,SKI ,"Daly, Peter",29.93
+1018,SKI ,"Laurie, Mark",29.97
+1018,SKI ,"Jacobs, Barry",30.04
+1018,SKI ,"Reid, Rob",30.05
+1018,SKI ,"Ramshaw, Doug",30.12
+1018,SKI ,"Beattie, Kevin",30.23
+1018,SKI ,"French, Don",30.28
+1018,SKI ,"Wortzman, David",30.4
+1018,SKI ,"Glover, John",30.67
+1018,SKI ,"Beemer, John",31.26
+1018,SKI ,"Kilmer-Choi, Kevin",31.3
+1018,SKI ,"Kofman, Peter",31.32
+1018,SKI ,"Bugler, Lisa",31.42
+1018,SKI ,"Newall, David",31.56
+1018,SKI ,"Duffy, Earl",31.67
+1018,SKI ,"Cooke, Chris",31.69
+1018,SKI ,"Leistner, Linda",31.8
+1018,SKI ,"Sax, Daniel",32.13
+1018,SKI ,"Tadross, Nick",32.26
+1018,SKI ,"Perreault, Mitch",32.33
+1018,SKI ,"Diamond, Matthew",32.34
+1018,SKI ,"Gentile, Ryan",32.85
+1018,SKI ,"Norrey, Brent",32.89
+1018,SKI ,"Gelfand, Michael",32.92
+1018,SKI ,"Fridman, Richard",33
+1018,SKI ,"Petrella, Tony",33.2
+1018,SKI ,"Howden, Rick",33.22
+1018,SKI ,"Fraiberg, Corey",33.75
+1018,SKI ,"Coward, Mariann",33.75
+1018,SKI ,"Kiss, Andrea",33.96
+1018,SKI ,"Milthorpe, Randy",34.08
+1018,SKI ,"Currie, Paul",34.28
+1018,SKI ,"Ramshaw, Sheri",34.37
+1018,SKI ,"Page, Krystal",34.6
+1018,SKI ,"Perlus, Joanna",34.62
+1018,SKI ,"Mehta, Tushar",34.68
+1018,SKI ,"Heldman, Theo",34.84
+1018,SKI ,"Nicol, Heather",34.92
+1018,SKI ,"Pirnia, Hassan",34.92
+1018,SKI ,"Kofman, Lori",35.02
+1018,SKI ,"Graham, Byron",35.07
+1018,SKI ,"Livingston, Peter",35.44
+1018,SKI ,"Schatzmair, Ralph",35.77
+1018,SKI ,"Herrmann, Chris",35.9
+1018,SKI ,"Goren, Robyn",35.95
+1018,SKI ,"Heldman, Sandra",36.23
+1018,SKI ,"Koster, Steven",36.26
+1018,SKI ,"Blakeley, Trevor",36.3
+1018,SKI ,"Henry, Alex",37.14
+1018,SKI ,"Pridham, Sue",38.01
+1018,SKI ,"Palin, Gord",38.04
+1018,SKI ,"Ravoth, Joachim",38.09
+1018,SKI ,"Oegema, Bernard",38.96
+1018,SKI ,"Kofman, Courtney",38.96
+1018,SKI ,"Tarle, Sarah",39.22
+1018,SKI ,"Morrison, Roz",39.42
+1018,SKI ,"Sharland, Stephen",41.33
+1018,SKI ,"Laurie, Talia",42.76
+1018,SKI ,"Kolber, Jonathan",43.35
+1018,SKI ,"Schloo, Jonathan",45.67
+1018,SNBD,"Hune, Brandon",30.8
+1018,SNBD,"Perlus, Miklos",33.11
+1018,SNBD,"Kilmer-Choi, Kevin",34.74
+1018,SNBD,"Woodside, Terence",35.13
+1018,SNBD,"Farber, Joel",35.64
+1018,SNBD,"Selonka, Aaron",37.31
+1018,SNBD,"Oegema, Bernard",38.89
+1018,SNBD,"Leistner, Linda",40.5
+1018,SNBD,"McEachen, Paul",40.58
+1018,SNBD,"Milthorpe, Randy",40.71
+1018,SNBD,"McDonald, D'Arcy",41.27
+1018,SNBD,"Howden, Rick",43.48
+1018,SNBD,"Ramshaw, Sheri",43.73
+1018,SNBD,"Kiss, Andrea",44.95
+1018,SNBD,"Huxley, Ben",45
+1018,SNBD,"Goren, Robyn",45.36
+1018,SNBD,"Kilmer-Choi, Elaine",45.4
+1018,SNBD,"Perlus, Joanna",47.84
+1018,SNBD,"Taylor, Kyla",52.65
+1019,SKI ,"Kofman, Jordan",24.83
+1019,SKI ,"Weinberg, Cale",25.22
+1019,SKI ,"Cox, Jeff",26.02
+1019,SKI ,"McTaggart, Michael",26.33
+1019,SKI ,"Wood, McLean",26.4
+1019,SKI ,"Kansun, Rob",26.46
+1019,SKI ,"DeGeer, Trevor",26.66
+1019,SKI ,"King, Brad",26.68
+1019,SKI ,"Daly, Thomas",27.27
+1019,SKI ,"Hune, Brandon",27.29
+1019,SKI ,"Henry, Shane",27.41
+1019,SKI ,"Daly, Michael",27.46
+1019,SKI ,"Hawtin, Robert",27.98
+1019,SKI ,"Perlus, Miklos",28.31
+1019,SKI ,"Kansun, Jeff",28.41
+1019,SKI ,"Crawford, Derek",28.49
+1019,SKI ,"Petrella, Anika",28.57
+1019,SKI ,"Ramshaw, Doug",28.59
+1019,SKI ,"Moorhead, Peter",28.7
+1019,SKI ,"Kolber, Daniel",28.71
+1019,SKI ,"DeGeer, Lisa",28.91
+1019,SKI ,"Parr, Mike",29.02
+1019,SKI ,"Reid, Rob",29.34
+1019,SKI ,"Perreault, Joanna",29.38
+1019,SKI ,"Hambly, Shane",29.48
+1019,SKI ,"Cotnam, Sean",29.56
+1019,SKI ,"Garber, David",29.77
+1019,SKI ,"Elder, Jeff",29.89
+1019,SKI ,"Laurie, Mark",29.93
+1019,SKI ,"French, Don",30.2
+1019,SKI ,"Wortzman, David",30.3
+1019,SKI ,"Andersen, Tom",30.41
+1019,SKI ,"Cox, Alana",30.5
+1019,SKI ,"Glover, John",30.55
+1019,SKI ,"Henry, Rebecca",30.82
+1019,SKI ,"Beattie, Kevin",30.88
+1019,SKI ,"Brock, Brad",30.91
+1019,SKI ,"Newall, David",30.99
+1019,SKI ,"Daly, Peter",31.27
+1019,SKI ,"Perreault, Mitch",31.4
+1019,SKI ,"Beemer, John",31.53
+1019,SKI ,"Kansun, Alexandra",31.93
+1019,SKI ,"Kilmer-Choi, Kevin",31.94
+1019,SKI ,"Bugler, Lisa",32
+1019,SKI ,"Kofman, Peter",32.16
+1019,SKI ,"Sax, Daniel",32.29
+1019,SKI ,"Diamond, Matthew",32.64
+1019,SKI ,"Leistner, Linda",32.81
+1019,SKI ,"Tadross, Nick",32.84
+1019,SKI ,"Cooke, Chris",32.87
+1019,SKI ,"Currie, Paul",33.24
+1019,SKI ,"Silverberg, Geoff",33.32
+1019,SKI ,"Duffy, Earl",33.37
+1019,SKI ,"Norrey, Brent",33.59
+1019,SKI ,"Milthorpe, Randy",33.73
+1019,SKI ,"Heldman, Theo",33.82
+1019,SKI ,"Fridman, Richard",33.88
+1019,SKI ,"Ramshaw, Sheri",33.99
+1019,SKI ,"Jacobs, Barry",34.04
+1019,SKI ,"Page, Krystal",34.17
+1019,SKI ,"Kiss, Andrea",34.37
+1019,SKI ,"Howden, Rick",34.49
+1019,SKI ,"Nicol, Heather",34.59
+1019,SKI ,"Kansun, Morris",34.6
+1019,SKI ,"Kofman, Lori",34.94
+1019,SKI ,"Petrella, Tony",35.1
+1019,SKI ,"Fraiberg, Corey",35.3
+1019,SKI ,"Herrmann, Chris",35.61
+1019,SKI ,"Gelfand, Michael",35.63
+1019,SKI ,"Gentile, Ryan",35.84
+1019,SKI ,"Graham, Byron",36.04
+1019,SKI ,"Laski, Brian",36.22
+1019,SKI ,"Koster, Steven",36.4
+1019,SKI ,"Ravoth, Joachim",36.84
+1019,SKI ,"Kofman, Courtney",37.07
+1019,SKI ,"Blakeley, Trevor",37.33
+1019,SKI ,"Henry, Alex",37.43
+1019,SKI ,"Goren, Robyn",37.64
+1019,SKI ,"Sharland, Stephen",37.87
+1019,SKI ,"Heldman, Sandra",37.95
+1019,SKI ,"Livingston, Peter",38.17
+1019,SKI ,"Pridham, Sue",38.28
+1019,SKI ,"Palin, Gord",38.71
+1019,SKI ,"Morrison, Roz",39.21
+1019,SKI ,"Oegema, Bernard",40.04
+1019,SKI ,"Tarle, Sarah",40.29
+1019,SKI ,"Laurie, Talia",41.19
+1019,SKI ,"Tucci, Adrian",41.32
+1019,SKI ,"Gelfand, Sara",44.63
+1019,SKI ,"Schloo, Jonathan",49.94
+1019,SNBD,"Hune, Brandon",34.8
+1019,SNBD,"Perlus, Miklos",36.24
+1019,SNBD,"Woodside, Terence",37.19
+1019,SNBD,"Kilmer-Choi, Kevin",39.31
+1019,SNBD,"Selonka, Aaron",40.7
+1019,SNBD,"Oegema, Bernard",42.56
+1019,SNBD,"Farber, Joel",43.58
+1019,SNBD,"Leistner, Linda",44.97
+1019,SNBD,"McEachen, Paul",45.4
+1019,SNBD,"McDonald, D'Arcy",45.51
+1019,SNBD,"Kiss, Andrea",47.5
+1019,SNBD,"Huxley, Ben",48
+1019,SNBD,"Milthorpe, Randy",48.45
+1019,SNBD,"Leistner-Lavoie, Melanie",48.71
+1019,SNBD,"Ramshaw, Sheri",49.88
+1019,SNBD,"Howden, Rick",49.92
+1019,SNBD,"Kilmer-Choi, Elaine",50.77
+1019,SNBD,"Goren, Robyn",52.65
+1019,SNBD,"Silverberg, Dena",52.76
+1019,SNBD,"Taylor, Kyla",62.49
+1020,SKI ,"Parr, Mike",33.47
+1020,SKI ,"McTaggart, Michael",34.9
+1020,SKI ,"King, Brad",35.5
+1020,SKI ,"Wood, McLean",36.15
+1020,SKI ,"Daly, Michael",37.48
+1020,SKI ,"Hune, Brandon",37.66
+1020,SKI ,"Crawford, Derek",37.97
+1020,SKI ,"Petrella, Anika",38.56
+1020,SKI ,"Moorhead, Peter",38.85
+1020,SKI ,"Coward, Laura",39.05
+1020,SKI ,"Garber, David",39.07
+1020,SKI ,"Park, Jason",39.63
+1020,SKI ,"Hawtin, Robert",39.64
+1020,SKI ,"Cotnam, Sean",39.9
+1020,SKI ,"Brock, Brad",40.08
+1020,SKI ,"Henry, Shane",40.76
+1020,SKI ,"French, Don",41.04
+1020,SKI ,"Daly, Thomas",41.3
+1020,SKI ,"Beattie, Kevin",41.35
+1020,SKI ,"Henry, Rebecca",41.35
+1020,SKI ,"Andersen, Tom",42.06
+1020,SKI ,"Laurie, Mark",42.95
+1020,SKI ,"Sax, Daniel",43
+1020,SKI ,"Kolber, Daniel",43.08
+1020,SKI ,"Elder, Jeff",43.12
+1020,SKI ,"Reid, Rob",43.22
+1020,SKI ,"Duffy, Earl",43.42
+1020,SKI ,"Cox, Alana",43.63
+1020,SKI ,"Perreault, Joanna",43.71
+1020,SKI ,"Glover, John",44.69
+1020,SKI ,"Wortzman, David",44.77
+1020,SKI ,"Petrella, Tony",45.1
+1020,SKI ,"Leistner-Lavoie, Melanie",45.47
+1020,SKI ,"Perreault, Mitch",46.33
+1020,SKI ,"Leistner, Linda",46.33
+1020,SKI ,"Kilmer-Choi, Kevin",46.34
+1020,SKI ,"Fridman, Richard",46.78
+1020,SKI ,"Milthorpe, Randy",47.28
+1020,SKI ,"Cooke, Chris",47.38
+1020,SKI ,"Beemer, John",47.41
+1020,SKI ,"Herrmann, Chris",47.66
+1020,SKI ,"Tadross, Nick",47.72
+1020,SKI ,"Jacobs, Barry",48.59
+1020,SKI ,"Gentile, Ryan",48.69
+1020,SKI ,"Coward, Mariann",50.39
+1020,SKI ,"Page, Krystal",50.71
+1020,SKI ,"Gelfand, Michael",50.97
+1020,SKI ,"Currie, Paul",51
+1020,SKI ,"Heldman, Theo",51.92
+1020,SKI ,"Lepholtz, Chris",52.3
+1020,SKI ,"Blakeley, Trevor",52.32
+1020,SKI ,"Schatzmair, Ralph",52.39
+1020,SKI ,"Kiss, Andrea",52.51
+1020,SKI ,"Perlus, Joanna",53.2
+1020,SKI ,"Williamson, Kerina",53.28
+1020,SKI ,"Ramshaw, Sheri",53.41
+1020,SKI ,"Oegema, Bernard",53.54
+1020,SKI ,"Goren, Robyn",53.61
+1020,SKI ,"Morrison, Roz",53.73
+1020,SKI ,"Pirnia, Hassan",54.32
+1020,SKI ,"Livingston, Peter",54.68
+1020,SKI ,"Koster, Steven",54.83
+1020,SKI ,"Graham, Byron",54.84
+1020,SKI ,"Heldman, Sandra",55.39
+1020,SKI ,"Tarle, Sarah",56.58
+1020,SKI ,"Henry, Alex",56.88
+1020,SKI ,"Mehta, Tushar",57.12
+1020,SKI ,"Palin, Gord",58.28
+1020,SKI ,"Tucci, Adrian",59.35
+1020,SKI ,"Laurie, Talia",62.22
+1020,SKI ,"Gelfand, Sara",63.2
+1020,SKI ,"Schloo, Jonathan",67.59
+1020,SKI ,"Kolber, Jonathan",69.19
+1020,SNBD,"Hune, Brandon",36.33
+1020,SNBD,"Woodside, Terence",38.55
+1020,SNBD,"Kilmer-Choi, Kevin",39.85
+1020,SNBD,"Farber, Joel",42.3
+1020,SNBD,"Oegema, Bernard",42.88
+1020,SNBD,"Milthorpe, Randy",45.47
+1020,SNBD,"McEachen, Paul",45.79
+1020,SNBD,"Huxley, Ben",46.85
+1020,SNBD,"Leistner, Linda",47.51
+1020,SNBD,"Kiss, Andrea",49.97
+1020,SNBD,"Ramshaw, Sheri",50.48
+1020,SNBD,"Kilmer-Choi, Elaine",50.83
+1020,SNBD,"Leistner-Lavoie, Melanie",52.4
+1020,SNBD,"Perlus, Joanna",52.45
+1020,SNBD,"Goren, Robyn",52.73
+1020,SNBD,"Silverberg, Dena",63.06
+1021,SKI ,"Cox, Jeff",44.22
+1021,SKI ,"Henry, Shane",44.93
+1021,SKI ,"Wood, McLean",45.22
+1021,SKI ,"Kofman, Jordan",45.34
+1021,SKI ,"Daly, Thomas",45.5
+1021,SKI ,"Kansun, Jeff",45.72
+1021,SKI ,"Perlus, Miklos",45.91
+1021,SKI ,"Hune, Brandon",46.09
+1021,SKI ,"Daly, Michael",46.3
+1021,SKI ,"Park, Jason",46.34
+1021,SKI ,"Moorhead, Peter",46.77
+1021,SKI ,"Brock, Brad",47.02
+1021,SKI ,"Beattie, Kevin",47.06
+1021,SKI ,"Petrella, Anika",47.17
+1021,SKI ,"Elder, Jeff",47.27
+1021,SKI ,"Hawtin, Robert",47.57
+1021,SKI ,"Laurie, Mark",47.74
+1021,SKI ,"French, Don",47.92
+1021,SKI ,"Coward, Laura",47.98
+1021,SKI ,"Sax, Daniel",48.17
+1021,SKI ,"Garber, David",48.3
+1021,SKI ,"Perreault, Joanna",48.67
+1021,SKI ,"Reid, Rob",48.68
+1021,SKI ,"Cox, Alana",48.73
+1021,SKI ,"Kofman, Peter",48.81
+1021,SKI ,"Ramshaw, Doug",48.87
+1021,SKI ,"Herrmann, Chris",49.04
+1021,SKI ,"Milthorpe, Randy",49.19
+1021,SKI ,"Newall, David",49.21
+1021,SKI ,"Beemer, John",49.26
+1021,SKI ,"DeGeer, Lisa",49.31
+1021,SKI ,"Cooke, Chris",49.47
+1021,SKI ,"Wortzman, David",49.6
+1021,SKI ,"Daly, Peter",49.72
+1021,SKI ,"Henry, Rebecca",49.84
+1021,SKI ,"Howden, Rick",50.1
+1021,SKI ,"Perreault, Mitch",50.25
+1021,SKI ,"Leistner-Lavoie, Melanie",50.83
+1021,SKI ,"Leistner, Linda",51.02
+1021,SKI ,"Bugler, Lisa",51.35
+1021,SKI ,"Petrella, Tony",51.79
+1021,SKI ,"Kilmer-Choi, Kevin",51.8
+1021,SKI ,"Diamond, Matthew",52.31
+1021,SKI ,"Gentile, Ryan",52.34
+1021,SKI ,"Jacobs, Barry",52.51
+1021,SKI ,"Tadross, Nick",53.49
+1021,SKI ,"Schatzmair, Ralph",53.55
+1021,SKI ,"Currie, Paul",53.66
+1021,SKI ,"Fridman, Richard",53.77
+1021,SKI ,"Page, Krystal",53.95
+1021,SKI ,"Coward, Mariann",54.42
+1021,SKI ,"Gelfand, Michael",54.45
+1021,SKI ,"Goren, Robyn",54.72
+1021,SKI ,"Kofman, Lori",54.8
+1021,SKI ,"Heldman, Theo",54.98
+1021,SKI ,"Kiss, Andrea",55.1
+1021,SKI ,"Laski, Brian",55.16
+1021,SKI ,"Ramshaw, Sheri",55.82
+1021,SKI ,"Graham, Byron",55.84
+1021,SKI ,"Nicol, Heather",56.47
+1021,SKI ,"Livingston, Peter",57.01
+1021,SKI ,"Mehta, Tushar",57.23
+1021,SKI ,"Koster, Steven",57.39
+1021,SKI ,"Fraiberg, Corey",57.8
+1021,SKI ,"Heldman, Sandra",58.06
+1021,SKI ,"Lepholtz, Chris",58.12
+1021,SKI ,"Pridham, Sue",58.46
+1021,SKI ,"Henry, Alex",58.86
+1021,SKI ,"Perlus, Joanna",59.1
+1021,SKI ,"Oegema, Bernard",59.87
+1021,SKI ,"Ravoth, Joachim",60.89
+1021,SKI ,"Palin, Gord",61.83
+1021,SKI ,"Morrison, Roz",63.38
+1021,SKI ,"Kolber, Jonathan",65.72
+1021,SKI ,"Tarle, Sarah",66.52
+1021,SKI ,"Laurie, Talia",71.12
+1021,SKI ,"Schloo, Jonathan",79.7
+1021,SNBD,"Hune, Brandon",40.44
+1021,SNBD,"Perlus, Miklos",43.02
+1021,SNBD,"Williamson, Duff",44.62
+1021,SNBD,"Woodside, Terence",45.52
+1021,SNBD,"Kilmer-Choi, Kevin",46.44
+1021,SNBD,"Farber, Joel",47.26
+1021,SNBD,"Oegema, Bernard",48.93
+1021,SNBD,"Milthorpe, Randy",48.94
+1021,SNBD,"Selonka, Aaron",50.61
+1021,SNBD,"McEachen, Paul",50.75
+1021,SNBD,"Leistner, Linda",52.96
+1021,SNBD,"McDonald, D'Arcy",53.37
+1021,SNBD,"Kilmer-Choi, Elaine",53.73
+1021,SNBD,"Huxley, Ben",53.99
+1021,SNBD,"Ramshaw, Sheri",54.51
+1021,SNBD,"Kiss, Andrea",55.57
+1021,SNBD,"Howden, Rick",56.19
+1021,SNBD,"Perlus, Joanna",58.97
+1021,SNBD,"Goren, Robyn",59.94
+1021,SNBD,"Leistner-Lavoie, Melanie",64.01
+1021,SNBD,"Taylor, Kyla",71.85
+1022,SKI ,"McTaggart, Michael",31.39
+1022,SKI ,"Parr, Mike",31.77
+1022,SKI ,"Cox, Jeff",32.12
+1022,SKI ,"Weinberg, Cale",32.5
+1022,SKI ,"Wood, McLean",32.64
+1022,SKI ,"Kofman, Jordan",32.69
+1022,SKI ,"King, Brad",33.22
+1022,SKI ,"Hune, Brandon",33.86
+1022,SKI ,"Kansun, Rob",33.98
+1022,SKI ,"Coward, Laura",34.1
+1022,SKI ,"Daly, Michael",34.45
+1022,SKI ,"Crawford, Derek",35.55
+1022,SKI ,"Garber, David",35.85
+1022,SKI ,"Daly, Thomas",35.9
+1022,SKI ,"Park, Jason",36.17
+1022,SKI ,"Henry, Shane",36.22
+1022,SKI ,"DeGeer, Lisa",36.51
+1022,SKI ,"Perlus, Miklos",36.51
+1022,SKI ,"Hawtin, Robert",36.54
+1022,SKI ,"Cotnam, Sean",36.77
+1022,SKI ,"Tadross, Rachel",36.95
+1022,SKI ,"Kolber, Daniel",37.09
+1022,SKI ,"Brock, Brad",37.38
+1022,SKI ,"Reid, Rob",37.56
+1022,SKI ,"Laurie, Mark",38.32
+1022,SKI ,"Daly, Peter",38.48
+1022,SKI ,"Moorhead, Peter",38.61
+1022,SKI ,"Glover, John",38.65
+1022,SKI ,"Elder, Jeff",38.7
+1022,SKI ,"French, Don",38.78
+1022,SKI ,"Kansun, Alexandra",38.95
+1022,SKI ,"Henry, Rebecca",39.28
+1022,SKI ,"Petrella, Tony",39.57
+1022,SKI ,"Cox, Alana",39.75
+1022,SKI ,"Perreault, Joanna",39.81
+1022,SKI ,"Leistner-Lavoie, Melanie",39.98
+1022,SKI ,"Newall, David",40.11
+1022,SKI ,"Kilmer-Choi, Kevin",40.37
+1022,SKI ,"Tadross, Nick",40.56
+1022,SKI ,"Cooke, Chris",40.8
+1022,SKI ,"Herrmann, Chris",40.92
+1022,SKI ,"Perreault, Mitch",41.15
+1022,SKI ,"Leistner, Linda",41.19
+1022,SKI ,"Duffy, Earl",41.81
+1022,SKI ,"Ramshaw, Doug",42.02
+1022,SKI ,"Howden, Rick",42.39
+1022,SKI ,"Beemer, John",42.6
+1022,SKI ,"Bugler, Lisa",42.63
+1022,SKI ,"Fridman, Richard",44.4
+1022,SKI ,"Coward, Mariann",45.17
+1022,SKI ,"Lepholtz, Chris",45.2
+1022,SKI ,"Norrey, Brent",45.64
+1022,SKI ,"Page, Krystal",46.38
+1022,SKI ,"Goren, Robyn",46.51
+1022,SKI ,"Kansun, Morris",46.62
+1022,SKI ,"Fraiberg, Corey",46.63
+1022,SKI ,"Currie, Paul",46.67
+1022,SKI ,"Gelfand, Michael",46.92
+1022,SKI ,"Nicol, Heather",47.06
+1022,SKI ,"Kiss, Andrea",47.13
+1022,SKI ,"Laski, Brian",47.22
+1022,SKI ,"Williamson, Kerina",47.77
+1022,SKI ,"Perlus, Joanna",47.84
+1022,SKI ,"Heldman, Theo",47.85
+1022,SKI ,"Blakeley, Trevor",48.01
+1022,SKI ,"Schatzmair, Ralph",48.01
+1022,SKI ,"Ramshaw, Sheri",48.21
+1022,SKI ,"Koster, Steven",48.34
+1022,SKI ,"Livingston, Peter",48.84
+1022,SKI ,"Morrison, Roz",48.88
+1022,SKI ,"Pridham, Sue",48.97
+1022,SKI ,"Heldman, Sandra",49.97
+1022,SKI ,"Ravoth, Joachim",50.32
+1022,SKI ,"Sharland, Stephen",50.99
+1022,SKI ,"Pirnia, Hassan",51.83
+1022,SKI ,"Palin, Gord",51.85
+1022,SKI ,"Henry, Alex",52.6
+1022,SKI ,"Tarle, Sarah",53.48
+1022,SKI ,"Tucci, Adrian",55.05
+1022,SKI ,"Graham, Byron",56.27
+1022,SKI ,"Gelfand, Sara",56.95
+1022,SKI ,"Kolber, Jonathan",57.57
+1022,SKI ,"Mehta, Tushar",87.89
+1022,SNBD,"Hune, Brandon",25.68
+1022,SNBD,"Williamson, Duff",27.05
+1022,SNBD,"Perlus, Miklos",27.25
+1022,SNBD,"Selonka, Aaron",27.76
+1022,SNBD,"Woodside, Terence",28.31
+1022,SNBD,"Kilmer-Choi, Kevin",28.63
+1022,SNBD,"Farber, Joel",29.59
+1022,SNBD,"McEachen, Paul",31.53
+1022,SNBD,"McDonald, D'Arcy",31.61
+1022,SNBD,"Leistner, Linda",31.98
+1022,SNBD,"Huxley, Ben",32.42
+1022,SNBD,"Leistner-Lavoie, Melanie",32.51
+1022,SNBD,"Ramshaw, Sheri",34.08
+1022,SNBD,"Kilmer-Choi, Elaine",34.24
+1022,SNBD,"Kiss, Andrea",34.49
+1022,SNBD,"Howden, Rick",35.56
+1022,SNBD,"Perlus, Joanna",36.21
+1022,SNBD,"Goren, Robyn",38.71
+1022,SNBD,"Taylor, Kyla",42.87
+1023,SKI ,"Parr, Nick",25.79
+1023,SKI ,"Weinberg, Cale",25.85
+1023,SKI ,"Parr, Jeff",26.05
+1023,SKI ,"Parr, Mike",26.06
+1023,SKI ,"Hune, Brandon",26.34
+1023,SKI ,"Cartar, William",26.62
+1023,SKI ,"McTaggart, Michael",26.64
+1023,SKI ,"Wood, McLean",26.69
+1023,SKI ,"Daly, Thomas",26.69
+1023,SKI ,"Henry, Shane",26.76
+1023,SKI ,"Petrella, Anika",26.84
+1023,SKI ,"Kolber, Daniel",27.08
+1023,SKI ,"Coward, Laura",27.33
+1023,SKI ,"Wallace, Chris",27.43
+1023,SKI ,"Levine, Adam",27.94
+1023,SKI ,"Perlus, Miklos",28
+1023,SKI ,"Hawtin, Robert",28.04
+1023,SKI ,"Hambly, Shane",28.07
+1023,SKI ,"Labbett, Keith",28.12
+1023,SKI ,"Park, Jason",28.14
+1023,SKI ,"Brock, Brad",28.16
+1023,SKI ,"Perreault, Joanna",28.19
+1023,SKI ,"Moorhead, Peter",28.28
+1023,SKI ,"French, Don",28.44
+1023,SKI ,"Cox, Alana",28.53
+1023,SKI ,"Kofman, Peter",28.69
+1023,SKI ,"Ramshaw, Doug",28.84
+1023,SKI ,"Daly, Peter",29.11
+1023,SKI ,"Graham, Alex",29.45
+1023,SKI ,"Beattie, Kevin",29.48
+1023,SKI ,"Bollinger, Steven",30.2
+1023,SKI ,"Petrella, Tony",30.33
+1023,SKI ,"Kiss, Andrea",30.33
+1023,SKI ,"Smitheman, Neal",30.37
+1023,SKI ,"Milthorpe, Randy",30.47
+1023,SKI ,"Currie, Paul",30.49
+1023,SKI ,"Leistner, Linda",30.5
+1023,SKI ,"Norrey, Brent",30.58
+1023,SKI ,"Kilmer-Choi, Kevin",30.72
+1023,SKI ,"Gentile, Ryan",31.2
+1023,SKI ,"Ramshaw, Sheri",31.46
+1023,SKI ,"Howden, Rick",31.52
+1023,SKI ,"Tadross, Nick",31.56
+1023,SKI ,"Livingston, Peter",31.85
+1023,SKI ,"Klein, Jamie",32.27
+1023,SKI ,"Schatzmair, Ralph",32.28
+1023,SKI ,"Jacobs, Barry",32.36
+1023,SKI ,"Coward, Mariann",32.55
+1023,SKI ,"Kofman, Lori",32.94
+1023,SKI ,"Abbott, Tori",33.02
+1023,SKI ,"Nicol, Heather",33.04
+1023,SKI ,"McLoughlin, Kevin",33.06
+1023,SKI ,"Mehta, Tushar",33.22
+1023,SKI ,"Koster, Steven",33.32
+1023,SKI ,"Heldman, Theo",33.35
+1023,SKI ,"Capek, Catherine",33.54
+1023,SKI ,"Blakeley, Trevor",33.62
+1023,SKI ,"Charland, Louis",33.76
+1023,SKI ,"Burstein, Jason",33.88
+1023,SKI ,"Perlus, Joanna",34.11
+1023,SKI ,"Sharland, Stephen",34.12
+1023,SKI ,"McKellar, Michael",34.32
+1023,SKI ,"Jayson, Doris",34.91
+1023,SKI ,"Brown, Kevin",34.92
+1023,SKI ,"Sharland, Jill",35.12
+1023,SKI ,"Graham, Byron",35.26
+1023,SKI ,"Morse, Janet",35.6
+1023,SKI ,"Schatzmair, Kelly",35.76
+1023,SKI ,"McKellar, Dana",36.11
+1023,SKI ,"Pridham, Sue",36.15
+1023,SKI ,"Ghan, Tracy",36.66
+1023,SKI ,"Goit, Jeff",36.67
+1023,SKI ,"Morrison, Roz",37.75
+1023,SKI ,"Tarle, Sarah",38.06
+1023,SKI ,"Blainey, David",39.17
+1023,SKI ,"Skelding, Fiona",39.26
+1023,SKI ,"Schotlander, Collin",39.75
+1023,SKI ,"Graham, Andrea",39.93
+1023,SKI ,"Tucci, Adrian",40.46
+1023,SKI ,"Charland, Ilene",45.69
+1024,SKI ,"Kofman, Jordan",25.52
+1024,SKI ,"Cartar, William",26.16
+1024,SKI ,"McTaggart, Michael",26.18
+1024,SKI ,"Hune, Brandon",26.49
+1024,SKI ,"Cox, Jeff",26.75
+1024,SKI ,"Kansun, Jeff",26.81
+1024,SKI ,"King, Brad",26.82
+1024,SKI ,"Wood, McLean",26.85
+1024,SKI ,"Petrella, Anika",27.18
+1024,SKI ,"Coward, Laura",27.19
+1024,SKI ,"Henry, Shane",27.23
+1024,SKI ,"Daly, Thomas",27.27
+1024,SKI ,"Perlus, Miklos",27.52
+1024,SKI ,"Coward, Stephanie",27.74
+1024,SKI ,"Kolber, Daniel",28.07
+1024,SKI ,"Moorhead, Peter",28.28
+1024,SKI ,"Wallace, Chris",28.35
+1024,SKI ,"Laurie, Mark",28.42
+1024,SKI ,"Hambly, Shane",28.43
+1024,SKI ,"Perreault, Joanna",28.44
+1024,SKI ,"Brock, Brad",28.46
+1024,SKI ,"Coward, Peter",28.64
+1024,SKI ,"Cotnam, Sean",28.76
+1024,SKI ,"Hawtin, Robert",28.8
+1024,SKI ,"Reid, Rob",28.89
+1024,SKI ,"Kofman, Peter",29.07
+1024,SKI ,"Cox, Alana",29.24
+1024,SKI ,"French, Don",29.29
+1024,SKI ,"Labbett, Keith",29.34
+1024,SKI ,"Beattie, Kevin",29.54
+1024,SKI ,"Duffy, Earl",29.77
+1024,SKI ,"Ramshaw, Doug",29.83
+1024,SKI ,"Henry, Rebecca",29.89
+1024,SKI ,"Daly, Peter",29.9
+1024,SKI ,"Crawford, Derek",29.92
+1024,SKI ,"Klein, Jamie",29.93
+1024,SKI ,"Kilmer-Choi, Kevin",30.15
+1024,SKI ,"Cooke, Chris",30.17
+1024,SKI ,"Andersen, Tom",30.19
+1024,SKI ,"Garber, David",30.22
+1024,SKI ,"Perreault, Mitch",30.42
+1024,SKI ,"Howden, Rick",30.55
+1024,SKI ,"Graham, Alex",30.76
+1024,SKI ,"Tadross, Nick",31.23
+1024,SKI ,"Leistner, Linda",31.28
+1024,SKI ,"Kiss, Andrea",31.3
+1024,SKI ,"Petrella, Tony",31.34
+1024,SKI ,"Milthorpe, Randy",31.39
+1024,SKI ,"Smitheman, Neal",31.41
+1024,SKI ,"Gentile, Ryan",31.46
+1024,SKI ,"Bollinger, Steven",31.62
+1024,SKI ,"Currie, Paul",31.67
+1024,SKI ,"Roberts, Jami",31.79
+1024,SKI ,"Bugler, Lisa",31.91
+1024,SKI ,"Fridman, Richard",32.36
+1024,SKI ,"Schatzmair, Ralph",32.49
+1024,SKI ,"Norrey, Brent",32.54
+1024,SKI ,"Coward, Mariann",32.72
+1024,SKI ,"Kofman, Lori",32.94
+1024,SKI ,"Abbott, Tori",33.28
+1024,SKI ,"Livingston, Peter",33.39
+1024,SKI ,"Alexander Ash, Sue",33.51
+1024,SKI ,"Burstein, Jason",33.54
+1024,SKI ,"Charland, Louis",33.58
+1024,SKI ,"Siller, Ariel",33.58
+1024,SKI ,"Ramshaw, Sheri",33.72
+1024,SKI ,"Blakeley, Trevor",33.87
+1024,SKI ,"Nicol, Heather",33.9
+1024,SKI ,"Perlus, Joanna",34.03
+1024,SKI ,"Sharland, Stephen",34.06
+1024,SKI ,"McLoughlin, Kevin",34.16
+1024,SKI ,"Graham, Byron",34.36
+1024,SKI ,"Oegema, Bernard",34.62
+1024,SKI ,"Goit, Jeff",34.74
+1024,SKI ,"Koster, Steven",35.23
+1024,SKI ,"McKellar, Dana",35.46
+1024,SKI ,"Cole, Angus",35.62
+1024,SKI ,"Tarle, Sarah",35.77
+1024,SKI ,"Heldman, Theo",35.8
+1024,SKI ,"Morse, Janet",35.91
+1024,SKI ,"Pridham, Sue",36.03
+1024,SKI ,"Sharland, Jill",36.75
+1024,SKI ,"Jayson, Doris",37.26
+1024,SKI ,"Blainey, David",37.58
+1024,SKI ,"Kolber, Jonathan",37.89
+1024,SKI ,"Schatzmair, Kelly",37.94
+1024,SKI ,"Howden, Andrea",38.3
+1024,SKI ,"Skelding, Fiona",40.47
+1024,SKI ,"Tucci, Adrian",40.5
+1024,SKI ,"Charland, Ilene",42.11
+1024,SKI ,"Laurie, Talia",42.12
+1024,SNBD,"Perlus, Miklos",30.26
+1024,SNBD,"Williamson, Duff",30.41
+1024,SNBD,"Kilmer-Choi, Kevin",31.16
+1024,SNBD,"Wallace, Chris",32.13
+1024,SNBD,"Farber, Joel",32.71
+1024,SNBD,"Oegema, Bernard",33.96
+1024,SNBD,"Blainey, David",35.96
+1024,SNBD,"McDonald, D'Arcy",36.59
+1024,SNBD,"McEachen, Paul",36.79
+1024,SNBD,"Leistner, Linda",37.3
+1024,SNBD,"Milthorpe, Randy",38.12
+1024,SNBD,"Gorman, Scott",39.43
+1024,SNBD,"Ramshaw, Sheri",39.61
+1024,SNBD,"Kiss, Andrea",39.9
+1024,SNBD,"Howden, Rick",40.92
+1024,SNBD,"Perlus, Joanna",41.75
+1024,SNBD,"Ledwidge, Sarah",45.73
+1025,SKI ,"Weinberg, Cale",22.93
+1025,SKI ,"Kofman, Jordan",23.28
+1025,SKI ,"Parr, Nick",23.59
+1025,SKI ,"Parr, Mike",23.84
+1025,SKI ,"McTaggart, Michael",23.9
+1025,SKI ,"Hune, Brandon",24.23
+1025,SKI ,"Cox, Jeff",24.51
+1025,SKI ,"King, Brad",24.64
+1025,SKI ,"Kansun, Jeff",24.82
+1025,SKI ,"Daly, Thomas",24.85
+1025,SKI ,"Cartar, William",24.88
+1025,SKI ,"Coward, Laura",25.16
+1025,SKI ,"Petrella, Anika",25.25
+1025,SKI ,"Coward, Stephanie",25.61
+1025,SKI ,"Park, Jason",25.76
+1025,SKI ,"Moorhead, Peter",25.83
+1025,SKI ,"Henry, Shane",26.25
+1025,SKI ,"Laurie, Mark",26.36
+1025,SKI ,"Hambly, Shane",26.48
+1025,SKI ,"Kolber, Daniel",26.54
+1025,SKI ,"Perlus, Miklos",26.61
+1025,SKI ,"Reid, Rob",26.68
+1025,SKI ,"DeGeer, Lisa",26.93
+1025,SKI ,"Garber, David",27.17
+1025,SKI ,"Duffy, Earl",27.26
+1025,SKI ,"Klein, Jamie",27.26
+1025,SKI ,"Kofman, Peter",27.37
+1025,SKI ,"Wallace, Chris",27.8
+1025,SKI ,"Brock, Brad",27.81
+1025,SKI ,"Crawford, Derek",27.84
+1025,SKI ,"Ramshaw, Doug",27.87
+1025,SKI ,"Levine, Adam",27.88
+1025,SKI ,"Andersen, Tom",27.89
+1025,SKI ,"Henry, Rebecca",28.52
+1025,SKI ,"Cox, Alana",28.53
+1025,SKI ,"Graham, Alex",29.15
+1025,SKI ,"Petrella, Tony",29.15
+1025,SKI ,"Leistner, Linda",29.4
+1025,SKI ,"Currie, Paul",29.48
+1025,SKI ,"Roberts, Jami",29.61
+1025,SKI ,"Gentile, Ryan",29.87
+1025,SKI ,"Smitheman, Neal",29.89
+1025,SKI ,"Tadross, Nick",30
+1025,SKI ,"Kiss, Andrea",30.02
+1025,SKI ,"Howden, Rick",30.13
+1025,SKI ,"Labbett, Keith",30.18
+1025,SKI ,"Cooke, Chris",30.3
+1025,SKI ,"Alexander Ash, Sue",30.49
+1025,SKI ,"Fridman, Richard",30.64
+1025,SKI ,"Milthorpe, Randy",30.83
+1025,SKI ,"Siller, Ariel",31.1
+1025,SKI ,"Ramshaw, Sheri",31.1
+1025,SKI ,"Coward, Mariann",31.18
+1025,SKI ,"Charland, Louis",31.6
+1025,SKI ,"Kilmer-Choi, Kevin",31.61
+1025,SKI ,"McKellar, Michael",31.7
+1025,SKI ,"Kofman, Lori",31.87
+1025,SKI ,"Blakeley, Trevor",32.05
+1025,SKI ,"Bollinger, Steven",32.18
+1025,SKI ,"Burstein, Jason",32.23
+1025,SKI ,"Cole, Angus",32.42
+1025,SKI ,"Pridham, Sue",32.45
+1025,SKI ,"Livingston, Peter",32.47
+1025,SKI ,"Schatzmair, Ralph",32.54
+1025,SKI ,"Perlus, Joanna",32.62
+1025,SKI ,"Sharland, Stephen",32.68
+1025,SKI ,"McLoughlin, Kevin",32.7
+1025,SKI ,"Williams, Matt",32.84
+1025,SKI ,"Tarle, Sarah",32.9
+1025,SKI ,"Nicol, Heather",32.95
+1025,SKI ,"Graham, Byron",33.18
+1025,SKI ,"Goit, Jeff",33.27
+1025,SKI ,"Oegema, Bernard",33.37
+1025,SKI ,"Schatzmair, Kelly",33.56
+1025,SKI ,"Jacobs, Barry",33.65
+1025,SKI ,"McKellar, Dana",34.26
+1025,SKI ,"Koster, Steven",34.76
+1025,SKI ,"Blainey, David",34.81
+1025,SKI ,"Sharland, Jill",34.91
+1025,SKI ,"Abbott, Tori",34.95
+1025,SKI ,"Skelding, Fiona",36.06
+1025,SKI ,"Schotlander, Collin",36.12
+1025,SKI ,"Graham, Andrea",36.16
+1025,SKI ,"Morse, Janet",36.54
+1025,SKI ,"Tucci, Adrian",37.85
+1025,SKI ,"Howden, Andrea",38.28
+1025,SKI ,"Laurie, Talia",39.82
+1025,SKI ,"Charland, Ilene",40.39
+1025,SKI ,"Heldman, Theo",41.55
+1025,SNBD,"Williamson, Duff",29.57
+1025,SNBD,"Perlus, Miklos",30.52
+1025,SNBD,"Oegema, Bernard",31.55
+1025,SNBD,"Kilmer-Choi, Kevin",31.89
+1025,SNBD,"Wallace, Chris",32.04
+1025,SNBD,"Kiss, Andrea",37.14
+1025,SNBD,"Ramshaw, Sheri",37.32
+1025,SNBD,"Blainey, David",37.44
+1025,SNBD,"Howden, Rick",38.81
+1025,SNBD,"Leistner, Linda",38.9
+1025,SNBD,"Gorman, Scott",38.93
+1025,SNBD,"Perlus, Joanna",39.98
+1025,SNBD,"Ledwidge, Sarah",42.21
+1025,SNBD,"Silverberg, Dena",44.29
+1026,SKI ,"Kofman, Jordan",37.05
+1026,SKI ,"McTaggart, Michael",37.9
+1026,SKI ,"Wood, McLean",38.79
+1026,SKI ,"King, Brad",39.39
+1026,SKI ,"Henry, Shane",39.68
+1026,SKI ,"Daly, Thomas",39.73
+1026,SKI ,"Parr, Jeff",39.98
+1026,SKI ,"Coward, Stephanie",40.12
+1026,SKI ,"Park, Jason",40.48
+1026,SKI ,"Coward, Laura",40.78
+1026,SKI ,"Moorhead, Peter",40.84
+1026,SKI ,"Perlus, Miklos",40.85
+1026,SKI ,"DeGeer, Lisa",41.03
+1026,SKI ,"Levine, Adam",41.08
+1026,SKI ,"Hambly, Shane",41.23
+1026,SKI ,"Kolber, Daniel",41.46
+1026,SKI ,"Cotnam, Sean",41.56
+1026,SKI ,"Brock, Brad",41.74
+1026,SKI ,"Wallace, Chris",41.85
+1026,SKI ,"French, Don",42.12
+1026,SKI ,"Garber, David",42.22
+1026,SKI ,"Beattie, Kevin",42.25
+1026,SKI ,"Reid, Rob",42.53
+1026,SKI ,"Crawford, Derek",42.55
+1026,SKI ,"Ramshaw, Doug",42.57
+1026,SKI ,"Coward, Peter",42.79
+1026,SKI ,"Cox, Alana",42.8
+1026,SKI ,"Andersen, Tom",42.97
+1026,SKI ,"Leistner, Linda",43.33
+1026,SKI ,"Kilmer-Choi, Kevin",43.54
+1026,SKI ,"Graham, Alex",43.97
+1026,SKI ,"Duffy, Earl",44.11
+1026,SKI ,"Petrella, Tony",44.39
+1026,SKI ,"Perreault, Mitch",44.48
+1026,SKI ,"Henry, Rebecca",44.64
+1026,SKI ,"Daly, Peter",44.67
+1026,SKI ,"Tadross, Nick",45.63
+1026,SKI ,"Gentile, Ryan",45.66
+1026,SKI ,"Currie, Paul",45.72
+1026,SKI ,"Cooke, Chris",45.75
+1026,SKI ,"Alexander Ash, Sue",46.45
+1026,SKI ,"Norrey, Brent",46.54
+1026,SKI ,"Kiss, Andrea",46.75
+1026,SKI ,"Milthorpe, Randy",46.82
+1026,SKI ,"Ramshaw, Sheri",47.63
+1026,SKI ,"Fridman, Richard",47.74
+1026,SKI ,"Abbott, Tori",48.24
+1026,SKI ,"Coward, Mariann",48.55
+1026,SKI ,"Bollinger, Steven",48.63
+1026,SKI ,"Kofman, Lori",48.72
+1026,SKI ,"Bugler, Lisa",48.77
+1026,SKI ,"Goit, Jeff",49.28
+1026,SKI ,"Siller, Ariel",49.38
+1026,SKI ,"Schatzmair, Ralph",49.62
+1026,SKI ,"McLoughlin, Kevin",49.88
+1026,SKI ,"Mehta, Tushar",49.92
+1026,SKI ,"Cole, Angus",49.96
+1026,SKI ,"Nicol, Heather",49.97
+1026,SKI ,"Charland, Louis",50.74
+1026,SKI ,"Pridham, Sue",50.86
+1026,SKI ,"Koster, Steven",51.01
+1026,SKI ,"Livingston, Peter",51.09
+1026,SKI ,"Graham, Byron",51.09
+1026,SKI ,"Oegema, Bernard",51.35
+1026,SKI ,"Schatzmair, Kelly",52.57
+1026,SKI ,"Sharland, Stephen",53.51
+1026,SKI ,"McKellar, Michael",53.54
+1026,SKI ,"McKellar, Dana",53.58
+1026,SKI ,"Blainey, David",53.83
+1026,SKI ,"Jayson, Doris",54
+1026,SKI ,"Morse, Janet",54.08
+1026,SKI ,"Heldman, Theo",55.74
+1026,SKI ,"Sharland, Jill",55.78
+1026,SKI ,"Tarle, Sarah",56.48
+1026,SKI ,"Tucci, Adrian",58.23
+1026,SKI ,"Schotlander, Collin",58.35
+1026,SKI ,"Graham, Andrea",59.85
+1026,SKI ,"Skelding, Fiona",60.41
+1026,SKI ,"Howden, Andrea",60.93
+1026,SKI ,"Charland, Ilene",65.3
+1026,SNBD,"Kilmer-Choi, Kevin",50.94
+1026,SNBD,"Perlus, Miklos",51.17
+1026,SNBD,"Wallace, Chris",53.41
+1026,SNBD,"Oegema, Bernard",54.22
+1026,SNBD,"Leistner, Linda",59.52
+1026,SNBD,"Blainey, David",59.98
+1026,SNBD,"Milthorpe, Randy",60.12
+1026,SNBD,"McEachen, Paul",60.13
+1026,SNBD,"McDonald, D'Arcy",60.66
+1026,SNBD,"Gorman, Scott",62.12
+1026,SNBD,"Ramshaw, Sheri",63.91
+1026,SNBD,"Kiss, Andrea",65.26
+1026,SNBD,"Ledwidge, Sarah",69.59
+1026,SNBD,"Silverberg, Dena",78.91
+1027,SKI ,"Parr, Nick",30.47
+1027,SKI ,"McTaggart, Michael",30.59
+1027,SKI ,"Parr, Mike",31.49
+1027,SKI ,"Wood, McLean",32.04
+1027,SKI ,"King, Brad",32.61
+1027,SKI ,"Hune, Brandon",33.17
+1027,SKI ,"Cartar, William",33.88
+1027,SKI ,"Parr, Jeff",34.09
+1027,SKI ,"Park, Jason",34.59
+1027,SKI ,"Coward, Laura",35.05
+1027,SKI ,"Garber, David",35.16
+1027,SKI ,"Perlus, Miklos",35.18
+1027,SKI ,"Petrella, Anika",35.3
+1027,SKI ,"Crawford, Derek",35.33
+1027,SKI ,"Moorhead, Peter",35.36
+1027,SKI ,"Daly, Thomas",35.6
+1027,SKI ,"Cotnam, Sean",35.7
+1027,SKI ,"Wallace, Chris",35.8
+1027,SKI ,"Brock, Brad",36.19
+1027,SKI ,"Kolber, Daniel",36.55
+1027,SKI ,"Hambly, Shane",36.7
+1027,SKI ,"Henry, Shane",36.73
+1027,SKI ,"Hawtin, Robert",37.47
+1027,SKI ,"Levine, Adam",37.7
+1027,SKI ,"Beattie, Kevin",37.82
+1027,SKI ,"Laurie, Mark",38.31
+1027,SKI ,"Daly, Peter",38.46
+1027,SKI ,"Henry, Rebecca",38.91
+1027,SKI ,"Perreault, Mitch",39.01
+1027,SKI ,"Cox, Alana",39.32
+1027,SKI ,"Perreault, Joanna",39.61
+1027,SKI ,"Cooke, Chris",39.63
+1027,SKI ,"Coward, Peter",39.74
+1027,SKI ,"Petrella, Tony",39.83
+1027,SKI ,"Klein, Jamie",39.94
+1027,SKI ,"Reid, Rob",40.06
+1027,SKI ,"Andersen, Tom",40.15
+1027,SKI ,"Duffy, Earl",40.21
+1027,SKI ,"Ramshaw, Doug",40.65
+1027,SKI ,"Cox, Jeff",40.96
+1027,SKI ,"Kilmer-Choi, Kevin",41.1
+1027,SKI ,"Bollinger, Steven",41.28
+1027,SKI ,"Gentile, Ryan",42.32
+1027,SKI ,"Tadross, Nick",43.89
+1027,SKI ,"Smitheman, Neal",44.05
+1027,SKI ,"Fridman, Richard",44.41
+1027,SKI ,"Roberts, Jami",44.5
+1027,SKI ,"Kiss, Andrea",44.51
+1027,SKI ,"Alexander Ash, Sue",44.67
+1027,SKI ,"Labbett, Keith",45.34
+1027,SKI ,"Graham, Alex",45.37
+1027,SKI ,"Milthorpe, Randy",45.71
+1027,SKI ,"Bugler, Lisa",46.41
+1027,SKI ,"Coward, Mariann",46.9
+1027,SKI ,"Jayson, Doris",47.21
+1027,SKI ,"Cole, Angus",48.17
+1027,SKI ,"Charland, Louis",48.29
+1027,SKI ,"Perlus, Joanna",48.97
+1027,SKI ,"Currie, Paul",49.06
+1027,SKI ,"Siller, Ariel",49.18
+1027,SKI ,"Tarle, Sarah",49.21
+1027,SKI ,"Pridham, Sue",49.25
+1027,SKI ,"Schatzmair, Ralph",49.27
+1027,SKI ,"Abbott, Tori",49.71
+1027,SKI ,"McKellar, Michael",49.83
+1027,SKI ,"Nicol, Heather",50.01
+1027,SKI ,"Goit, Jeff",50.34
+1027,SKI ,"Oegema, Bernard",50.65
+1027,SKI ,"Livingston, Peter",50.65
+1027,SKI ,"Morse, Janet",51.09
+1027,SKI ,"Koster, Steven",51.58
+1027,SKI ,"Blainey, David",52.55
+1027,SKI ,"Schatzmair, Kelly",53.23
+1027,SKI ,"Brown, Kevin",53.73
+1027,SKI ,"Graham, Byron",53.77
+1027,SKI ,"Schotlander, Collin",55.83
+1027,SKI ,"Tucci, Adrian",57.63
+1027,SKI ,"Kolber, Jonathan",58.5
+1027,SKI ,"Skelding, Fiona",59.11
+1027,SKI ,"Graham, Andrea",61.62
+1027,SKI ,"Charland, Ilene",64.45
+1027,SNBD,"Williamson, Duff",28.4
+1027,SNBD,"Perlus, Miklos",28.45
+1027,SNBD,"Kilmer-Choi, Kevin",29.44
+1027,SNBD,"Farber, Joel",29.71
+1027,SNBD,"Wallace, Chris",30.35
+1027,SNBD,"Oegema, Bernard",30.53
+1027,SNBD,"Milthorpe, Randy",32.61
+1027,SNBD,"McEachen, Paul",32.62
+1027,SNBD,"Blainey, David",33.02
+1027,SNBD,"McDonald, D'Arcy",33.91
+1027,SNBD,"Gorman, Scott",34.35
+1027,SNBD,"Kiss, Andrea",35.58
+1027,SNBD,"Ledwidge, Sarah",35.93
+1027,SNBD,"Perlus, Joanna",38.02
+1027,SNBD,"Silverberg, Dena",42.59
+1028,SKI ,"Kofman, Jordan",41.32
+1028,SKI ,"Parr, Mike",41.66
+1028,SKI ,"Cartar, William",42.76
+1028,SKI ,"Kansun, Jeff",43.07
+1028,SKI ,"Wood, McLean",43.19
+1028,SKI ,"Weinberg, Cale",43.26
+1028,SKI ,"Petrella, Anika",43.28
+1028,SKI ,"McTaggart, Michael",43.32
+1028,SKI ,"Cox, Jeff",43.36
+1028,SKI ,"Hune, Brandon",43.46
+1028,SKI ,"Daly, Thomas",43.6
+1028,SKI ,"Park, Jason",43.62
+1028,SKI ,"King, Brad",43.84
+1028,SKI ,"Henry, Shane",44
+1028,SKI ,"Parr, Jeff",44.39
+1028,SKI ,"Perlus, Miklos",44.4
+1028,SKI ,"Coward, Stephanie",44.42
+1028,SKI ,"Hambly, Shane",44.47
+1028,SKI ,"Brock, Brad",44.85
+1028,SKI ,"Cotnam, Sean",45.17
+1028,SKI ,"Moorhead, Peter",45.21
+1028,SKI ,"Coward, Laura",45.26
+1028,SKI ,"Hawtin, Robert",45.57
+1028,SKI ,"Crawford, Derek",45.71
+1028,SKI ,"Reid, Rob",45.93
+1028,SKI ,"Perreault, Joanna",45.98
+1028,SKI ,"Coward, Peter",46.09
+1028,SKI ,"Laurie, Mark",46.12
+1028,SKI ,"Garber, David",46.19
+1028,SKI ,"Klein, Jamie",46.45
+1028,SKI ,"Ramshaw, Doug",46.55
+1028,SKI ,"Cox, Alana",47.07
+1028,SKI ,"Wallace, Chris",47.21
+1028,SKI ,"Kolber, Daniel",47.22
+1028,SKI ,"Perreault, Mitch",47.61
+1028,SKI ,"Henry, Rebecca",47.66
+1028,SKI ,"Beattie, Kevin",48.15
+1028,SKI ,"Tadross, Nick",48.65
+1028,SKI ,"Daly, Peter",48.99
+1028,SKI ,"Graham, Alex",49.6
+1028,SKI ,"Duffy, Earl",49.7
+1028,SKI ,"Leistner, Linda",49.71
+1028,SKI ,"Petrella, Tony",49.81
+1028,SKI ,"Roberts, Jami",50.04
+1028,SKI ,"Gentile, Ryan",50.46
+1028,SKI ,"Norrey, Brent",51.23
+1028,SKI ,"Smitheman, Neal",51.31
+1028,SKI ,"Kilmer-Choi, Kevin",51.45
+1028,SKI ,"Milthorpe, Randy",52.01
+1028,SKI ,"Bollinger, Steven",52.01
+1028,SKI ,"Fridman, Richard",52.58
+1028,SKI ,"Bugler, Lisa",52.65
+1028,SKI ,"Alexander Ash, Sue",52.75
+1028,SKI ,"Currie, Paul",53.1
+1028,SKI ,"Schatzmair, Ralph",53.8
+1028,SKI ,"Levine, Adam",54.04
+1028,SKI ,"McLoughlin, Kevin",54.16
+1028,SKI ,"Kiss, Andrea",54.59
+1028,SKI ,"Graham, Byron",54.74
+1028,SKI ,"Abbott, Tori",55.24
+1028,SKI ,"Nicol, Heather",55.53
+1028,SKI ,"Perlus, Joanna",55.66
+1028,SKI ,"Goit, Jeff",55.87
+1028,SKI ,"Mehta, Tushar",55.95
+1028,SKI ,"Coward, Mariann",56.2
+1028,SKI ,"Livingston, Peter",56.59
+1028,SKI ,"Cole, Angus",56.69
+1028,SKI ,"Heldman, Theo",56.82
+1028,SKI ,"Schatzmair, Kelly",57.74
+1028,SKI ,"McKellar, Dana",57.82
+1028,SKI ,"Pridham, Sue",58.07
+1028,SKI ,"Koster, Steven",58.24
+1028,SKI ,"Brown, Kevin",58.24
+1028,SKI ,"Blakeley, Trevor",58.35
+1028,SKI ,"Blainey, David",58.96
+1028,SKI ,"Kolber, Jonathan",59.22
+1028,SKI ,"Sharland, Jill",59.46
+1028,SKI ,"Oegema, Bernard",59.84
+1028,SKI ,"Burstein, Jason",59.85
+1028,SKI ,"Jayson, Doris",60.22
+1028,SKI ,"Charland, Louis",60.29
+1028,SKI ,"Tarle, Sarah",60.37
+1028,SKI ,"Sharland, Stephen",60.45
+1028,SKI ,"Morse, Janet",60.79
+1028,SKI ,"Tucci, Adrian",65.3
+1028,SKI ,"Schotlander, Collin",65.85
+1028,SKI ,"Graham, Andrea",67.47
+1028,SKI ,"Laurie, Talia",70.51
+1028,SKI ,"Skelding, Fiona",72.3
+1028,SKI ,"Charland, Ilene",74.08
+1028,SNBD,"Williamson, Duff",47.94
+1028,SNBD,"Kilmer-Choi, Kevin",48.18
+1028,SNBD,"Perlus, Miklos",49.06
+1028,SNBD,"Farber, Joel",50.88
+1028,SNBD,"Oegema, Bernard",51.6
+1028,SNBD,"Wallace, Chris",52.07
+1028,SNBD,"Milthorpe, Randy",54.84
+1028,SNBD,"Blainey, David",55.52
+1028,SNBD,"McEachen, Paul",55.96
+1028,SNBD,"Leistner, Linda",56.12
+1028,SNBD,"Kiss, Andrea",58.52
+1028,SNBD,"Ramshaw, Sheri",60.72
+1028,SNBD,"McDonald, D'Arcy",61.3
+1028,SNBD,"Howden, Rick",61.51
+1028,SNBD,"Gorman, Scott",62.47
+1028,SNBD,"Ledwidge, Sarah",63.49
+1028,SNBD,"Perlus, Joanna",64.44
+1028,SNBD,"Silverberg, Dena",72.26
+1029,SKI ,"Weinberg, Cale",24.76
+1029,SKI ,"Kofman, Jordan",25.47
+1029,SKI ,"Parr, Nick",25.48
+1029,SKI ,"Wood, McLean",25.6
+1029,SKI ,"Cox, Jeff",25.94
+1029,SKI ,"Hune, Brandon",26.11
+1029,SKI ,"King, Brad",26.49
+1029,SKI ,"Coward, Laura",26.92
+1029,SKI ,"Daly, Thomas",27.23
+1029,SKI ,"Park, Jason",27.27
+1029,SKI ,"DeGeer, Lisa",27.31
+1029,SKI ,"Rogers, Andrew",27.64
+1029,SKI ,"Moorhead, Peter",27.8
+1029,SKI ,"Crawford, Derek",27.86
+1029,SKI ,"Hawtin, Robert",28.06
+1029,SKI ,"Coward, Peter",28.09
+1029,SKI ,"Kolber, Daniel",28.27
+1029,SKI ,"Hambly, Shane",28.36
+1029,SKI ,"Perlus, Miklos",28.75
+1029,SKI ,"Smejkal, Robert",28.96
+1029,SKI ,"Brock, Brad",29.08
+1029,SKI ,"Elder, Jeff",29.21
+1029,SKI ,"Laurie, Mark",29.25
+1029,SKI ,"Cox, Alana",29.87
+1029,SKI ,"Reid, Rob",29.91
+1029,SKI ,"French, Don",29.95
+1029,SKI ,"Beattie, Kevin",30.06
+1029,SKI ,"Charland, Daniel",30.06
+1029,SKI ,"Ramshaw, Doug",30.08
+1029,SKI ,"Kamin, Lowell",30.22
+1029,SKI ,"Daly, Peter",30.49
+1029,SKI ,"Glover, John",31.17
+1029,SKI ,"Kofman, Peter",31.22
+1029,SKI ,"Tadross, Nick",31.47
+1029,SKI ,"Perreault, Mitch",31.53
+1029,SKI ,"Petrella, Tony",31.6
+1029,SKI ,"Gentile, Ryan",31.62
+1029,SKI ,"Abbott, Brad",32.01
+1029,SKI ,"Smitheman, Neal",32.05
+1029,SKI ,"Lewis, Stephen",32.12
+1029,SKI ,"Tse, Eric",32.33
+1029,SKI ,"Kilmer-Choi, Kevin",32.33
+1029,SKI ,"Charland, Louis",32.36
+1029,SKI ,"Norrey, Brent",32.78
+1029,SKI ,"Milthorpe, Randy",32.99
+1029,SKI ,"Sclater, Andrew",32.99
+1029,SKI ,"Herrmann, Chris",33.19
+1029,SKI ,"Morrison, David",33.37
+1029,SKI ,"Ramshaw, Sheri",33.82
+1029,SKI ,"Blakeley, Trevor",34.14
+1029,SKI ,"Cooke, Chris",34.17
+1029,SKI ,"Kiss, Andrea",34.28
+1029,SKI ,"Kofman, Lori",34.6
+1029,SKI ,"Currie, Paul",34.69
+1029,SKI ,"Capek, Catherine",34.7
+1029,SKI ,"Koster, Steven",34.73
+1029,SKI ,"Jayson, Doris",34.77
+1029,SKI ,"Nicol, Heather",35.1
+1029,SKI ,"Abbott, Tori",35.25
+1029,SKI ,"Diamond, Richard",36.74
+1029,SKI ,"McKellar, Dana",36.96
+1029,SKI ,"Goit, Jeff",37
+1029,SKI ,"Pridham, Sue",37.15
+1029,SKI ,"Coward, Mariann",37.24
+1029,SKI ,"Perlus, Joanna",37.53
+1029,SKI ,"Sharland, Jill",37.71
+1029,SKI ,"Graham, Byron",39.07
+1029,SKI ,"Gingrich, Wayne",39.19
+1029,SKI ,"Tse, Jennifer",39.36
+1029,SKI ,"Morrison, Roz",39.4
+1029,SKI ,"Skelding, Fiona",40.21
+1029,SKI ,"Ancion, Audrey",40.64
+1029,SKI ,"Sclater, Susan",43.42
+1029,SKI ,"Hardy, Shane",43.82
+1029,SKI ,"Chmelnitsky, David",44.13
+1029,SKI ,"Charland, Ilene",45.34
+1029,SKI ,"Livingston, Peter",49.54
+1030,SKI ,"Weinberg, Cale",24.06
+1030,SKI ,"McTaggart, Michael",24.67
+1030,SKI ,"Kofman, Jordan",25.25
+1030,SKI ,"Hune, Brandon",25.26
+1030,SKI ,"Cox, Jeff",25.91
+1030,SKI ,"Wood, McLean",25.92
+1030,SKI ,"King, Brad",26.67
+1030,SKI ,"Daly, Thomas",26.69
+1030,SKI ,"Gottlieb, Darren",27.02
+1030,SKI ,"Henry, Shane",27.19
+1030,SKI ,"Park, Jason",27.26
+1030,SKI ,"Moorhead, Peter",27.52
+1030,SKI ,"Crawford, Derek",27.95
+1030,SKI ,"Hawtin, Robert",28.03
+1030,SKI ,"DeGeer, Lisa",28.11
+1030,SKI ,"Kolber, Daniel",28.15
+1030,SKI ,"Kamin, Lowell",28.44
+1030,SKI ,"Hambly, Shane",28.59
+1030,SKI ,"Perlus, Miklos",28.66
+1030,SKI ,"Rogers, Andrew",28.77
+1030,SKI ,"Smejkal, Robert",28.87
+1030,SKI ,"Ramshaw, Doug",29.21
+1030,SKI ,"Elder, Jeff",29.41
+1030,SKI ,"Reid, Rob",29.77
+1030,SKI ,"French, Don",30
+1030,SKI ,"Glover, John",30.18
+1030,SKI ,"Brock, Brad",30.26
+1030,SKI ,"Cox, Alana",30.37
+1030,SKI ,"Henry, Rebecca",30.51
+1030,SKI ,"Coward, Laura",30.53
+1030,SKI ,"Kofman, Peter",30.83
+1030,SKI ,"Klein, Jamie",30.99
+1030,SKI ,"Currie, Paul",31.38
+1030,SKI ,"Gentile, Ryan",31.79
+1030,SKI ,"Morrison, David",31.83
+1030,SKI ,"Daly, Peter",31.96
+1030,SKI ,"Smitheman, Neal",31.97
+1030,SKI ,"Newall, David",32.15
+1030,SKI ,"Capek, Catherine",32.26
+1030,SKI ,"Kiss, Andrea",32.29
+1030,SKI ,"Perreault, Mitch",32.5
+1030,SKI ,"Norrey, Brent",32.54
+1030,SKI ,"Fridman, Richard",32.54
+1030,SKI ,"Laurie, Mark",32.76
+1030,SKI ,"Ramshaw, Sheri",32.79
+1030,SKI ,"Abbott, Brad",33.1
+1030,SKI ,"Alexander Ash, Sue",33.37
+1030,SKI ,"Herrmann, Chris",33.48
+1030,SKI ,"Tse, Eric",33.61
+1030,SKI ,"Coward, Mariann",33.62
+1030,SKI ,"Milthorpe, Randy",33.63
+1030,SKI ,"Sclater, Andrew",33.78
+1030,SKI ,"Charland, Daniel",33.78
+1030,SKI ,"Kilmer-Choi, Kevin",34.14
+1030,SKI ,"Bugler, Lisa",34.17
+1030,SKI ,"Livingston, Peter",34.33
+1030,SKI ,"Petrella, Tony",34.33
+1030,SKI ,"Mehta, Tushar",34.35
+1030,SKI ,"Nicol, Heather",34.38
+1030,SKI ,"McLoughlin, Kevin",34.51
+1030,SKI ,"Kofman, Lori",34.76
+1030,SKI ,"Carragher, Sean",34.86
+1030,SKI ,"Diamond, Richard",34.88
+1030,SKI ,"Lewis, Stephen",35.12
+1030,SKI ,"Bellissimo, Joseph",35.22
+1030,SKI ,"McKellar, Dana",35.31
+1030,SKI ,"Abbott, Tori",35.78
+1030,SKI ,"Oegema, Bernard",36.17
+1030,SKI ,"Blainey, David",36.27
+1030,SKI ,"Jayson, Doris",36.59
+1030,SKI ,"Morrison, Roz",36.59
+1030,SKI ,"Pitman, Craig",36.72
+1030,SKI ,"Pridham, Sue",36.92
+1030,SKI ,"Vandewiele, Christophe",37.09
+1030,SKI ,"Charland, Louis",37.14
+1030,SKI ,"Henry, Alex",37.15
+1030,SKI ,"Koster, Steven",37.74
+1030,SKI ,"Ancion, Audrey",38.83
+1030,SKI ,"Tse, Jennifer",38.85
+1030,SKI ,"Sharland, Jill",38.9
+1030,SKI ,"Gelfand, Sara",39.04
+1030,SKI ,"Kolber, Jonathan",39.07
+1030,SKI ,"Perlus, Joanna",39.18
+1030,SKI ,"Skelding, Fiona",39.47
+1030,SKI ,"Chmelnitsky, David",39.67
+1030,SKI ,"Graham, Byron",40.58
+1030,SKI ,"Gingrich, Wayne",40.68
+1030,SKI ,"Ziyaee, Matt",41.12
+1030,SKI ,"Hardy, Shane",41.64
+1030,SKI ,"Ewen, Jenny",42.4
+1030,SKI ,"Ash, Stewart",42.81
+1030,SKI ,"Laurie, Talia",42.82
+1030,SKI ,"Berthomier, Alison",44.1
+1030,SKI ,"Arumainayagam, Joe",45
+1030,SKI ,"Charland, Ilene",46.97
+1030,SKI ,"Danaie, Gelare",47.13
+1030,SNBD,"Perlus, Miklos",25.66
+1030,SNBD,"Kilmer-Choi, Kevin",28.55
+1030,SNBD,"Oegema, Bernard",28.87
+1030,SNBD,"Kiss, Andrea",30.21
+1030,SNBD,"Blainey, David",30.22
+1030,SNBD,"Berthomier, Romain",30.28
+1030,SNBD,"McEachen, Paul",30.54
+1030,SNBD,"Milthorpe, Randy",31.42
+1030,SNBD,"Ramshaw, Sheri",31.97
+1030,SNBD,"Sweeney, Sean",33.25
+1030,SNBD,"Cameron, David",33.98
+1030,SNBD,"McDonald, D'Arcy",34.37
+1030,SNBD,"Perlus, Joanna",36.99
+1030,SNBD,"Silverberg, Dena",39.09
+1031,SKI ,"McTaggart, Michael",38.78
+1031,SKI ,"Weinberg, Cale",39.29
+1031,SKI ,"Wood, McLean",39.62
+1031,SKI ,"Kofman, Jordan",39.74
+1031,SKI ,"Henry, Shane",41.22
+1031,SKI ,"Daly, Thomas",41.23
+1031,SKI ,"Moorhead, Peter",41.63
+1031,SKI ,"Park, Jason",41.75
+1031,SKI ,"Coward, Laura",41.77
+1031,SKI ,"Kolber, Daniel",42.22
+1031,SKI ,"Rogers, Andrew",42.62
+1031,SKI ,"Crawford, Derek",42.62
+1031,SKI ,"DeGeer, Lisa",42.67
+1031,SKI ,"Hawtin, Robert",42.74
+1031,SKI ,"Brock, Brad",42.82
+1031,SKI ,"Smejkal, Robert",42.99
+1031,SKI ,"Coward, Peter",43.56
+1031,SKI ,"Beattie, Kevin",43.71
+1031,SKI ,"Ramshaw, Doug",44
+1031,SKI ,"Laurie, Mark",44.25
+1031,SKI ,"Reid, Rob",44.54
+1031,SKI ,"Perreault, Mitch",44.69
+1031,SKI ,"Henry, Rebecca",45.12
+1031,SKI ,"Cox, Alana",45.25
+1031,SKI ,"French, Don",45.72
+1031,SKI ,"Daly, Peter",45.77
+1031,SKI ,"Milthorpe, Randy",45.8
+1031,SKI ,"Gentile, Ryan",45.87
+1031,SKI ,"Pitman, Craig",46.62
+1031,SKI ,"Currie, Paul",46.92
+1031,SKI ,"Petrella, Tony",46.93
+1031,SKI ,"Kilmer-Choi, Kevin",47.05
+1031,SKI ,"Cooke, Chris",47.12
+1031,SKI ,"Morrison, David",47.15
+1031,SKI ,"Smitheman, Neal",47.15
+1031,SKI ,"Charland, Daniel",47.46
+1031,SKI ,"Bugler, Lisa",47.6
+1031,SKI ,"Capek, Catherine",47.69
+1031,SKI ,"Ramshaw, Sheri",47.94
+1031,SKI ,"Tse, Eric",48.21
+1031,SKI ,"Sclater, Andrew",48.23
+1031,SKI ,"Kiss, Andrea",48.34
+1031,SKI ,"Abbott, Brad",48.39
+1031,SKI ,"Alexander Ash, Sue",48.59
+1031,SKI ,"Abbott, Tori",48.85
+1031,SKI ,"Charland, Louis",49.69
+1031,SKI ,"Fridman, Richard",50.02
+1031,SKI ,"McLoughlin, Kevin",50.09
+1031,SKI ,"Nicol, Heather",50.13
+1031,SKI ,"McKellar, Dana",50.31
+1031,SKI ,"Ancion, Audrey",50.92
+1031,SKI ,"Blakeley, Trevor",51.24
+1031,SKI ,"Coward, Mariann",51.58
+1031,SKI ,"Lundy, Patrick",52.01
+1031,SKI ,"Koster, Steven",52.36
+1031,SKI ,"Vandewiele, Christophe",52.68
+1031,SKI ,"Bellissimo, Joseph",53.24
+1031,SKI ,"Pridham, Sue",53.75
+1031,SKI ,"Perlus, Joanna",54.2
+1031,SKI ,"Morrison, Roz",54.28
+1031,SKI ,"Tse, Jennifer",55.15
+1031,SKI ,"Hardy, Shane",55.91
+1031,SKI ,"Blainey, David",55.97
+1031,SKI ,"Sharland, Jill",56.06
+1031,SKI ,"Henry, Alex",56.78
+1031,SKI ,"Graham, Byron",56.99
+1031,SKI ,"Gingrich, Wayne",58.38
+1031,SKI ,"Chmelnitsky, David",59.21
+1031,SKI ,"Skelding, Fiona",59.51
+1031,SKI ,"Danaie, Gelare",59.9
+1031,SKI ,"Ash, Stewart",60.5
+1031,SKI ,"Berthomier, Alison",60.74
+1031,SKI ,"Ziyaee, Matt",62.46
+1031,SKI ,"Laurie, Talia",63.21
+1031,SKI ,"Charland, Ilene",67.37
+1031,SNBD,"Kilmer-Choi, Kevin",63.66
+1031,SNBD,"Milthorpe, Randy",66.96
+1031,SNBD,"Blainey, David",68.52
+1031,SNBD,"Sweeney, Sean",70.68
+1031,SNBD,"McEachen, Paul",71.32
+1031,SNBD,"Ramshaw, Sheri",71.91
+1031,SNBD,"McDonald, D'Arcy",73.44
+1031,SNBD,"Kiss, Andrea",74.33
+1031,SNBD,"Cameron, David",74.47
+1031,SNBD,"Berthomier, Romain",75.75
+1031,SNBD,"Perlus, Joanna",82.45
+1031,SNBD,"Silverberg, Dena",84.94
+1032,SKI ,"McTaggart, Michael",32.87
+1032,SKI ,"Parr, Nick",33.83
+1032,SKI ,"Cox, Jeff",34.03
+1032,SKI ,"Wood, McLean",34.58
+1032,SKI ,"Hune, Brandon",35.17
+1032,SKI ,"King, Brad",35.24
+1032,SKI ,"Coward, Laura",35.69
+1032,SKI ,"Daly, Thomas",35.9
+1032,SKI ,"Park, Jason",36.62
+1032,SKI ,"Moorhead, Peter",36.91
+1032,SKI ,"Crawford, Derek",38.06
+1032,SKI ,"Perlus, Miklos",38.19
+1032,SKI ,"DeGeer, Lisa",38.3
+1032,SKI ,"Brock, Brad",38.73
+1032,SKI ,"Hawtin, Robert",38.73
+1032,SKI ,"Rogers, Andrew",39.24
+1032,SKI ,"Kolber, Daniel",39.51
+1032,SKI ,"Henry, Shane",39.57
+1032,SKI ,"Smejkal, Robert",40.54
+1032,SKI ,"Hambly, Shane",40.89
+1032,SKI ,"Ramshaw, Doug",40.96
+1032,SKI ,"Coward, Peter",41.03
+1032,SKI ,"Beattie, Kevin",41.42
+1032,SKI ,"Henry, Rebecca",41.79
+1032,SKI ,"Cox, Alana",41.81
+1032,SKI ,"French, Don",41.99
+1032,SKI ,"Laurie, Mark",42.21
+1032,SKI ,"Reid, Rob",42.39
+1032,SKI ,"Daly, Peter",42.56
+1032,SKI ,"Cooke, Chris",42.87
+1032,SKI ,"Kamin, Lowell",42.89
+1032,SKI ,"Elder, Jeff",43.11
+1032,SKI ,"Glover, John",43.2
+1032,SKI ,"Perreault, Mitch",43.64
+1032,SKI ,"Klein, Jamie",44.42
+1032,SKI ,"Capek, Catherine",45.22
+1032,SKI ,"Pitman, Craig",45.6
+1032,SKI ,"Bellissimo, Joseph",45.66
+1032,SKI ,"Milthorpe, Randy",46.31
+1032,SKI ,"Charland, Daniel",46.42
+1032,SKI ,"Lewis, Stephen",46.88
+1032,SKI ,"Kilmer-Choi, Kevin",46.95
+1032,SKI ,"Fridman, Richard",47.33
+1032,SKI ,"Kiss, Andrea",47.53
+1032,SKI ,"Norrey, Brent",48.09
+1032,SKI ,"Sclater, Andrew",48.43
+1032,SKI ,"Bugler, Lisa",48.45
+1032,SKI ,"Currie, Paul",48.61
+1032,SKI ,"Jayson, Doris",49.13
+1032,SKI ,"Tse, Eric",49.28
+1032,SKI ,"Coward, Mariann",49.58
+1032,SKI ,"Ramshaw, Sheri",50.66
+1032,SKI ,"Abbott, Tori",50.97
+1032,SKI ,"Nicol, Heather",51.07
+1032,SKI ,"Koster, Steven",51.4
+1032,SKI ,"Sharland, Jill",51.87
+1032,SKI ,"Livingston, Peter",52.31
+1032,SKI ,"McKellar, Dana",53.35
+1032,SKI ,"Blainey, David",53.42
+1032,SKI ,"Carragher, Sean",53.47
+1032,SKI ,"Morrison, Roz",53.63
+1032,SKI ,"Pridham, Sue",54.01
+1032,SKI ,"Mehta, Tushar",54.56
+1032,SKI ,"Ancion, Audrey",54.69
+1032,SKI ,"Oegema, Bernard",54.99
+1032,SKI ,"Lundy, Patrick",56.28
+1032,SKI ,"Gingrich, Wayne",56.69
+1032,SKI ,"Graham, Byron",57.19
+1032,SKI ,"Hardy, Shane",59.02
+1032,SKI ,"Kolber, Jonathan",59.92
+1032,SKI ,"Henry, Alex",60.1
+1032,SKI ,"Petrella, Tony",60.3
+1032,SKI ,"Berthomier, Alison",60.53
+1032,SKI ,"Skelding, Fiona",61.04
+1032,SKI ,"Arumainayagam, Joe",61.08
+1032,SKI ,"Ziyaee, Matt",63.31
+1032,SKI ,"Charland, Ilene",70.09
+1032,SNBD,"Perlus, Miklos",29.52
+1032,SNBD,"Kilmer-Choi, Kevin",32.29
+1032,SNBD,"Oegema, Bernard",35.49
+1032,SNBD,"Milthorpe, Randy",35.63
+1032,SNBD,"Berthomier, Romain",37.45
+1032,SNBD,"Blainey, David",37.62
+1032,SNBD,"Sweeney, Sean",37.75
+1032,SNBD,"Cameron, David",38.18
+1032,SNBD,"McDonald, D'Arcy",38.57
+1032,SNBD,"Ramshaw, Sheri",38.79
+1032,SNBD,"Kiss, Andrea",38.95
+1032,SNBD,"Silverberg, Dena",43.71
+1033,SKI ,"McTaggart, Michael",43.34
+1033,SKI ,"Kofman, Jordan",43.9
+1033,SKI ,"Weinberg, Cale",44.03
+1033,SKI ,"Cox, Jeff",45.06
+1033,SKI ,"Wood, McLean",45.4
+1033,SKI ,"Hune, Brandon",45.55
+1033,SKI ,"Daly, Thomas",45.93
+1033,SKI ,"King, Brad",45.97
+1033,SKI ,"Henry, Shane",46.47
+1033,SKI ,"Park, Jason",46.63
+1033,SKI ,"Smejkal, Robert",46.96
+1033,SKI ,"Coward, Laura",47.35
+1033,SKI ,"DeGeer, Lisa",47.43
+1033,SKI ,"Hambly, Shane",47.44
+1033,SKI ,"Rogers, Andrew",47.85
+1033,SKI ,"Kolber, Daniel",48.03
+1033,SKI ,"Perlus, Miklos",48.07
+1033,SKI ,"Beattie, Kevin",48.18
+1033,SKI ,"Brock, Brad",48.18
+1033,SKI ,"Klein, Jamie",48.21
+1033,SKI ,"Ramshaw, Doug",48.27
+1033,SKI ,"Hawtin, Robert",48.29
+1033,SKI ,"Garber, David",48.44
+1033,SKI ,"Moorhead, Peter",48.49
+1033,SKI ,"Glover, John",48.6
+1033,SKI ,"Coward, Peter",48.78
+1033,SKI ,"Elder, Jeff",48.94
+1033,SKI ,"Cox, Alana",49.03
+1033,SKI ,"Laurie, Mark",49.18
+1033,SKI ,"Reid, Rob",49.23
+1033,SKI ,"French, Don",49.97
+1033,SKI ,"Daly, Peter",50.03
+1033,SKI ,"Kofman, Peter",50.46
+1033,SKI ,"Kamin, Lowell",50.63
+1033,SKI ,"Perreault, Mitch",50.81
+1033,SKI ,"Smitheman, Neal",51.06
+1033,SKI ,"Petrella, Tony",51.28
+1033,SKI ,"Gentile, Ryan",51.33
+1033,SKI ,"Pitman, Craig",51.39
+1033,SKI ,"Cooke, Chris",51.96
+1033,SKI ,"Ramshaw, Sheri",52.14
+1033,SKI ,"Kilmer-Choi, Kevin",52.16
+1033,SKI ,"Currie, Paul",52.23
+1033,SKI ,"Sclater, Andrew",52.43
+1033,SKI ,"Charland, Daniel",52.48
+1033,SKI ,"Milthorpe, Randy",53.05
+1033,SKI ,"Capek, Catherine",53.63
+1033,SKI ,"Alexander Ash, Sue",54.4
+1033,SKI ,"Norrey, Brent",54.66
+1033,SKI ,"Henry, Rebecca",54.84
+1033,SKI ,"Abbott, Brad",54.93
+1033,SKI ,"Lewis, Stephen",55.23
+1033,SKI ,"Coward, Mariann",55.84
+1033,SKI ,"Kiss, Andrea",55.9
+1033,SKI ,"Blakeley, Trevor",55.99
+1033,SKI ,"Tse, Eric",56.06
+1033,SKI ,"Kofman, Lori",56.1
+1033,SKI ,"Livingston, Peter",56.25
+1033,SKI ,"Nicol, Heather",56.77
+1033,SKI ,"Abbott, Tori",56.79
+1033,SKI ,"Lundy, Patrick",57.2
+1033,SKI ,"Mehta, Tushar",57.3
+1033,SKI ,"Jayson, Doris",57.52
+1033,SKI ,"Diamond, Richard",57.8
+1033,SKI ,"Ancion, Audrey",57.95
+1033,SKI ,"Carragher, Sean",57.98
+1033,SKI ,"Perlus, Joanna",58.46
+1033,SKI ,"Bellissimo, Joseph",58.63
+1033,SKI ,"Vandewiele, Christophe",58.85
+1033,SKI ,"Pridham, Sue",58.96
+1033,SKI ,"McKellar, Dana",59.01
+1033,SKI ,"Henry, Alex",59.16
+1033,SKI ,"Koster, Steven",59.2
+1033,SKI ,"Oegema, Bernard",59.45
+1033,SKI ,"Graham, Byron",59.79
+1033,SKI ,"Tse, Jennifer",61.35
+1033,SKI ,"Gingrich, Wayne",62.2
+1033,SKI ,"Morrison, Roz",62.72
+1033,SKI ,"Hardy, Shane",62.9
+1033,SKI ,"Ash, Stewart",63.57
+1033,SKI ,"Chmelnitsky, David",64.21
+1033,SKI ,"Tick, Gabriel",64.65
+1033,SKI ,"Gelfand, Sara",64.94
+1033,SKI ,"Skelding, Fiona",66.54
+1033,SKI ,"Arumainayagam, Joe",68.34
+1033,SKI ,"Kolber, Jonathan",68.57
+1033,SKI ,"Berthomier, Alison",69.45
+1033,SKI ,"Laurie, Talia",70.43
+1033,SKI ,"Charland, Ilene",75.46
+1033,SNBD,"Perlus, Miklos",55.55
+1033,SNBD,"Kilmer-Choi, Kevin",58.34
+1033,SNBD,"Oegema, Bernard",63.54
+1033,SNBD,"Milthorpe, Randy",66.15
+1033,SNBD,"McEachen, Paul",66.67
+1033,SNBD,"Berthomier, Romain",68.67
+1033,SNBD,"Ramshaw, Sheri",68.79
+1033,SNBD,"McDonald, D'Arcy",69.04
+1033,SNBD,"Sweeney, Sean",70.57
+1033,SNBD,"Kiss, Andrea",70.71
+1033,SNBD,"Cameron, David",70.81
+1033,SNBD,"Silverberg, Dena",79.37
+1033,SNBD,"Perlus, Joanna",80.1
+2029,SKI ,"Cox, Jeff",25.12
+2029,SKI ,"McTaggart, Michael",25.14
+2029,SKI ,"Hune, Brandon",25.76
+2029,SKI ,"King, Brad",25.8
+2029,SKI ,"Wood, McLean",25.91
+2029,SKI ,"Daly, Thomas",26
+2029,SKI ,"Balan, Nicholas",26.26
+2029,SKI ,"Stone, William",26.36
+2029,SKI ,"Kofman, Jordan",26.42
+2029,SKI ,"Stone, Jonathan",26.46
+2029,SKI ,"Henry, Shane",26.63
+2029,SKI ,"Coward, Stephanie",26.76
+2029,SKI ,"Hawtin, Corey",26.77
+2029,SKI ,"Glick, Jordan",26.78
+2029,SKI ,"Hubley, Neil",26.8
+2029,SKI ,"Hobbs, Myranda",26.83
+2029,SKI ,"Elder, Jeff",27.18
+2029,SKI ,"Smejkal, Robert",27.25
+2029,SKI ,"Kolber, Daniel",27.28
+2029,SKI ,"DeGeer, Lisa",27.28
+2029,SKI ,"Moorhead, Peter",27.3
+2029,SKI ,"Laurie, Mark",27.4
+2029,SKI ,"Brock, Brad",27.56
+2029,SKI ,"Hawtin, Robert",27.59
+2029,SKI ,"Coward, Laura",27.68
+2029,SKI ,"Wallace, Chris",27.69
+2029,SKI ,"Hall Davis, Martha",27.84
+2029,SKI ,"Glover, John",28.08
+2029,SKI ,"Hambly, Shane",28.09
+2029,SKI ,"Reid, Rob",28.12
+2029,SKI ,"French, Don",28.12
+2029,SKI ,"Petrella, Vaylen",28.29
+2029,SKI ,"Ramshaw, Doug",28.34
+2029,SKI ,"James, Stephanie",28.46
+2029,SKI ,"Herrmann, Chris",28.5
+2029,SKI ,"Gentile, Ryan",28.55
+2029,SKI ,"Pitman, Craig",28.75
+2029,SKI ,"Henry, Rebecca",28.77
+2029,SKI ,"Cox, Alana",28.91
+2029,SKI ,"Perreault, Joanna",28.94
+2029,SKI ,"Kamin, Lowell",29.32
+2029,SKI ,"Daly, Peter",29.37
+2029,SKI ,"Libby, Laura",29.52
+2029,SKI ,"Duffy, Earl",29.59
+2029,SKI ,"Kilmer-Choi, Kevin",29.74
+2029,SKI ,"Klein, Jamie",29.78
+2029,SKI ,"Perreault, Mitch",29.88
+2029,SKI ,"Sclater, Andrew",29.96
+2029,SKI ,"Goldenberg, Kyle",29.98
+2029,SKI ,"Stone, Hilary",30.03
+2029,SKI ,"Thorpe, Roger",30.05
+2029,SKI ,"Hamilton, Brook",30.15
+2029,SKI ,"Mecklinger, David",30.19
+2029,SKI ,"Currie, Paul",30.2
+2029,SKI ,"Lewis, Stephen",30.32
+2029,SKI ,"Drimmer, Leonard",30.43
+2029,SKI ,"Bugler, Lisa",30.74
+2029,SKI ,"Grossman, Adam",30.85
+2029,SKI ,"Abbott, Brad",31.11
+2029,SKI ,"Milthorpe, Randy",31.12
+2029,SKI ,"Leistner, Linda",31.36
+2029,SKI ,"Smitheman, Neal",31.42
+2029,SKI ,"Mecklinger, Jordy",31.48
+2029,SKI ,"Bellissimo, Joseph",31.58
+2029,SKI ,"Herrmann, Krystal",31.69
+2029,SKI ,"Petrella, Tony",31.76
+2029,SKI ,"Ramshaw, Sheri",31.77
+2029,SKI ,"Bollinger, Steven",31.97
+2029,SKI ,"Livingston, Peter",32.07
+2029,SKI ,"McLoughlin, Kevin",32.41
+2029,SKI ,"Kiss, Andrea",32.53
+2029,SKI ,"Breder, Audun",32.75
+2029,SKI ,"Diamond, Richard",32.87
+2029,SKI ,"Hider, Andrew",33.05
+2029,SKI ,"Nicol, Heather",33.2
+2029,SKI ,"Argiros, Nicholas",33.89
+2029,SKI ,"Fridman, Richard",34.02
+2029,SKI ,"Koster, Steven",34.13
+2029,SKI ,"Coward, Mariann",34.26
+2029,SKI ,"Jayson, Doris",34.3
+2029,SKI ,"Pridham, Sue",34.54
+2029,SKI ,"Libby, Harvey",34.59
+2029,SKI ,"Abbott, Tori",34.76
+2029,SKI ,"Mehta, Tushar",35.31
+2029,SKI ,"Herczeg, Ron",35.5
+2029,SKI ,"Henry, Alex",36.93
+2029,SKI ,"Cairns, Nicole",42.6
+2029,SNBD,"Kilmer-Choi, Kevin",37.24
+2029,SNBD,"Milthorpe, Randy",38.34
+2029,SNBD,"Langdon, Christopher",39.95
+2029,SNBD,"Leistner, Linda",42.82
+2029,SNBD,"Ramshaw, Sheri",42.91
+2029,SNBD,"Kiss, Andrea",46.04
+2029,SNBD,"Taylor, Kyla",46.23
+2029,SNBD,"Cameron, David",46.37
+2030,SKI ,"McTaggart, Michael",34.52
+2030,SKI ,"Stone, William",35.3
+2030,SKI ,"Balan, Nicholas",35.36
+2030,SKI ,"Ramshaw, Graham",35.37
+2030,SKI ,"Wood, McLean",35.58
+2030,SKI ,"Cox, Jeff",35.66
+2030,SKI ,"Daly, Thomas",36.01
+2030,SKI ,"Henry, Shane",36.06
+2030,SKI ,"Stone, Jonathan",36.12
+2030,SKI ,"Hune, Brandon",36.58
+2030,SKI ,"King, Brad",36.74
+2030,SKI ,"Hawtin, Corey",36.75
+2030,SKI ,"Moorhead, Peter",37.05
+2030,SKI ,"Hobbs, Myranda",37.19
+2030,SKI ,"Coward, Stephanie",37.26
+2030,SKI ,"Hubley, Neil",37.36
+2030,SKI ,"Elder, Jeff",37.62
+2030,SKI ,"Smejkal, Robert",37.7
+2030,SKI ,"Brock, Brad",37.72
+2030,SKI ,"Coward, Laura",37.87
+2030,SKI ,"Glick, Jordan",37.87
+2030,SKI ,"Parr, Jeff",37.9
+2030,SKI ,"Kolber, Daniel",38.14
+2030,SKI ,"Laurie, Mark",38.19
+2030,SKI ,"Perreault, Joanna",38.22
+2030,SKI ,"Klein, Jamie",38.6
+2030,SKI ,"Garber, David",38.6
+2030,SKI ,"DeGeer, Lisa",38.65
+2030,SKI ,"Wallace, Chris",38.73
+2030,SKI ,"Hall Davis, Martha",38.75
+2030,SKI ,"French, Don",38.89
+2030,SKI ,"Cox, Alana",39.03
+2030,SKI ,"James, Stephanie",39.08
+2030,SKI ,"Hawtin, Robert",39.13
+2030,SKI ,"Hambly, Shane",39.26
+2030,SKI ,"Coward, Peter",39.27
+2030,SKI ,"Glover, John",39.29
+2030,SKI ,"Petrella, Vaylen",39.3
+2030,SKI ,"Henry, Rebecca",39.77
+2030,SKI ,"Reid, Rob",39.8
+2030,SKI ,"Pitman, Craig",39.84
+2030,SKI ,"Ramshaw, Doug",39.86
+2030,SKI ,"Gentile, Ryan",40.07
+2030,SKI ,"Stone, Hilary",40.15
+2030,SKI ,"Goldenberg, Kyle",40.45
+2030,SKI ,"Leistner, Linda",40.63
+2030,SKI ,"Perreault, Mitch",40.68
+2030,SKI ,"Hamilton, Brook",40.74
+2030,SKI ,"Kilmer-Choi, Kevin",40.86
+2030,SKI ,"Petrella, Tony",40.94
+2030,SKI ,"Libby, Laura",41
+2030,SKI ,"Kamin, Lowell",41.05
+2030,SKI ,"Sclater, Andrew",41.06
+2030,SKI ,"Grossman, Adam",41.3
+2030,SKI ,"Bugler, Lisa",41.35
+2030,SKI ,"Milthorpe, Randy",41.36
+2030,SKI ,"Currie, Paul",41.37
+2030,SKI ,"Mecklinger, David",41.47
+2030,SKI ,"Lewis, Stephen",41.76
+2030,SKI ,"Daly, Peter",41.85
+2030,SKI ,"Mehta, Tushar",42.48
+2030,SKI ,"Ramshaw, Sheri",42.73
+2030,SKI ,"Thorpe, Roger",42.78
+2030,SKI ,"Capek, Catherine",42.86
+2030,SKI ,"McLoughlin, Kevin",42.88
+2030,SKI ,"Davis, Scott",43.18
+2030,SKI ,"Norrey, Brent",43.69
+2030,SKI ,"Kiss, Andrea",43.7
+2030,SKI ,"Fridman, Richard",43.71
+2030,SKI ,"Cossar, Michael",43.84
+2030,SKI ,"Mecklinger, Jordy",43.93
+2030,SKI ,"Jayson, Doris",44.36
+2030,SKI ,"Diamond, Richard",44.69
+2030,SKI ,"Nicol, Heather",44.75
+2030,SKI ,"Herrmann, Matthew",44.94
+2030,SKI ,"Breder, Audun",44.95
+2030,SKI ,"Libby, Harvey",45.07
+2030,SKI ,"Bollinger, Steven",45.1
+2030,SKI ,"Livingston, Peter",45.49
+2030,SKI ,"Blainey, David",45.64
+2030,SKI ,"Coward, Mariann",45.65
+2030,SKI ,"Hider, Andrew",45.73
+2030,SKI ,"Koster, Steven",45.89
+2030,SKI ,"Bellissimo, Joseph",46.31
+2030,SKI ,"Hardy, Shane",47.93
+2030,SKI ,"Argiros, Nicholas",48.26
+2030,SKI ,"Henry, Alex",48.65
+2030,SKI ,"Laurie, Talia",54.92
+2030,SKI ,"Cairns, Nicole",59.87
+2030,SNBD,"Kilmer-Choi, Kevin",45.89
+2030,SNBD,"Milthorpe, Randy",49.45
+2030,SNBD,"Oegema, Bernard",50.52
+2030,SNBD,"Ramshaw, Sheri",53.37
+2030,SNBD,"Kiss, Andrea",53.83
+2030,SNBD,"Leistner, Linda",54.28
+2030,SNBD,"Langdon, Christopher",54.72
+2030,SNBD,"Cameron, David",57.41
+2030,SNBD,"Taylor, Kyla",57.55
+2031,SKI ,"Balan, Nicholas",30.77
+2031,SKI ,"McTaggart, Michael",30.93
+2031,SKI ,"Cox, Jeff",31.16
+2031,SKI ,"Stone, William",31.63
+2031,SKI ,"Hawtin, Corey",33.03
+2031,SKI ,"Hune, Brandon",33.04
+2031,SKI ,"Wood, McLean",33.28
+2031,SKI ,"Stone, Jonathan",33.61
+2031,SKI ,"Coward, Stephanie",33.62
+2031,SKI ,"King, Brad",33.73
+2031,SKI ,"Daly, Thomas",34.25
+2031,SKI ,"Parr, Jeff",34.34
+2031,SKI ,"Brock, Brad",34.74
+2031,SKI ,"Henry, Shane",34.76
+2031,SKI ,"James, Stephanie",34.79
+2031,SKI ,"Coward, Laura",34.99
+2031,SKI ,"Hubley, Neil",35.19
+2031,SKI ,"Hawtin, Robert",36.11
+2031,SKI ,"Garber, David",36.24
+2031,SKI ,"Kolber, Daniel",36.27
+2031,SKI ,"Smejkal, Robert",36.39
+2031,SKI ,"Wallace, Chris",37.11
+2031,SKI ,"Hall Davis, Martha",37.52
+2031,SKI ,"Moorhead, Peter",37.68
+2031,SKI ,"Laurie, Mark",38.66
+2031,SKI ,"Coward, Peter",39.01
+2031,SKI ,"Ramshaw, Doug",39.07
+2031,SKI ,"Elder, Jeff",39.28
+2031,SKI ,"Kamin, Lowell",39.31
+2031,SKI ,"French, Don",39.46
+2031,SKI ,"Stone, Hilary",39.55
+2031,SKI ,"Cox, Alana",39.8
+2031,SKI ,"Reid, Rob",40.49
+2031,SKI ,"Pitman, Craig",40.73
+2031,SKI ,"Daly, Peter",40.89
+2031,SKI ,"Herrmann, Chris",41.11
+2031,SKI ,"Duffy, Earl",42.05
+2031,SKI ,"Leistner, Linda",42.38
+2031,SKI ,"Grossman, Adam",42.92
+2031,SKI ,"Libby, Laura",43.07
+2031,SKI ,"Henry, Rebecca",43.1
+2031,SKI ,"Lewis, Stephen",43.2
+2031,SKI ,"Smitheman, Neal",43.32
+2031,SKI ,"Kilmer-Choi, Kevin",43.6
+2031,SKI ,"Hider, Andrew",43.64
+2031,SKI ,"Sclater, Andrew",43.68
+2031,SKI ,"Fridman, Richard",43.82
+2031,SKI ,"Perreault, Mitch",43.87
+2031,SKI ,"Breder, Audun",44.86
+2031,SKI ,"Abbott, Brad",44.98
+2031,SKI ,"Thorpe, Roger",45.14
+2031,SKI ,"Goldenberg, Kyle",45.24
+2031,SKI ,"Norrey, Brent",45.37
+2031,SKI ,"Currie, Paul",45.55
+2031,SKI ,"Herrmann, Krystal",45.83
+2031,SKI ,"Jayson, Doris",46.08
+2031,SKI ,"Capek, Catherine",46.19
+2031,SKI ,"Diamond, Richard",46.2
+2031,SKI ,"Abbott, Tori",46.31
+2031,SKI ,"Bellissimo, Joseph",46.85
+2031,SKI ,"Kiss, Andrea",46.97
+2031,SKI ,"Libby, Harvey",47.09
+2031,SKI ,"Davis, Scott",47.27
+2031,SKI ,"Blainey, David",47.35
+2031,SKI ,"Bugler, Lisa",47.38
+2031,SKI ,"Mehta, Tushar",47.57
+2031,SKI ,"McLoughlin, Kevin",47.71
+2031,SKI ,"Ramshaw, Sheri",48.01
+2031,SKI ,"Coward, Mariann",48.53
+2031,SKI ,"Pridham, Sue",48.9
+2031,SKI ,"Hardy, Shane",49.11
+2031,SKI ,"Livingston, Peter",49.91
+2031,SKI ,"Glover, John",51.48
+2031,SKI ,"Argiros, Nicholas",51.72
+2031,SKI ,"Koster, Steven",52.77
+2031,SKI ,"Henry, Alex",55.86
+2031,SKI ,"Laurie, Talia",62.04
+2031,SKI ,"Cairns, Nicole",69.05
+2031,SNBD,"Kilmer-Choi, Kevin",34.23
+2031,SNBD,"Oegema, Bernard",37.12
+2031,SNBD,"Milthorpe, Randy",37.27
+2031,SNBD,"Leistner, Linda",40.88
+2031,SNBD,"Hall Davis, Martha",41.05
+2031,SNBD,"Ramshaw, Sheri",41.67
+2031,SNBD,"Cameron, David",42.47
+2031,SNBD,"Langdon, Christopher",42.81
+2031,SNBD,"Davis, Scott",45.3
+2031,SNBD,"Taylor, Kyla",45.82
+2032,SKI ,"McTaggart, Michael",43
+2032,SKI ,"Cox, Jeff",43.54
+2032,SKI ,"Stone, William",43.94
+2032,SKI ,"Daly, Thomas",44.62
+2032,SKI ,"Wood, McLean",44.91
+2032,SKI ,"King, Brad",44.94
+2032,SKI ,"Balan, Nicholas",45.11
+2032,SKI ,"Hubley, Neil",45.53
+2032,SKI ,"Henry, Shane",45.7
+2032,SKI ,"Ramshaw, Graham",45.71
+2032,SKI ,"Coward, Stephanie",46.29
+2032,SKI ,"Moorhead, Peter",46.35
+2032,SKI ,"Hobbs, Myranda",46.4
+2032,SKI ,"Elder, Jeff",46.47
+2032,SKI ,"Hambly, Shane",46.65
+2032,SKI ,"Hawtin, Robert",47.1
+2032,SKI ,"Perreault, Joanna",47.19
+2032,SKI ,"Klein, Jamie",47.27
+2032,SKI ,"Garber, David",47.29
+2032,SKI ,"Hall Davis, Martha",47.33
+2032,SKI ,"Smejkal, Robert",47.38
+2032,SKI ,"Glick, Jordan",47.45
+2032,SKI ,"Glover, John",47.59
+2032,SKI ,"Wallace, Chris",47.81
+2032,SKI ,"Coward, Laura",47.82
+2032,SKI ,"Laurie, Mark",47.98
+2032,SKI ,"French, Don",48.11
+2032,SKI ,"Ramshaw, Doug",48.3
+2032,SKI ,"James, Stephanie",48.5
+2032,SKI ,"Herrmann, Chris",48.56
+2032,SKI ,"Cox, Alana",48.64
+2032,SKI ,"Reid, Rob",48.71
+2032,SKI ,"Grossman, Adam",49.08
+2032,SKI ,"Petrella, Vaylen",49.35
+2032,SKI ,"Hamilton, Brook",49.47
+2032,SKI ,"Gentile, Ryan",49.48
+2032,SKI ,"Perreault, Mitch",49.56
+2032,SKI ,"Daly, Peter",49.61
+2032,SKI ,"Pitman, Craig",49.67
+2032,SKI ,"Sclater, Andrew",49.81
+2032,SKI ,"Milthorpe, Randy",49.89
+2032,SKI ,"Coward, Peter",49.93
+2032,SKI ,"Goldenberg, Kyle",49.94
+2032,SKI ,"Stone, Hilary",50.52
+2032,SKI ,"Libby, Laura",50.74
+2032,SKI ,"Currie, Paul",50.98
+2032,SKI ,"Smitheman, Neal",51.38
+2032,SKI ,"Mecklinger, Jordy",51.46
+2032,SKI ,"Hider, Andrew",51.9
+2032,SKI ,"Kiss, Andrea",52.14
+2032,SKI ,"Capek, Catherine",52.3
+2032,SKI ,"Mehta, Tushar",52.32
+2032,SKI ,"Thorpe, Roger",52.35
+2032,SKI ,"Herrmann, Krystal",52.46
+2032,SKI ,"Breder, Audun",52.48
+2032,SKI ,"Norrey, Brent",52.49
+2032,SKI ,"Ramshaw, Sheri",52.51
+2032,SKI ,"Bollinger, Steven",52.69
+2032,SKI ,"Petrella, Tony",52.83
+2032,SKI ,"Livingston, Peter",53.21
+2032,SKI ,"Lewis, Stephen",53.47
+2032,SKI ,"McLoughlin, Kevin",53.85
+2032,SKI ,"Fridman, Richard",54.11
+2032,SKI ,"Davis, Scott",54.2
+2032,SKI ,"Mecklinger, David",54.22
+2032,SKI ,"Jayson, Doris",54.91
+2032,SKI ,"Libby, Harvey",55.04
+2032,SKI ,"Coward, Mariann",55.97
+2032,SKI ,"Abbott, Brad",56.16
+2032,SKI ,"Blainey, David",56.24
+2032,SKI ,"Bellissimo, Joseph",56.6
+2032,SKI ,"Koster, Steven",57.01
+2032,SKI ,"Pridham, Sue",57.97
+2032,SKI ,"Hardy, Shane",58.18
+2032,SKI ,"Herczeg, Ron",59.2
+2032,SKI ,"Henry, Alex",61.45
+2032,SKI ,"Cairns, Nicole",78.23
+2032,SNBD,"Oegema, Bernard",59.51
+2032,SNBD,"Milthorpe, Randy",62.48
+2032,SNBD,"Ramshaw, Sheri",66.18
+2032,SNBD,"Kiss, Andrea",66.48
+2032,SNBD,"Langdon, Christopher",67.82
+2032,SNBD,"Taylor, Kyla",71.21
+2033,SKI ,"Hune, Brandon",24.54
+2033,SKI ,"Balan, Nicholas",24.94
+2033,SKI ,"McTaggart, Michael",24.96
+2033,SKI ,"Cox, Jeff",25.38
+2033,SKI ,"Daly, Thomas",25.39
+2033,SKI ,"Wood, McLean",25.5
+2033,SKI ,"Coward, Stephanie",25.58
+2033,SKI ,"Ramshaw, Graham",25.77
+2033,SKI ,"Coward, Laura",25.92
+2033,SKI ,"Hubley, Neil",26.24
+2033,SKI ,"Daly, Michael",26.45
+2033,SKI ,"Hawtin, Robert",26.96
+2033,SKI ,"Laurie, Mark",27
+2033,SKI ,"Ramshaw, Doug",27.06
+2033,SKI ,"Garber, David",27.18
+2033,SKI ,"DeGeer, Lisa",27.2
+2033,SKI ,"Hamilton, Brook",27.22
+2033,SKI ,"Petrella, Vaylen",27.32
+2033,SKI ,"Elder, Jeff",27.36
+2033,SKI ,"Glick, Jordan",27.61
+2033,SKI ,"Cox, Alana",27.77
+2033,SKI ,"Perreault, Joanna",27.77
+2033,SKI ,"Brock, Brad",27.81
+2033,SKI ,"Taylor, Maddy",28.16
+2033,SKI ,"Balan, Mackenzie",28.3
+2033,SKI ,"Reid, Rob",28.46
+2033,SKI ,"Duffy, Earl",28.66
+2033,SKI ,"Grossman, Adam",29.08
+2033,SKI ,"Daly, Peter",29.16
+2033,SKI ,"Lo, Joseph",29.3
+2033,SKI ,"Lewis, Stephen",29.7
+2033,SKI ,"Robertson, Todd",29.89
+2033,SKI ,"Leistner, Linda",30.36
+2033,SKI ,"Perreault, Mitch",30.39
+2033,SKI ,"Mehta, Tushar",30.83
+2033,SKI ,"Goldenberg, Kyle",30.99
+2033,SKI ,"Petrella, Tony",31.09
+2033,SKI ,"Capek, Catherine",31.24
+2033,SKI ,"Kilmer-Choi, Kevin",31.29
+2033,SKI ,"Eva, David",31.36
+2033,SKI ,"Smitheman, Neal",31.67
+2033,SKI ,"Bellissimo, Joseph",32.42
+2033,SKI ,"Coward, Mariann",33.66
+2033,SKI ,"Partnoy, Glen",34.86
+2033,SKI ,"McKellar, Dana",34.88
+2033,SKI ,"Rombough, Jeff",36.86
+2033,SKI ,"Henry, Alex",38.66
+2034,SKI ,"Hune, Brandon",24.32
+2034,SKI ,"McTaggart, Michael",24.59
+2034,SKI ,"Cox, Jeff",24.66
+2034,SKI ,"Coward, Laura",24.71
+2034,SKI ,"Wood, McLean",24.72
+2034,SKI ,"Balan, Nicholas",24.93
+2034,SKI ,"Hawtin, Corey",25.03
+2034,SKI ,"Ramshaw, Graham",25.09
+2034,SKI ,"Moorhead, Peter",25.67
+2034,SKI ,"Hawtin, Robert",25.81
+2034,SKI ,"Hubley, Neil",25.86
+2034,SKI ,"Daly, Michael",25.88
+2034,SKI ,"Hamilton, Brook",25.91
+2034,SKI ,"Coward, Stephanie",26.29
+2034,SKI ,"Elder, Jeff",26.38
+2034,SKI ,"Brock, Brad",26.39
+2034,SKI ,"Smejkal, Robert",26.39
+2034,SKI ,"Laurie, Mark",26.61
+2034,SKI ,"Garber, David",26.73
+2034,SKI ,"Hambly, Shane",26.94
+2034,SKI ,"Ramshaw, Doug",26.97
+2034,SKI ,"Glick, Jordan",27.06
+2034,SKI ,"James, Stephanie",27.13
+2034,SKI ,"Taylor, Maddy",27.25
+2034,SKI ,"Petrella, Vaylen",27.29
+2034,SKI ,"Cox, Alana",27.52
+2034,SKI ,"Reid, Rob",27.56
+2034,SKI ,"French, Don",27.58
+2034,SKI ,"Balan, Mackenzie",27.73
+2034,SKI ,"Perreault, Joanna",27.77
+2034,SKI ,"Grossman, Adam",27.9
+2034,SKI ,"Duffy, Earl",28.09
+2034,SKI ,"Beattie, Kevin",28.16
+2034,SKI ,"Daly, Peter",28.31
+2034,SKI ,"Robertson, Todd",28.34
+2034,SKI ,"Pitman, Craig",28.54
+2034,SKI ,"Goldenberg, Kyle",28.79
+2034,SKI ,"Kilmer-Choi, Kevin",28.96
+2034,SKI ,"Leistner, Linda",29.2
+2034,SKI ,"Perreault, Mitch",29.82
+2034,SKI ,"Mehta, Tushar",29.93
+2034,SKI ,"Petrella, Tony",30.3
+2034,SKI ,"Eva, David",30.38
+2034,SKI ,"VanGroningen, Bill",30.49
+2034,SKI ,"McLoughlin, Kevin",30.56
+2034,SKI ,"Capek, Catherine",30.6
+2034,SKI ,"Henry, Shane",30.61
+2034,SKI ,"Partnoy, Glen",30.76
+2034,SKI ,"Smitheman, Neal",30.82
+2034,SKI ,"Bellissimo, Joseph",31.03
+2034,SKI ,"Bollinger, Steven",31.25
+2034,SKI ,"Norrey, Brent",31.4
+2034,SKI ,"Hardy, Shane",32.21
+2034,SKI ,"Herczeg, Ron",32.63
+2034,SKI ,"Coward, Mariann",32.75
+2034,SKI ,"McKellar, Dana",32.9
+2034,SKI ,"Rombough, Jeff",33.62
+2034,SKI ,"Rossignol, Cindy",33.98
+2034,SKI ,"Crawford, Stephen",34.45
+2034,SNBD,"Hildebrand, Andrew",31.76
+2034,SNBD,"Kilmer-Choi, Kevin",36.76
+2034,SNBD,"Arnold, Kieran",40.07
+2034,SNBD,"Leistner, Linda",40.96
+2034,SNBD,"VanGroningen, Bill",41.88
+2034,SNBD,"Crawford, Stephen",44.41
+2034,SNBD,"Rossignol, Cindy",68.01
+2035,SKI ,"McTaggart, Michael",36.66
+2035,SKI ,"Balan, Nicholas",37.08
+2035,SKI ,"Cox, Jeff",37.13
+2035,SKI ,"Hune, Brandon",37.21
+2035,SKI ,"Hawtin, Corey",37.7
+2035,SKI ,"Wood, McLean",37.73
+2035,SKI ,"Daly, Thomas",37.77
+2035,SKI ,"Ramshaw, Graham",38.01
+2035,SKI ,"Henry, Shane",38.05
+2035,SKI ,"Daly, Michael",38.48
+2035,SKI ,"Moorhead, Peter",38.52
+2035,SKI ,"Smejkal, Robert",38.6
+2035,SKI ,"Hubley, Neil",38.69
+2035,SKI ,"Coward, Stephanie",38.77
+2035,SKI ,"Coward, Laura",39.03
+2035,SKI ,"Hambly, Shane",39.19
+2035,SKI ,"Elder, Jeff",39.24
+2035,SKI ,"Laurie, Mark",39.33
+2035,SKI ,"Whitney, Connor",39.35
+2035,SKI ,"DeGeer, Lisa",39.38
+2035,SKI ,"Brock, Brad",39.48
+2035,SKI ,"Hamilton, Brook",39.53
+2035,SKI ,"Hawtin, Robert",39.82
+2035,SKI ,"Garber, David",40.25
+2035,SKI ,"Taylor, Maddy",40.28
+2035,SKI ,"James, Stephanie",40.33
+2035,SKI ,"Perreault, Joanna",40.45
+2035,SKI ,"Cox, Alana",40.47
+2035,SKI ,"Balan, Mackenzie",40.56
+2035,SKI ,"Grossman, Adam",40.98
+2035,SKI ,"Petrella, Vaylen",41.41
+2035,SKI ,"Glick, Jordan",41.48
+2035,SKI ,"Ramshaw, Doug",41.5
+2035,SKI ,"Beattie, Kevin",42.07
+2035,SKI ,"French, Don",42.08
+2035,SKI ,"Reid, Rob",42.09
+2035,SKI ,"Daly, Peter",42.61
+2035,SKI ,"Kilmer-Choi, Kevin",42.99
+2035,SKI ,"Leistner, Linda",43.13
+2035,SKI ,"Eva, David",43.15
+2035,SKI ,"Lewis, Stephen",43.3
+2035,SKI ,"Perreault, Mitch",43.42
+2035,SKI ,"Goldenberg, Kyle",43.69
+2035,SKI ,"Norrey, Brent",43.7
+2035,SKI ,"Robertson, Todd",43.95
+2035,SKI ,"Petrella, Tony",44.76
+2035,SKI ,"Mehta, Tushar",44.78
+2035,SKI ,"Smitheman, Neal",44.86
+2035,SKI ,"Bollinger, Steven",45.09
+2035,SKI ,"Capek, Catherine",45.21
+2035,SKI ,"Ramshaw, Sheri",45.33
+2035,SKI ,"Bellissimo, Joseph",46.5
+2035,SKI ,"VanGroningen, Bill",46.92
+2035,SKI ,"Coward, Mariann",48.14
+2035,SKI ,"Partnoy, Glen",48.28
+2035,SKI ,"Hardy, Shane",50.36
+2035,SKI ,"McKellar, Dana",50.59
+2035,SKI ,"Rombough, Jeff",51.33
+2035,SKI ,"Rossignol, Cindy",51.41
+2035,SKI ,"Henry, Alex",54.61
+2035,SNBD,"Hildebrand, Andrew",49.7
+2035,SNBD,"Kilmer-Choi, Kevin",54.68
+2035,SNBD,"Arnold, Kieran",58.13
+2035,SNBD,"VanGroningen, Bill",63.41
+2035,SNBD,"Leistner, Linda",64.3
+2035,SNBD,"Rossignol, Cindy",78.85
+2036,SKI ,"Balan, Nicholas",29.73
+2036,SKI ,"McTaggart, Michael",31.21
+2036,SKI ,"Ramshaw, Graham",31.56
+2036,SKI ,"Wood, McLean",31.7
+2036,SKI ,"Coward, Stephanie",31.85
+2036,SKI ,"Hune, Brandon",32.51
+2036,SKI ,"Cox, Jeff",32.63
+2036,SKI ,"Daly, Thomas",33.67
+2036,SKI ,"Coward, Laura",34.55
+2036,SKI ,"Whitney, Connor",34.83
+2036,SKI ,"Garber, David",34.85
+2036,SKI ,"Hubley, Neil",34.97
+2036,SKI ,"Daly, Michael",35.13
+2036,SKI ,"Brock, Brad",35.15
+2036,SKI ,"Henry, Shane",35.24
+2036,SKI ,"Hawtin, Robert",35.7
+2036,SKI ,"Park, Jason",35.98
+2036,SKI ,"DeGeer, Lisa",36.24
+2036,SKI ,"Hamilton, Brook",36.43
+2036,SKI ,"Moorhead, Peter",36.59
+2036,SKI ,"Smejkal, Robert",37.09
+2036,SKI ,"Hambly, Shane",37.56
+2036,SKI ,"Glick, Jordan",38.06
+2036,SKI ,"James, Stephanie",38.15
+2036,SKI ,"Laurie, Mark",38.81
+2036,SKI ,"Beattie, Kevin",39.31
+2036,SKI ,"French, Don",39.39
+2036,SKI ,"Cox, Alana",39.52
+2036,SKI ,"Perreault, Joanna",39.86
+2036,SKI ,"Kilmer-Choi, Kevin",40.38
+2036,SKI ,"Daly, Peter",40.77
+2036,SKI ,"Leistner, Linda",41.49
+2036,SKI ,"Grossman, Adam",41.61
+2036,SKI ,"Perreault, Mitch",41.73
+2036,SKI ,"Elder, Jeff",41.77
+2036,SKI ,"Ramshaw, Doug",41.95
+2036,SKI ,"Robertson, Todd",42.16
+2036,SKI ,"Duffy, Earl",42.32
+2036,SKI ,"Reid, Rob",42.35
+2036,SKI ,"Bollinger, Steven",44.43
+2036,SKI ,"Mehta, Tushar",45.82
+2036,SKI ,"McLoughlin, Kevin",46.13
+2036,SKI ,"Capek, Catherine",46.13
+2036,SKI ,"Bellissimo, Joseph",46.34
+2036,SKI ,"Eva, David",47.09
+2036,SKI ,"Coward, Mariann",47.8
+2036,SKI ,"Ramshaw, Sheri",48.41
+2036,SKI ,"Hardy, Shane",50.48
+2036,SKI ,"Henry, Alex",59.86
+2036,SNBD,"Kilmer-Choi, Kevin",44.47
+2036,SNBD,"Leistner, Linda",51.45
+2036,SNBD,"VanGroningen, Bill",52.72
+2036,SNBD,"Rossignol, Cindy",55.5
+2036,SNBD,"Crawford, Stephen",56.83
+2037,SKI ,"McTaggart, Michael",43.69
+2037,SKI ,"Wood, McLean",44.81
+2037,SKI ,"Ramshaw, Graham",44.89
+2037,SKI ,"Daly, Thomas",44.94
+2037,SKI ,"Coward, Laura",45.38
+2037,SKI ,"Cox, Jeff",45.5
+2037,SKI ,"Henry, Shane",45.5
+2037,SKI ,"Balan, Nicholas",45.76
+2037,SKI ,"Hune, Brandon",46.11
+2037,SKI ,"Coward, Stephanie",46.31
+2037,SKI ,"Smejkal, Robert",46.34
+2037,SKI ,"Park, Jason",46.74
+2037,SKI ,"Daly, Michael",46.81
+2037,SKI ,"Brock, Brad",47.01
+2037,SKI ,"Moorhead, Peter",47.38
+2037,SKI ,"Whitney, Connor",47.61
+2037,SKI ,"DeGeer, Lisa",47.77
+2037,SKI ,"Laurie, Mark",47.81
+2037,SKI ,"Hambly, Shane",48.41
+2037,SKI ,"Hamilton, Brook",48.49
+2037,SKI ,"Garber, David",48.51
+2037,SKI ,"French, Don",48.96
+2037,SKI ,"Glick, Jordan",49.08
+2037,SKI ,"Ramshaw, Doug",49.3
+2037,SKI ,"James, Stephanie",49.44
+2037,SKI ,"Grossman, Adam",49.62
+2037,SKI ,"Beattie, Kevin",50.03
+2037,SKI ,"Balan, Mackenzie",50.29
+2037,SKI ,"Petrella, Vaylen",50.36
+2037,SKI ,"Elder, Jeff",50.39
+2037,SKI ,"Daly, Peter",50.59
+2037,SKI ,"Reid, Rob",50.97
+2037,SKI ,"Duffy, Earl",51.14
+2037,SKI ,"Leistner, Linda",51.42
+2037,SKI ,"Perreault, Mitch",51.5
+2037,SKI ,"Goldenberg, Kyle",52.07
+2037,SKI ,"Eva, David",52.3
+2037,SKI ,"Norrey, Brent",52.53
+2037,SKI ,"Kilmer-Choi, Kevin",53.38
+2037,SKI ,"Mehta, Tushar",53.41
+2037,SKI ,"Bollinger, Steven",53.82
+2037,SKI ,"Smitheman, Neal",54.03
+2037,SKI ,"Petrella, Tony",55.47
+2037,SKI ,"Coward, Mariann",57.25
+2037,SKI ,"Hardy, Shane",58.93
+2037,SKI ,"Crawford, Stephen",61.61
+2037,SKI ,"Henry, Alex",65.91
+2037,SNBD,"Hildebrand, Andrew",57.89
+2037,SNBD,"Kilmer-Choi, Kevin",63.31
+2037,SNBD,"Crawford, Stephen",70.72
+2037,SNBD,"Leistner, Linda",72.68
+3035,SKI ,"McTaggart, Michael",23.78
+3035,SKI ,"Daly, Thomas",24.35
+3035,SKI ,"Wood, McLean",24.59
+3035,SKI ,"Ramshaw, Graham",24.78
+3035,SKI ,"Coward, Laura",24.95
+3035,SKI ,"Coward, Stephanie",25.03
+3035,SKI ,"Hawtin, Corey",25.27
+3035,SKI ,"Henry, Shane",25.67
+3035,SKI ,"Stoneham, Kenneth",25.79
+3035,SKI ,"Hubley, Neil",25.9
+3035,SKI ,"Cox, Jeff",26.15
+3035,SKI ,"Hamilton, Brook",26.8
+3035,SKI ,"Brock, Brad",26.87
+3035,SKI ,"Hawtin, Robert",27.02
+3035,SKI ,"Ramshaw, Doug",27.05
+3035,SKI ,"Glick, Jordan",27.11
+3035,SKI ,"Moorhead, Peter",27.17
+3035,SKI ,"Cox, Alana",27.21
+3035,SKI ,"Eva, David",28.2
+3035,SKI ,"Henry, Rebecca",28.5
+3035,SKI ,"Pitman, Craig",28.51
+3035,SKI ,"Goldenberg, Kyle",29.22
+3035,SKI ,"Beattie, Kevin",29.37
+3035,SKI ,"Grossman, Adam",29.45
+3035,SKI ,"Robertson, Todd",29.73
+3035,SKI ,"Libby, Laura",30.75
+3035,SKI ,"Petrella, Tony",31.47
+3035,SKI ,"Mehta, Tushar",31.69
+3035,SKI ,"Ramshaw, Sheri",31.89
+3035,SKI ,"Capek, Catherine",32.09
+3035,SKI ,"Libby, Harvey",32.94
+3035,SKI ,"Kiss, Andrea",33.36
+3035,SKI ,"Okell, Justin",33.5
+3035,SKI ,"Argiros, Nicholas",33.72
+3035,SKI ,"Hillis, Jonathan",34.08
+3035,SKI ,"Hillis, Michelle",37.07
+3035,SKI ,"Mostyn, Matthew",37.83
+3036,SKI ,"McTaggart, Michael",23.74
+3036,SKI ,"Daly, Thomas",23.88
+3036,SKI ,"Wood, McLean",24.12
+3036,SKI ,"Cox, Jeff",24.14
+3036,SKI ,"Hune, Brandon",24.29
+3036,SKI ,"Ramshaw, Graham",24.54
+3036,SKI ,"Hawtin, Corey",24.58
+3036,SKI ,"Cartar, William",24.73
+3036,SKI ,"Coward, Laura",24.82
+3036,SKI ,"Coward, Stephanie",24.87
+3036,SKI ,"Henry, Shane",25.16
+3036,SKI ,"Hubley, Neil",25.35
+3036,SKI ,"Hambly, Shane",25.65
+3036,SKI ,"Parr, Jeff",25.74
+3036,SKI ,"DeGeer, Lisa",25.84
+3036,SKI ,"Moorhead, Peter",25.88
+3036,SKI ,"Smejkal, Robert",25.95
+3036,SKI ,"Stoneham, Kenneth",25.95
+3036,SKI ,"Park, Jason",26.18
+3036,SKI ,"Hawtin, Robert",26.42
+3036,SKI ,"Hamilton, Brook",26.52
+3036,SKI ,"Laurie, Mark",26.71
+3036,SKI ,"Garber, David",26.71
+3036,SKI ,"Brock, Brad",26.74
+3036,SKI ,"Cox, Alana",26.86
+3036,SKI ,"Grossman, Adam",26.92
+3036,SKI ,"Glick, Jordan",27.14
+3036,SKI ,"Cartar, Gillian",27.44
+3036,SKI ,"Ramshaw, Doug",27.51
+3036,SKI ,"French, Don",27.91
+3036,SKI ,"Perreault, Joanna",28.12
+3036,SKI ,"Pitman, Craig",28.16
+3036,SKI ,"Daly, Peter",28.74
+3036,SKI ,"Lewis, Stephen",28.91
+3036,SKI ,"Henry, Rebecca",28.99
+3036,SKI ,"Cartar, Holly",29.06
+3036,SKI ,"Goldenberg, Kyle",29.15
+3036,SKI ,"Kilmer-Choi, Kevin",29.43
+3036,SKI ,"Libby, Laura",29.57
+3036,SKI ,"Bugler, Lisa",29.61
+3036,SKI ,"Robertson, Todd",29.79
+3036,SKI ,"Mehta, Tushar",29.91
+3036,SKI ,"Megitt, Rachel",30.29
+3036,SKI ,"McLoughlin, Kevin",30.36
+3036,SKI ,"Ramshaw, Sheri",30.37
+3036,SKI ,"Bellissimo, Joseph",30.46
+3036,SKI ,"Perreault, Mitch",30.49
+3036,SKI ,"Bollinger, Steven",30.69
+3036,SKI ,"Merker, Iva",30.98
+3036,SKI ,"Petrella, Tony",31.23
+3036,SKI ,"Kiss, Andrea",31.4
+3036,SKI ,"Capek, Catherine",31.47
+3036,SKI ,"Cole, Matthew",32.23
+3036,SKI ,"Trager, Rob",32.24
+3036,SKI ,"Knowles, Morgan",32.5
+3036,SKI ,"Argiros, Nicholas",32.78
+3036,SKI ,"Libby, Harvey",32.82
+3036,SKI ,"Brown, Kevin",33.13
+3036,SKI ,"Norrey, Brent",33.25
+3036,SKI ,"Livingston, Peter",33.27
+3036,SKI ,"Riddell, Kate",34.37
+3036,SKI ,"Okell, Justin",34.55
+3036,SKI ,"Hillis, Jonathan",34.91
+3036,SKI ,"Rosenberg, Justin",36.15
+3036,SKI ,"Harrison, Troy",37.85
+3036,SKI ,"Henry, Alex",37.9
+3036,SKI ,"Laurie, Talia",39.03
+3036,SKI ,"Mostyn, Matthew",40.48
+3036,SKI ,"Hogeterp, Justin",41.19
+3037,SKI ,"McTaggart, Michael",29.99
+3037,SKI ,"Ramshaw, Graham",30.25
+3037,SKI ,"Hune, Brandon",30.44
+3037,SKI ,"Coward, Stephanie",31.5
+3037,SKI ,"Cox, Jeff",31.51
+3037,SKI ,"Cartar, William",32.71
+3037,SKI ,"Henry, Shane",33.33
+3037,SKI ,"Hubley, Neil",33.47
+3037,SKI ,"Park, Jason",33.81
+3037,SKI ,"Stoneham, Kenneth",34.32
+3037,SKI ,"Brock, Brad",34.6
+3037,SKI ,"Garber, David",34.71
+3037,SKI ,"Hambly, Shane",35.09
+3037,SKI ,"Moorhead, Peter",35.46
+3037,SKI ,"Hamilton, Brook",35.62
+3037,SKI ,"Glick, Jordan",36.2
+3037,SKI ,"Laurie, Mark",36.98
+3037,SKI ,"Beattie, Kevin",37.27
+3037,SKI ,"French, Don",37.33
+3037,SKI ,"Perreault, Joanna",38.06
+3037,SKI ,"Cartar, Gillian",38.08
+3037,SKI ,"Cox, Alana",38.24
+3037,SKI ,"Daly, Peter",38.42
+3037,SKI ,"Petrella, Vaylen",38.77
+3037,SKI ,"Grossman, Adam",39.27
+3037,SKI ,"Perreault, Mitch",40.4
+3037,SKI ,"Petrella, Tony",40.41
+3037,SKI ,"Libby, Laura",40.92
+3037,SKI ,"Robertson, Todd",41.19
+3037,SKI ,"Goldenberg, Kyle",41.31
+3037,SKI ,"Kilmer-Choi, Kevin",41.69
+3037,SKI ,"Ramshaw, Doug",42.11
+3037,SKI ,"Coward, Laura",42.49
+3037,SKI ,"Ramshaw, Sheri",42.52
+3037,SKI ,"Kiss, Andrea",43.09
+3037,SKI ,"Bollinger, Steven",43.16
+3037,SKI ,"Eva, David",44.16
+3037,SKI ,"Cole, Matthew",44.62
+3037,SKI ,"Argiros, Nicholas",44.74
+3037,SKI ,"Mehta, Tushar",44.84
+3037,SKI ,"McLoughlin, Kevin",44.99
+3037,SKI ,"Megitt, Rachel",45.07
+3037,SKI ,"Bugler, Lisa",45.3
+3037,SKI ,"Knowles, Morgan",45.37
+3037,SKI ,"Cartar, Holly",45.97
+3037,SKI ,"Trager, Rob",46.9
+3037,SKI ,"Rosenberg, Justin",48.47
+3037,SKI ,"Brown, Kevin",48.86
+3037,SKI ,"Libby, Harvey",48.95
+3037,SKI ,"Livingston, Peter",50.02
+3037,SKI ,"Okell, Justin",50.28
+3037,SKI ,"Crawford, Stephen",50.89
+3037,SKI ,"Mostyn, Matthew",52.05
+3037,SKI ,"Herczeg, Ron",55.21
+3037,SKI ,"Laurie, Talia",56.87
+3037,SKI ,"Hogeterp, Justin",62.22
+3038,SKI ,"Daly, Thomas",35.66
+3038,SKI ,"McTaggart, Michael",35.76
+3038,SKI ,"Wood, McLean",35.77
+3038,SKI ,"Hune, Brandon",36.26
+3038,SKI ,"Henry, Shane",36.58
+3038,SKI ,"Coward, Stephanie",36.9
+3038,SKI ,"Hubley, Neil",36.94
+3038,SKI ,"Cox, Jeff",37.05
+3038,SKI ,"Moorhead, Peter",37.34
+3038,SKI ,"Coward, Laura",37.48
+3038,SKI ,"Stoneham, Kenneth",38.08
+3038,SKI ,"Hambly, Shane",38.32
+3038,SKI ,"DeGeer, Lisa",38.46
+3038,SKI ,"Brock, Brad",38.49
+3038,SKI ,"Petrella, Vaylen",38.51
+3038,SKI ,"Glick, Jordan",38.64
+3038,SKI ,"Garber, David",38.86
+3038,SKI ,"Hawtin, Robert",39.16
+3038,SKI ,"Perreault, Joanna",39.41
+3038,SKI ,"Cox, Alana",39.45
+3038,SKI ,"Pitman, Craig",39.87
+3038,SKI ,"Beattie, Kevin",39.98
+3038,SKI ,"French, Don",40.27
+3038,SKI ,"Hamilton, Brook",40.42
+3038,SKI ,"Grossman, Adam",40.51
+3038,SKI ,"Daly, Peter",40.88
+3038,SKI ,"Libby, Laura",41.71
+3038,SKI ,"Robertson, Todd",41.73
+3038,SKI ,"Ramshaw, Doug",42.12
+3038,SKI ,"Eva, David",42.23
+3038,SKI ,"Henry, Rebecca",42.29
+3038,SKI ,"Goldenberg, Kyle",42.43
+3038,SKI ,"Kilmer-Choi, Kevin",42.6
+3038,SKI ,"Ramshaw, Sheri",42.61
+3038,SKI ,"Mehta, Tushar",42.87
+3038,SKI ,"Lewis, Stephen",42.97
+3038,SKI ,"McLoughlin, Kevin",43.31
+3038,SKI ,"Bugler, Lisa",43.72
+3038,SKI ,"Bellissimo, Joseph",43.77
+3038,SKI ,"Bollinger, Steven",43.94
+3038,SKI ,"Petrella, Tony",43.98
+3038,SKI ,"Perreault, Mitch",44.03
+3038,SKI ,"Megitt, Rachel",44.04
+3038,SKI ,"Norrey, Brent",44.07
+3038,SKI ,"Kiss, Andrea",45.07
+3038,SKI ,"Argiros, Nicholas",45.39
+3038,SKI ,"Herczeg, Ron",45.44
+3038,SKI ,"Brown, Kevin",45.55
+3038,SKI ,"Trager, Rob",45.77
+3038,SKI ,"Cole, Matthew",45.95
+3038,SKI ,"Libby, Harvey",46.34
+3038,SKI ,"Crawford, Stephen",48.03
+3038,SKI ,"Okell, Justin",49.29
+3038,SKI ,"Harrison, Troy",50.64
+3038,SKI ,"Rosenberg, Justin",50.66
+3038,SKI ,"Mostyn, Matthew",52.03
+3038,SKI ,"Henry, Alex",53.1
+3038,SKI ,"Riddell, Kate",64.48
+3039,SKI ,"McTaggart, Michael",36.65
+3039,SKI ,"Ramshaw, Graham",36.88
+3039,SKI ,"Daly, Thomas",37.04
+3039,SKI ,"Hune, Brandon",37.06
+3039,SKI ,"Cox, Jeff",37.62
+3039,SKI ,"Coward, Stephanie",37.78
+3039,SKI ,"Henry, Shane",37.91
+3039,SKI ,"Cartar, William",37.92
+3039,SKI ,"Hubley, Neil",37.93
+3039,SKI ,"Coward, Laura",38.24
+3039,SKI ,"Moorhead, Peter",38.44
+3039,SKI ,"Stoneham, Kenneth",38.45
+3039,SKI ,"Smejkal, Robert",38.69
+3039,SKI ,"Park, Jason",38.89
+3039,SKI ,"Hamilton, Brook",39.2
+3039,SKI ,"Laurie, Mark",39.23
+3039,SKI ,"Brock, Brad",39.28
+3039,SKI ,"Hambly, Shane",39.46
+3039,SKI ,"DeGeer, Lisa",39.73
+3039,SKI ,"Petrella, Vaylen",39.81
+3039,SKI ,"Grossman, Adam",40
+3039,SKI ,"Cox, Alana",40.44
+3039,SKI ,"French, Don",40.6
+3039,SKI ,"Ramshaw, Doug",40.63
+3039,SKI ,"Beattie, Kevin",40.72
+3039,SKI ,"Cartar, Gillian",40.94
+3039,SKI ,"Perreault, Joanna",41.21
+3039,SKI ,"Robertson, Todd",41.3
+3039,SKI ,"Pitman, Craig",41.34
+3039,SKI ,"Kilmer-Choi, Kevin",41.36
+3039,SKI ,"Daly, Peter",41.42
+3039,SKI ,"Libby, Laura",41.5
+3039,SKI ,"Goldenberg, Kyle",41.8
+3039,SKI ,"Ramshaw, Sheri",42.13
+3039,SKI ,"Bugler, Lisa",42.2
+3039,SKI ,"Lewis, Stephen",42.21
+3039,SKI ,"Parr, Jeff",42.32
+3039,SKI ,"Eva, David",42.47
+3039,SKI ,"Cartar, Holly",42.52
+3039,SKI ,"Merker, Iva",43.15
+3039,SKI ,"Petrella, Tony",43.64
+3039,SKI ,"Mehta, Tushar",43.89
+3039,SKI ,"Megitt, Rachel",43.92
+3039,SKI ,"Cole, Matthew",43.93
+3039,SKI ,"McLoughlin, Kevin",44.07
+3039,SKI ,"Knowles, Morgan",44.34
+3039,SKI ,"Perreault, Mitch",44.71
+3039,SKI ,"Kiss, Andrea",44.98
+3039,SKI ,"Herczeg, Ron",45.1
+3039,SKI ,"Brown, Kevin",46.13
+3039,SKI ,"Libby, Harvey",46.16
+3039,SKI ,"Rosenberg, Justin",46.82
+3039,SKI ,"Hawtin, Corey",47.65
+3039,SKI ,"Crawford, Stephen",47.91
+3039,SKI ,"Livingston, Peter",47.92
+3039,SKI ,"Okell, Justin",49.35
+3039,SKI ,"Harrison, Troy",50.5
+3039,SKI ,"Henry, Alex",51.42
+3039,SKI ,"Mostyn, Matthew",51.83
+3039,SKI ,"Laurie, Talia",53.01
+3039,SKI ,"Hillis, Jonathan",53.1
+3039,SKI ,"Hogeterp, Justin",60.45
