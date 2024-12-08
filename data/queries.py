@@ -1,11 +1,27 @@
 import pandas as pd
 
 
+def get_race_years(conn):
+    df = pd.read_sql("SELECT strftime('%Y', race_date) as year FROM Races group by 1", conn)
+    return df['year'].tolist()
+
+
 def get_race_data(order_by, race_id, year, conn):
     # Uses a left join for the default racer points
     sql = f"""
     SELECT 
-        bib, name, race.discipline, team, tier, run1, run2, best_time, points
+        bib, 
+        CASE
+            WHEN team.name is NOT NULL THEN team.name
+            ELSE race.racer_id
+        END AS name,
+        race.discipline,
+        team,
+        tier,
+        run1,
+        run2,
+        best_time,
+        points
     FROM (
         select racer_id, discipline, team, tier, run1, run2, best_time, points
         from RaceResults
@@ -73,7 +89,10 @@ def get_table_schema(tablename, conn):
 
 
 def get_races_list(conn):
-    return pd.read_sql_query("select * From Races order by race_date DESC", conn)
+    return pd.read_sql_query(
+        "select *, strftime('%Y', race_date) as year From Races order by race_date DESC"
+        , conn
+    )
 
 
 def audit_df(year, conn):

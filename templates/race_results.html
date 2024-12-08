@@ -1,0 +1,142 @@
+{% extends "base.html" %}
+
+{% block content %}
+<main class="container my-4">
+    <h2>Race Results</h2>
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <label for="yearSelect" class="form-label">Select Year:</label>
+            <select id="yearSelect" class="form-select"></select>
+        </div>
+        <div class="col-md-6">
+            <label for="raceSelect" class="form-label">Select Race:</label>
+            <select id="raceSelect" class="form-select"></select>
+        </div>
+    </div>
+
+    <div id="raceInfo" class="mb-3" style="display: none;">
+        <h4 id="raceName"></h4>
+        <p id="raceDescription"></p>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped" id="raceResultsTable">
+            <thead id="raceResultsHead"></thead>
+            <tbody id="raceResultsBody"></tbody>
+        </table>
+    </div>
+</main>
+
+<script>
+  const yearSelect = document.getElementById('yearSelect');
+  const raceSelect = document.getElementById('raceSelect');
+  const raceResultsHead = document.getElementById('raceResultsHead');
+  const raceResultsBody = document.getElementById('raceResultsBody');
+  const raceNameElem = document.getElementById('raceName');
+  const raceDescriptionElem = document.getElementById('raceDescription');
+  const raceInfo = document.getElementById('raceInfo');
+
+  let racesMetadata = null;
+  let raceResults = null;
+
+  // Load the metadata and results as soon as the page loads
+  Promise.all([
+    fetch("{{ base_url }}data/races_metadata.json").then(res => res.json()),
+    fetch("{{ base_url }}data/race_results.json").then(res => res.json())
+  ])
+  .then(([metadata, resultsData]) => {
+    racesMetadata = metadata;
+    raceResults = resultsData;
+
+    populateYearSelect();
+    // Default to the most recent year and the first race of that year
+    const defaultYear = racesMetadata.years[0];
+    yearSelect.value = defaultYear;
+    populateRaceSelect(defaultYear);
+    const defaultRace = racesMetadata.races[defaultYear][0].race_id;
+    raceSelect.value = defaultRace;
+    updateRaceInfoAndResults(defaultYear, defaultRace);
+  })
+  .catch(err => console.error("Error loading data:", err));
+
+  // When year changes, update race select and results
+  yearSelect.addEventListener('change', () => {
+    const selectedYear = yearSelect.value;
+    populateRaceSelect(selectedYear);
+
+    // Default to the first race of the selected year
+    const defaultRace = racesMetadata.races[selectedYear][0].race_id;
+    raceSelect.value = defaultRace;
+    updateRaceInfoAndResults(selectedYear, defaultRace);
+  });
+
+  // When race changes, update results
+  raceSelect.addEventListener('change', () => {
+    const selectedYear = yearSelect.value;
+    const selectedRace = parseInt(raceSelect.value, 10);
+    updateRaceInfoAndResults(selectedYear, selectedRace);
+  });
+
+  function populateYearSelect() {
+    yearSelect.innerHTML = '';
+    racesMetadata.years.forEach(y => {
+      const opt = document.createElement('option');
+      opt.value = y;
+      opt.text = y;
+      yearSelect.appendChild(opt);
+    });
+  }
+
+  function populateRaceSelect(year) {
+    raceSelect.innerHTML = '';
+    const racesForYear = racesMetadata.races[year];
+    racesForYear.forEach(r => {
+      const opt = document.createElement('option');
+      opt.value = r.race_id;
+      opt.text = r.race_name;
+      raceSelect.appendChild(opt);
+    });
+  }
+
+  function updateRaceInfoAndResults(year, raceId) {
+    // Find the selected race's metadata
+    const raceData = racesMetadata.races[year].find(r => r.race_id === raceId);
+    if (raceData) {
+      raceInfo.style.display = 'block';
+      raceNameElem.textContent = raceData.race_name;
+      raceDescriptionElem.textContent = raceData.race_description;
+    }
+
+    // Filter raceResults by race_id
+    const filteredRows = raceResults.rows.filter(row => row[0] === raceId);
+    const columns = raceResults.columns;
+
+    updateTable(columns, filteredRows);
+  }
+
+  function updateTable(columns, rows) {
+    raceResultsHead.innerHTML = '';
+    raceResultsBody.innerHTML = '';
+
+    // Create table header
+    const headerRow = document.createElement('tr');
+    columns.forEach(col => {
+      const th = document.createElement('th');
+      th.textContent = col;
+      headerRow.appendChild(th);
+    });
+    raceResultsHead.appendChild(headerRow);
+
+    // Populate table rows
+    rows.forEach(row => {
+      const tr = document.createElement('tr');
+      row.forEach(cell => {
+        const td = document.createElement('td');
+        td.textContent = cell;
+        tr.appendChild(td);
+      });
+      raceResultsBody.appendChild(tr);
+    });
+  }
+</script>
+{% endblock %}
