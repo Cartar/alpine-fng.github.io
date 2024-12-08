@@ -107,6 +107,9 @@ def audit_df(year, conn):
         cols = {col: f"{col}_race{n}" for col in cols_to_keep}
         audit_df.rename(columns=cols, inplace=True)
 
+    # for any NULL names, put avg tier points:
+    audit_df['name'] = audit_df['name'].fillna('Average Tier Points')
+
     # gather top 3 points:
     sql = _points_sql_base(year) + "SELECT * FROM top3"
     top_points = pd.read_sql_query(sql, conn)
