@@ -21,7 +21,7 @@ CURRENT_YEAR = datetime.datetime.now().year
 
 def create_or_update_standings_data(years, data_dir):
     # Loop through years and create data for user:
-    for y in [year for year in years if years > 2023]:
+    for y in years:
         standings = get_point_total(y, CONN)
         audit = audit_df(y, CONN)
         
@@ -57,14 +57,23 @@ def create_or_update_race_data(years, data_dir):
     race_results = []
     for year in races_metadata["years"]:
         for race_meta in races_metadata["races"][year]:
-            race_results.append(get_race_data(
+            race_df = get_race_data(
                 'best_time',
                 race_meta["race_id"],
                 year,
                 CONN
-            ))
+            )
+            race_df["race_id"] = race_meta["race_id"]
             
+            # If race data is found, add to the list:
+            if race_df.shape[0] > 0:
+                race_results.append(race_df)
     
+    all_races = pd.concat(race_results)
+    results_data = {
+        "columns": all_races.columns.tolist(),
+        "rows": all_races.values.tolist()
+    }
 
     with open(os.path.join(data_dir, 'races_metadata.json'), 'w') as f:
         json.dump(races_metadata, f)
@@ -89,22 +98,25 @@ def generate_team_standings_pages(years):
         base_url=base_url,
         current_year=CURRENT_YEAR
     )
-
-    # Write the generated HTML to docs/team_standings.html
     with open('docs/team_standings.html', 'w') as f:
         f.write(html)
 
 
-def generate_race_results_page():
-    base_url = '../'
+def generate_race_results_page(years):
     template = env.get_template('race_results.html')
-    html = template.render(base_url=base_url, current_year=CURRENT_YEAR)
+    base_url = '../'
+    html = template.render(
+        years=years,
+        base_url=base_url,
+        current_year=CURRENT_YEAR
+    )
     with open('docs/race_results.html', 'w') as f:
         f.write(html)
 
 
 def generate_pages():
     years = get_race_years(CONN)
+    standing_years = [year for year in years if int(year) > 2023]
 
     # create directory:
     data_dir = 'docs/data'
@@ -112,13 +124,13 @@ def generate_pages():
     os.makedirs(data_dir, exist_ok=True)
 
     # create or update data:
-    # create_or_update_standings_data(years, data_dir) # Commented out waiting for 2025 data!
+    # create_or_update_standings_data(standing_years, data_dir) # Commented out waiting for 2025 data!
     create_or_update_race_data(years, data_dir)
 
     # Generate html:
     generate_index()
-    #generate_team_standings_pages() # Commented out waiting for 2025 data!
-    generate_race_results_page()
+    #generate_team_standings_pages(standing_years) # Commented out waiting for 2025 data!
+    generate_race_results_page(years)
 
 
 if __name__ == '__main__':

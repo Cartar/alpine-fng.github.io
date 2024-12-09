@@ -2,7 +2,14 @@ import pandas as pd
 
 
 def get_race_years(conn):
-    df = pd.read_sql("SELECT strftime('%Y', race_date) as year FROM Races group by 1", conn)
+    df = pd.read_sql("""
+        SELECT strftime('%Y', race_date) as year
+        FROM Races
+        GROUP BY 1
+        ORDER BY CAST(year AS INT) DESC
+        """,
+        conn
+    )
     return df['year'].tolist()
 
 
