@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+{% block content %}
+<main class="container my-4">
+    <h2>Team Standings</h2>
+    <div class="mb-3">
+        <label for="yearSelect" class="form-label">Select Year:</label>
+        <select id="yearSelect" class="form-select">
+            {% for y in years %}
+            <option value="{{ y }}">{{ y }}</option>
+            {% endfor %}
+        </select>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped" id="standingsTable">
+            <thead id="standingsHead"></thead>
+            <tbody id="standingsBody"></tbody>
+        </table>
+    </div>
+
+    <div class="mt-4">
+        <a class="btn btn-secondary" id="auditLink" href="#" download>Download full race results (CSV)</a>
+    </div>
+</main>
+
+<script>
+  const yearSelect = document.getElementById('yearSelect');
+  const standingsHead = document.getElementById('standingsHead');
+  const standingsBody = document.getElementById('standingsBody');
+  const auditLink = document.getElementById('auditLink');
+
+  // Construct a JavaScript array of available years from Jinja variable
+  const availableYears = [{% for y in years %}{{ y }}{% if not loop.last %}, {% endif %}{% endfor %}];
+
+  // Select the latest year by default (assuming the first year in 'years' is the latest)
+  yearSelect.value = availableYears[0];
+  loadDataForYear(yearSelect.value);
+
+  yearSelect.addEventListener('change', () => {
+    const selectedYear = yearSelect.value;
+    loadDataForYear(selectedYear);
+  });
+
+  function loadDataForYear(year) {
+    // Adjust paths as needed; if your docs/ structure differs, modify accordingly.
+    // base_url is a variable you can pass in from your Python script if needed.
+    fetch("{{ base_url }}data/team_standings_" + year + ".json")
+      .then(response => response.json())
+      .then(data => {
+        updateTable(data);
+        auditLink.href = "{{ base_url }}data/race_results_" + year + ".csv";
+      })
+      .catch(err => console.error('Error loading data:', err));
+  }
+
+  function updateTable(data) {
+    // Clear existing table rows/headers
+    standingsHead.innerHTML = '';
+    standingsBody.innerHTML = '';
+
+    // Create table header
+    const headerRow = document.createElement('tr');
+    data.columns.forEach(col => {
+      const th = document.createElement('th');
+      th.textContent = col;
+      headerRow.appendChild(th);
+    });
+    standingsHead.appendChild(headerRow);
+
+    // Populate table rows
+    data.rows.forEach(row => {
+      const tr = document.createElement('tr');
+      row.forEach(cell => {
+        const td = document.createElement('td');
+        td.textContent = cell;
+        tr.appendChild(td);
+      });
+      standingsBody.appendChild(tr);
+    });
+  }
+</script>
+{% endblock %}

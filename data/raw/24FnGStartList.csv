@@ -1,0 +1,101 @@
+bib,CAT,name,tier,team
+1,SKI,Jennifer Hsiung,1,Mitch Perreault
+2,SKI,Maurice Cacho,1,Will Carter
+4,SKI,Justin Rosenberg,1,Stephanie Coward
+5,SKI,David Rosenblatt,1,Mike McTaggart
+6,SKI,Adam Szakacs,1,Don French 
+7,SKI,Eric Rosen,1,Joanna Perreault
+8,SKI,Jonathan Ambeault,1,Adam Grossman
+9,SKI,Bernard Oegema,2,Don French 
+10,SKI,Brent Norrey,2,Mike McTaggart
+11,SKI,Sarah Lalonde,2,Will Carter
+12,SKI,Shanna Reid,2,Graham Ramshaw 
+13,SKI,Kevin Brown,2,Mitch Perreault
+14,SKI,Alex Henry,2,Stephanie Coward
+15,SKI,Peter Livingston,2,Joanna Perreault
+16,SKI,Zefu Dai,2,Adam Grossman
+17,SKI,Mark Sandell,3,Stephanie Coward
+18,SKI,Gil Nayot,3,Don French 
+19,SKI,Nicholas Argiros,3,Mike McTaggart
+20,SKI,Rachel Megitt,3,Graham Ramshaw 
+21,SKI,Erica Reid,3,Adam Grossman
+22,SKI,Richard Fridman,3,Mitch Perreault
+23,SKI,Troy Harrison,3,Joanna Perreault
+24,SKI,Audun Bredur,3,Will Carter
+25,SKI,Kevin McLoughlin,4,Don French 
+26,SKI,Leonard Drimmer,4,Adam Grossman
+27,SKI,Steven Bollinger,4,Graham Ramshaw 
+28,SKI,Tushar Mehta,4,Will Carter
+29,SKI,Josh Erlick,4,Joanna Perreault
+30,SKI,Mitch Perreault,4,Mitch Perreault
+31,SKI,Tony Petrella,4,Stephanie Coward
+32,SKI,Joseph Bellissimo,4,Mike McTaggart
+33,SKI,Tori Abbott,5,Graham Ramshaw 
+34,SKI,Jocelyn French,5,Stephanie Coward
+35,SKI,Jamie Haggart,5,Will Carter
+36,SKI,Lisa Bugler,5,Mike McTaggart
+37,SKI,David Eva,5,Don French 
+38,SKI,Sheri Ramshaw,5,Mitch Perreault
+39,SKI,Stephen Lewis,5,Joanna Perreault
+40,SKI,Earl Duffy,5,Adam Grossman
+41,SKI,Linda Leistner,6,Mitch Perreault
+42,SKI,Rob Reid,6,Mike McTaggart
+43,SKI,Laura Libby,6,Graham Ramshaw 
+44,SKI,Todd Robertson,6,Don French 
+45,SKI,Chris Reid,6,Joanna Perreault
+46,SKI,Craig Pitman,6,Adam Grossman
+47,SKI,Kevin Kilmer Choi,6,Will Carter
+48,SKI,Hugh McCormick,6,Stephanie Coward
+49,SKI,Melanie Leistner Lavoie,7,Graham Ramshaw 
+50,SKI,Adam Grossman,7,Adam Grossman
+51,SKI,Kevin Beattie,7,Mitch Perreault
+52,SKI,Don French,7,Don French 
+53,SKI,Gillian Cartar,7,Mike McTaggart
+54,SKI,Peter Daly,7,Will Carter
+55,SKI,Mark Laurie,7,Stephanie Coward
+56,SKI,Joanna Perreault,7,Joanna Perreault
+57,SKI,Vaylen Petrella,8,Mitch Perreault
+58,SKI,Robert Smejkal,8,Joanna Perreault
+59,SKI,Sean Cotnam,8,Will Carter
+60,SKI,Robert Hawtin,8,Mike McTaggart
+61,SKI,Brad Brock,8,Don French 
+62,SKI,John Glover,8,Stephanie Coward
+63,SKI,Brook Hamilton,8,Adam Grossman
+64,SKI,David Garber ,8,Graham Ramshaw 
+66,SKI,Jeff Cox,9,Adam Grossman
+67,SKI,Jason Park,9,Graham Ramshaw 
+68,SKI,Peter Moorhead,9,Joanna Perreault
+69,SKI,William Cartar,9,Will Carter
+70,SKI,Shane Hambly,9,Mitch Perreault
+71,SKI,Neil Hubley,9,Don French 
+72,SKI,Kenneth Stoneham,9,Mike McTaggart
+73,SKI,Stephanie Coward,9,Stephanie Coward
+74,SKI,Graham Ramshaw,10,Graham Ramshaw 
+75,SKI,Nicholas Balan,10,Don French 
+76,SKI,Mclean Wood,10,Will Carter
+77,SKI,Brandon Hune,10,Mitch Perreault
+78,SKI,Mike McTaggart,10,Mike McTaggart
+79,SKI,Thomas Daly,10,Joanna Perreault
+80,SKI,Will Stewart,10,Adam Grossman
+81,SKI,Laura Coward,10,Stephanie Coward
+101,SNBD,Joel Farber,11,Will Carter
+102,SNBD,Sarah Ledwidge,11,Joanna Perreault
+103,SNBD,Mark Sandell,11,Graham Ramshaw 
+104,SNBD,Steve Crawford,11,Don French 
+105,SNBD,Elaine Kilmer Choi,11,Mitch Perreault
+106,SNBD,Dena Silverberg,11,Adam Grossman
+107,SNBD,Terence Woodside,11,Mike McTaggart
+108,SNBD,Daniel Simmons Stubbs,12,Mike McTaggart
+109,SNBD,Mackenzie Hamilton,12,Joanna Perreault
+110,SNBD,Robert Milthorpe,12,Don French 
+111,SNBD,Sheri Ramshaw,12,Graham Ramshaw 
+112,SNBD,Darcy McDonald,12,Adam Grossman
+114,SNBD,Sacha Fiand,12,Mitch Perreault
+115,SNBD,Linda Leistner,12,Will Carter
+116,SNBD,Melanie Leistner Lavoie,13,Mike McTaggart
+117,SNBD,Kyla Taylor,13,Mitch Perreault
+119,SNBD,Jenna Livingston,13,Stephanie Coward
+120,SNBD,Hannah Kilmer Choi,13,Will Carter
+121,SNBD,Graham Ramshaw,13,Graham Ramshaw 
+122,SNBD,Kevin Kilmer Choi,13,Adam Grossman
+123,SNBD,Bernard Oegema,13,Don French 

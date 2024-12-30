@@ -1,0 +1,312 @@
+racer_id,first_name,last_name,gender,birth_year,spouse_id
+,,,,,
+,,,,,
+"Abbott, Brad",Brad,Abbott,M,1955,"Pridham, Sue"
+"Abbott, Tori",Tori,Abbott,F,,
+"Adlington, Jay",Jay,Adlington,M,1975,
+"Alexander Ash, Sue",Sue,Alexander Ash,-,1961,"Ash, Stewart"
+"Allan, Christine",Christine,Allan,F,1968,
+"Ancion, Audrey",Audrey,Ancion,F,1981,
+"Andersen, Tom",Tom,Andersen,M,1962,
+"Argiros, Nicholas",Nicholas,Argiros,-,,
+"Arnold, Kieran",Kieran,Arnold,-,,
+"Arumainayagam, Joe",Joe,Arumainayagam,M,1975,"Ewen, Jenny"
+"Ash, Stewart",Stewart,Ash,M,1952,"Alexander Ash, Sue"
+"Balan, Mackenzie",Mackenzie,Balan,-,,
+"Balan, Nicholas",Nicholas,Balan,-,,
+"Beattie, Kevin",Kevin,Beattie,M,1959,
+"Beemer, John",John,Beemer,M,1961,
+"Bellissimo, Joseph",Joseph,Bellissimo,M,1976,
+"Bennewies, Tracey",Tracey,Bennewies,-,,
+"Berg, Jackie",Jackie,Berg,F,,"Berg, Manfred"
+"Berg, Manfred",Manfred,Berg,M,1964,"Berg, Jackie"
+"Berger, David",David,Berger,M,,
+"Berrang, Rudy",Rudy,Berrang,M,,
+"Berrang, Sarah",Sarah,Berrang,-,1965,
+"Berthomier, Alison",Alison,Berthomier,F,1979,
+"Berthomier, Romain",Romain,Berthomier,M,1979,
+"Blainey, David",David,Blainey,M,1973,
+"Blakeley, Trevor",Trevor,Blakeley,M,1967,
+"Bollinger, Steven",Steven,Bollinger,M,1960,
+"Brass, Abby",Abby,Brass,F,,
+"Brennan, Bill",Bill,Brennan,-,1949,
+"Brennan, Christine",Christine,Brennan,F,1975,"Lepholtz, Chris"
+"Brennan, Rebecca",Rebecca,Brennan,F,1978,
+"Brock, Brad",Brad,Brock,-,,
+"Brown, Kevin",Kevin,Brown,M,,
+"Bugler, Lisa",Lisa,Bugler,F,1964,
+"Burstein, Jason",Jason,Burstein,M,1972,
+"Cameron, David",David,Cameron,M,1970,
+"Capek, Catherine",Catherine,Capek,-,,"Hawtin, Robert"
+"Carragher, Sean",Sean,Carragher,M,1967,
+"Cartar, Gillian",Gillian,Cartar,F,,
+"Cartar, Holly",Holly,Cartar,F,,
+"Cartar, William",William,Cartar,M,,
+"Caughey, Tim",Tim,Caughey,M,,
+"Chapple, Bruce",Bruce,Chapple,M,1968,
+"Charland, Daniel",Daniel,Charland,M,,
+"Charland, Ilene",Ilene,Charland,F,1951,"Charland, Louis"
+"Charland, Louis",Louis,Charland,M,1950,"Charland, Ilene"
+"Chmelnitsky, David",David,Chmelnitsky,M,,
+"Cole, Angus",Angus,Cole,M,1983,
+"Cole, Matthew",Matthew,Cole,M,,
+"Cooke, Chris",Chris,Cooke,M,1969,
+"Côté, Stephanie",Stephanie,Côté,F,1975,
+"Cotnam, Sean",Sean,Cotnam,M,1975,
+"Coward, Laura",Laura,Coward,F,1988,
+"Coward, Mariann",Mariann,Coward,F,1952,
+"Coward, Michael",Michael,Coward,-,,
+"Coward, Peter",Peter,Coward,-,,
+"Coward, Stephanie",Stephanie,Coward,F,1996,
+"Cox, Alana",Alana,Cox,F,,"Cox, Jeff"
+"Cox, Jeff",Jeff,Cox,M,1973,"Cox, Alana"
+"Crawford, Derek",Derek,Crawford,M,1976,
+"Crawford, Stephen",Stephen,Crawford,-,,
+"Currie, Paul",Paul,Currie,M,1955,
+"Daly, Michael",Michael,Daly,-,,
+"Daly, Peter",Peter,Daly,M,1959,
+"Daly, Thomas",Thomas,Daly,-,,
+"Danaie, Gelare",Gelare,Danaie,F,1977,
+"DeGeer, Lisa",Lisa,DeGeer,-,,
+"DeGeer, Trevor",Trevor,DeGeer,-,,
+"Diamond, Matthew",Matthew,Diamond,-,,
+"Diamond, Richard",Richard,Diamond,M,1960,
+"Duffy, Earl",Earl,Duffy,M,1975,
+"Edey, Jennifer",Jennifer,Edey,F,1975,
+"Elder, Jeff",Jeff,Elder,M,1973,
+"Erochko, Stephen",Stephen,Erochko,-,,
+"Eva, David",David,Eva,-,,
+"Ewen, Jenny",Jenny,Ewen,F,1980,"Arumainayagam, Joe"
+"Farber, Joel",Joel,Farber,M,1967,
+"Forrest, Rod",Rod,Forrest,-,1966,
+"Fraiberg, Corey",Corey,Fraiberg,-,,
+"Freedman, Amy",Amy,Freedman,F,,
+"French, Bill",Bill,French,M,,
+"French, Don",Don,French,M,,"French, Kelly"
+"French, Kelly",Kelly,French,F,,"French, Don"
+"Fridman, Richard",Richard,Fridman,M,1973,
+"Fuchs, Steffen",Steffen,Fuchs,M,1978,
+"Garber, David",David,Garber,M,1965,
+"Gelfand, Michael",Michael,Gelfand,-,1977,"Gelfand, Sara"
+"Gelfand, Sara",Sara,Gelfand,F,1978,"Gelfand, Michael"
+"Gentile, Ryan",Ryan,Gentile,M,1986,
+"Ghan, Tracy",Tracy,Ghan,F,1968,
+"Gingrich, Wayne",Wayne,Gingrich,M,1972,
+"Glick, Jordan",Jordan,Glick,-,,
+"Glover, John",John,Glover,M,1962,
+"Goit, Jeff",Jeff,Goit,M,1985,
+"Goldenberg, Kyle",Kyle,Goldenberg,-,,
+"Goren, Robyn",Robyn,Goren,-,,
+"Gorman, Scott",Scott,Gorman,M,1975,
+"Gottlieb, Darren",Darren,Gottlieb,M,1972,
+"Graham, Alex",Alex,Graham,M,,
+"Graham, Andrea",Andrea,Graham,F,,
+"Graham, Byron",Byron,Graham,M,,
+"Graham, Sydney",Sydney,Graham,-,,
+"Grossman, Adam",Adam,Grossman,-,,
+"Hambly, Nicole",Nicole,Hambly,F,,"Hambly, Shane"
+"Hambly, Shane",Shane,Hambly,M,1978,"Hambly, Nicole"
+"Hamilton, Brook",Brook,Hamilton,-,,
+"Hardy, Shane",Shane,Hardy,M,1974,
+"Harrison, Troy",Troy,Harrison,M,1993,
+"Hawtin, Corey",Corey,Hawtin,-,,
+"Hawtin, Robert",Robert,Hawtin,M,,"Capek, Catherine"
+"Heldman, Sandra",Sandra,Heldman,-,,"Heldman, Theo"
+"Heldman, Theo",Theo,Heldman,-,,"Heldman, Sandra"
+"Henry, Alex",Alex,Henry,M,1946,
+"Henry, Rebecca",Rebecca,Henry,F,1974,"Henry, Shane"
+"Henry, Shane",Shane,Henry,M,1974,"Henry, Rebecca"
+"Herczeg, Ron",Ron,Herczeg,-,,
+"Herrmann, Chris",Chris,Herrmann,-,1986,
+"Hider, Andrew",Andrew,Hider,-,1997,
+"Hildebrand, Andrew",Andrew,Hildebrand,-,,
+"Hillis, Jonathan",Jonathan,Hillis,M,1983,
+"Hillis, Michelle",Michelle,Hillis,F,1987,
+"Hobbs, Barry",Barry,Hobbs,M,,
+"Hogeterp, Justin",Justin,Hogeterp,M,,
+"Houston, David",David,Houston,M,1964,
+"Howden, Andrea",Andrea,Howden,F,1974,"Howden, Rick"
+"Howden, Rick",Rick,Howden,-,1971,"Howden, Andrea"
+"Hubley, Neil",Neil,Hubley,-,,
+"Hune, Brandon",Brandon,Hune,M,1974,
+"Huxley, Anne",Anne,Huxley,-,,"Huxley, Ben"
+"Huxley, Ben",Ben,Huxley,-,,"Huxley, Anne"
+"Hykamp, Christine",Christine,Hykamp,-,,
+"Hykamp, Eric",Eric,Hykamp,-,,
+"Jacobs, Barry",Barry,Jacobs,-,,
+"James, Stephanie",Stephanie,James,-,,
+"Jayson, Doris",Doris,Jayson,F,,
+"Kamin, Lowell",Lowell,Kamin,-,,
+"Kansun, Alexandra",Alexandra,Kansun,-,,
+"Kansun, Jeff",Jeff,Kansun,M,,
+"Kansun, Morris",Morris,Kansun,-,1958,
+"Kansun, Rob",Rob,Kansun,M,,
+"Kavelman, Dennis",Dennis,Kavelman,-,1970,
+"Kilmer-Choi, Elaine",Elaine,Kilmer-Choi,F,1970,"Kilmer-Choi, Kevin"
+"Kilmer-Choi, Kevin",Kevin,Kilmer-Choi,M,1969,"Kilmer-Choi, Elaine"
+"King, Brad",Brad,King,M,,
+"Kirkpatrick, Chris",Chris,Kirkpatrick,-,1977,
+"Kiss, Andrea",Andrea,Kiss,F,1968,
+"Klein, Jamie",Jamie,Klein,-,,"Klein, Joelle"
+"Klein, Joelle",Joelle,Klein,F,1980,"Klein, Jamie"
+"Knowles, Morgan",Morgan,Knowles,F,1983,
+"Knutson, Andrea",Andrea,Knutson,-,,
+"Kofman, Courtney",Courtney,Kofman,-,,
+"Kofman, Jordan",Jordan,Kofman,-,1986,"Kofman, Lori"
+"Kofman, Lori",Lori,Kofman,-,,"Kofman, Jordan"
+"Kofman, Peter",Peter,Kofman,-,,
+"Kolber, Daniel",Daniel,Kolber,-,1970,
+"Kolber, Jonathan",Jonathan,Kolber,-,,
+"Koster, Steven",Steven,Koster,M,1966,
+"Kupka, Dave",Dave,Kupka,M,,"Kupka, Susan"
+"Kupka, Susan",Susan,Kupka,F,1961,"Kupka, Dave"
+"Labbett, Keith",Keith,Labbett,M,,
+"Langdon, Christopher",Christopher,Langdon,-,,
+"Laski, Brian",Brian,Laski,-,,
+"Laurie, Bonnie",Bonnie,Laurie,-,,"Laurie, Nathan"
+"Laurie, Mark",Mark,Laurie,-,,
+"Laurie, Nathan",Nathan,Laurie,-,,"Laurie, Bonnie"
+"Laurie, Talia",Talia,Laurie,-,,
+"Lavoie, Daniel",Daniel,Lavoie,M,1957,"Leistner, Linda"
+"Ledwidge, Sarah",Sarah,Ledwidge,F,,
+"Leistner, Linda",Linda,Leistner,F,1960,"Lavoie, Daniel"
+"Leistner-Lavoie, Melanie",Melanie,Leistner-Lavoie,-,,
+"Lepholtz, Chris",Chris,Lepholtz,-,1971,"Brennan, Christine"
+"Levine, Adam",Adam,Levine,M,1984,
+"Lewis, Michael",Michael,Lewis,-,,
+"Lewis, Stephen",Stephen,Lewis,M,1965,
+"Libby, Harvey",Harvey,Libby,-,,
+"Libby, Laura",Laura,Libby,-,,
+"Livingston, Kim",Kim,Livingston,-,,
+"Livingston, Lynn",Lynn,Livingston,-,,"Livingston, Peter"
+"Livingston, Peter",Peter,Livingston,M,1958,"Livingston, Lynn"
+"Lo, Joseph",Joseph,Lo,-,1973,
+"Low, Carey",Carey,Low, ,1970,
+"Lundy, Patrick",Patrick,Lundy,M,1974,
+"Madge, Jason",Jason,Madge,M,1973,
+"McDonald, D'Arcy",D'Arcy,McDonald,M,1973,
+"McEachen, Paul",Paul,McEachen,M,,
+"McGillivray, Allison",Allison,McGillivray,F,1961,
+"McKean, Craig",Craig,McKean,M,1972,
+"McKellar, Dana",Dana,McKellar,F,1973,
+"McKellar, Michael",Michael,McKellar,M,1971,
+"McLoughlin, Kevin",Kevin,McLoughlin,M,,
+"McTaggart, Michael",Michael,McTaggart,M,1978,
+"Megitt, Rachel",Rachel,Megitt,F,,
+"Mehta, Tushar",Tushar,Mehta,M,1971,
+"Merker, Iva",Iva,Merker,-,,
+"Milthorpe, Randy",Randy,Milthorpe,M,1960,"Thorpe, Carey"
+"Moorcroft, Jayme",Jayme,Moorcroft,-,,
+"Moorhead, Peter",Peter,Moorhead,M,1974,
+"Morrison, David",David,Morrison,M,1969,
+"Morrison, Deb",Deb,Morrison,-,,
+"Morrison, Roz",Roz,Morrison,F,1956,
+"Morse, Janet",Janet,Morse,F,,
+"Morse, Michael",Michael,Morse,-,,"Nicol, Heather"
+"Moskoff, Jeff",Jeff,Moskoff,-,1967,
+"Mostyn, Matthew",Matthew,Mostyn,M,1980,
+"Muntwyler, Trevor",Trevor,Muntwyler,M,1966,
+"Neeson, Kimberley",Kimberley,Neeson,-,1962,
+"Nemtean, Ariel",Ariel,Nemtean,-,,
+"Nesbitt, Justin",Justin,Nesbitt,M,1972,
+"Newall, David",David,Newall,-,,
+"Nicholson, Carla",Carla,Nicholson,F,1960,
+"Nicol, Heather",Heather,Nicol,F,1963,"Morse, Michael"
+"Norrey, Brent",Brent,Norrey,M,1968,
+"O'Brien, Sharon",Sharon,O'Brien,-,,"Manley, Robin"
+"Oegema, Bernard",Bernard,Oegema,M,1962,
+"Okell, Justin",Justin,Okell,M,1984,
+"Page, Krystal",Krystal,Page,-,,
+"Palin, Gord",Gord,Palin,M,1962,
+"Palmer, James",James,Palmer,M,1976,
+"Park, Jason",Jason,Park,M,1970,
+"Parr, Jeff",Jeff,Parr,M,1960,
+"Parr, Mike",Mike,Parr,-,,
+"Parr, Nick",Nick,Parr,M,1988,
+"Partnoy, Glen",Glen,Partnoy,-,,
+"Perlus, Joanna",Joanna,Perlus,F,1978,"Perlus, Miklos"
+"Perlus, Miklos",Miklos,Perlus,M,1977,"Perlus, Joanna"
+"Perreault, Joanna",Joanna,Perreault,F,,"Perreault, Mitch"
+"Perreault, Mitch",Mitch,Perreault,M,,"Perreault, Joanna"
+"Petrella, Anika",Anika,Petrella,F,1987,
+"Petrella, Tony",Tony,Petrella,M,1953,
+"Petrella, Vaylen",Vaylen,Petrella,-,,
+"Pirnia, Hassan",Hassan,Pirnia,-,,
+"Pitman, Craig",Craig,Pitman,M,1977,
+"Pridham, Sue",Sue,Pridham,F,1957,"Abbott, Brad"
+"Ramshaw, Doug",Doug,Ramshaw,M,1960,"Ramshaw, Sheri"
+"Ramshaw, Graham",Graham,Ramshaw,-,,
+"Ramshaw, Sheri",Sheri,Ramshaw,F,1960,"Ramshaw, Doug"
+"Ravoth, Joachim",Joachim,Ravoth,-,,
+"Reedie, Crystal",Crystal,Reedie,-,1977,"Reedie, Derek"
+"Reedie, Derek",Derek,Reedie,-,1973,"Reedie, Crystal"
+"Reid, Rob",Rob,Reid,M,1963,"Reid, Shanna"
+"Reid, Shanna",Shanna,Reid,-,,"Reid, Rob"
+"Riddell, Kate",Kate,Riddell,F,1978,
+"Roberts, Jami",Jami,Roberts,F,1978,
+"Robertson, Todd",Todd,Robertson,-,,
+"Rogers, Andrew",Andrew,Rogers,M,1992,
+"Romano, Donald",Donald,Romano,-,,"Romano, Marilyn"
+"Romano, Marilyn",Marilyn,Romano,-,,"Romano, Donald"
+"Rombough, Jeff",Jeff,Rombough,-,,
+"Rosenberg, Justin",Justin,Rosenberg,M,1974,
+"Ross, Felicia",Felicia,Ross,F,1972,
+"Rossignol, Cindy",Cindy,Rossignol,F,,
+"Sax, Daniel",Daniel,Sax,-,,
+"Schatzmair, Kelly",Kelly,Schatzmair,F,1969,"Schatzmair, Ralph"
+"Schatzmair, Ralph",Ralph,Schatzmair,M,1969,"Schatzmair, Kelly"
+"Schloo, Jonathan",Jonathan,Schloo,-,,
+"Schotlander, Collin",Collin,Schotlander,M,,
+"Sclater, Andrew",Andrew,Sclater,M,1973,"Sclater, Susan"
+"Sclater, Susan",Susan,Sclater,F,1972,"Sclater, Andrew"
+"Selonka, Aaron",Aaron,Selonka,-,,"Taylor, Kyla"
+"Sharland, Jill",Jill,Sharland,F,,"Sharland, Stephen"
+"Sharland, Stephen",Stephen,Sharland,M,,"Sharland, Jill"
+"Siller, Ariel",Ariel,Siller,F,1982,
+"Silverberg, Dena",Dena,Silverberg,F,1974,"Silverberg, Geoff"
+"Silverberg, Geoff",Geoff,Silverberg,M,1973,"Silverberg, Dena"
+"Skelding, Fiona",Fiona,Skelding,-,1961,
+"Skelding, Neil",Neil,Skelding,M,1963,
+"Skupsky, Natasha",Natasha,Skupsky,-,,
+"Smejkal, Robert",Robert,Smejkal,M,1971,
+"Smitheman, Neal",Neal,Smitheman,M,,
+"Stone, Hilary",Hilary,Stone,-,,
+"Stone, Jonathan",Jonathan,Stone,-,,
+"Stone, William",William,Stone,-,,
+"Stoneham, Kenneth",Kenneth,Stoneham,M,,
+"Sweeney, Sean",Sean,Sweeney,M,1974,"Ledwidge, Sarah"
+"Tadross, Nick",Nick,Tadross,-,,
+"Tadross, Rachel",Rachel,Tadross,-,,
+"Tarle, Sarah",Sarah,Tarle,-,,
+"Tattle, Dawn",Dawn,Tattle,-,,"Tattle, John"
+"Tattle, John",John,Tattle,-,,"Tattle, Dawn"
+"Taub, David",David,Taub,M,1966,
+"Taylor, Kyla",Kyla,Taylor,-,,"Selonka, Aaron"
+"Taylor, Maddy",Maddy,Taylor,-,,
+"Thomson, Cathy",Cathy,Thomson,-,,"Thomson, Greg"
+"Thomson, Greg",Greg,Thomson,-,,"Thomson, Cathy"
+"Thorpe, Carey",Carey,Thorpe,-,,"Milthorpe, Randy"
+"Tick, Gabriel",Gabriel,Tick,M,,
+"Timmins, Becky",Becky,Timmins,F,1961,
+"Trager, Rob",Rob,Trager,M,,
+"Tse, Eric",Eric,Tse,M,1974,
+"Tse, Jennifer",Jennifer,Tse,F,1973,
+"Tucci, Adrian",Adrian,Tucci,M,,
+"Vanags, Laura",Laura,Vanags,-,1973,
+"Vandewiele, Christophe",Christophe,Vandewiele,M,1971,
+"VanGroningen, Bill",Bill,VanGroningen,M,1970,
+"Vetrano, Catherine",Catherine,Vetrano,F,1956,"Vetrano, Frank"
+"Vetrano, Frank",Frank,Vetrano,M,1950,"Vetrano, Catherine"
+"Wallace, Chris",Chris,Wallace,M,,
+"Wega, Audrey",Audrey,Wega,-,,"Wega, Greg"
+"Wega, Greg",Greg,Wega,-,,"Wega, Audrey"
+"Weinberg, Cale",Cale,Weinberg,M,,
+"Weinstein, Sari",Sari,Weinstein,F,1960,
+"Whitney, Connor",Connor,Whitney,M,,
+"Williams, Matt",Matt,Williams,M,1991,
+"Williamson, Duff",Duff,Williamson,-,,"Williamson, Kerina"
+"Williamson, Kerina",Kerina,Williamson,-,,"Williamson, Duff"
+"Wood, McLean",McLean,Wood,-,,
+"Woodside, Terence",Terence,Woodside,M,,
+"Wortzman, David",David,Wortzman,-,,
+"Ziyaee, Matt",Matt,Ziyaee,M,1971,
