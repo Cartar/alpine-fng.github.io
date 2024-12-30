@@ -4,25 +4,52 @@
 <main class="container my-4">
     <h2>Race Results</h2>
     <div class="row mb-3">
-        <div class="col-md-6">
-            <label for="yearSelect" class="form-label">Select Year:</label>
-            <!-- We leave this empty and let JavaScript populate the metadata -->
-            <select id="yearSelect" class="form-select">
-            </select>
+      <!-- Year dropdown -->
+      <div class="col-md-3">
+        <label for="yearSelect" class="form-label">Select Year:</label>
+        <!-- We leave this empty and let JavaScript populate the metadata -->
+        <select id="yearSelect" class="form-select">
+        </select>
+      </div>
+
+      <!-- Race dropdown -->
+      <div class="col-md-3">
+        <label for="raceSelect" class="form-label">Select Race:</label>
+        <!-- We leave this empty and let JavaScript populate the races -->
+        <select id="raceSelect" class="form-select">
+        </select>
+      </div>
+
+      <!-- Discipline radio buttons -->
+      <div class="col-md-3">
+        <label class="form-label d-block">Discipline:</label>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="radio" name="discipline" id="disciplineSki" value="SKI" checked>
+          <label class="form-check-label" for="disciplineSki">Ski</label>
         </div>
-        <div class="col-md-6">
-            <label for="raceSelect" class="form-label">Select Race:</label>
-            <!-- We leave this empty and let JavaScript populate the races -->
-            <select id="raceSelect" class="form-select">
-            </select>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="radio" name="discipline" id="disciplineSnowboard" value="SNBD">
+          <label class="form-check-label" for="disciplineSnowboard">Snowboard</label>
         </div>
+      </div>
+
+      <!-- Order By dropdown -->
+      <div class="col-md-3">
+        <label for="orderBySelect" class="form-label">Order By:</label>
+        <select id="orderBySelect" class="form-select">
+            <option value="bib_asc" selected>Bib</option>
+            <option value="best_time_desc">Best Time</option>
+        </select>
+      </div>
     </div>
 
+    <!-- Race info -->
     <div id="raceInfo" class="mb-3" style="display: none;">
         <h4 id="raceName"></h4>
         <p id="raceDescription"></p>
     </div>
 
+    <!-- Results table -->
     <div class="table-responsive">
         <table class="table table-striped" id="raceResultsTable">
             <thead id="raceResultsHead"></thead>
@@ -34,11 +61,16 @@
 <script>
   const yearSelect = document.getElementById('yearSelect');
   const raceSelect = document.getElementById('raceSelect');
+  const orderBySelect = document.getElementById('orderBySelect');
   const raceResultsHead = document.getElementById('raceResultsHead');
   const raceResultsBody = document.getElementById('raceResultsBody');
   const raceNameElem = document.getElementById('raceName');
   const raceDescriptionElem = document.getElementById('raceDescription');
   const raceInfo = document.getElementById('raceInfo');
+
+  // Radio inputs for discipline
+  const disciplineRadios = document.querySelectorAll('input[name="discipline"]');
+
 
   let racesMetadata = null;
   let raceResults = null;
@@ -76,7 +108,7 @@
   })
   .catch(err => console.error("Error loading data:", err));
 
-  // When the year changes, update the race dropdown
+  // Event listeners for year/race changes
   yearSelect.addEventListener('change', () => {
     const selectedYear = yearSelect.value;
     populateRaceSelect(selectedYear);
@@ -87,34 +119,53 @@
     updateRaceInfoAndResults(selectedYear, firstRace);
   });
 
-  // When the race changes, update the results table
   raceSelect.addEventListener('change', () => {
     const selectedYear = yearSelect.value;
     const selectedRace = parseInt(raceSelect.value, 10);
     updateRaceInfoAndResults(selectedYear, selectedRace);
   });
 
-  // If you want to build the year dropdown fully in JS (not required if you use Jinja)
-  function populateYearSelect() {
-  yearSelect.innerHTML = '';
-  
-  // Create a copy of the array and sort it in descending order
-  const sortedYears = [...racesMetadata.years].sort((a, b) => b - a);
-
-  sortedYears.forEach(y => {
-    const opt = document.createElement('option');
-    opt.value = y;
-    opt.text = y;
-    yearSelect.appendChild(opt);
+  // Event listener for discipline change
+  disciplineRadios.forEach(radio => {
+    radio.addEventListener('change', () => {
+      const selectedYear = yearSelect.value;
+      const selectedRace = parseInt(raceSelect.value, 10);
+      updateRaceInfoAndResults(selectedYear, selectedRace);
+    });
   });
-}
+  
+  // Event listener for order-by change
+    orderBySelect.addEventListener('change', () => {
+    const selectedYear = yearSelect.value;
+    const selectedRace = parseInt(raceSelect.value, 10);
+    updateRaceInfoAndResults(selectedYear, selectedRace);
+  });
 
-  // Build the race dropdown for the chosen year
+  // Populate the year dropdown
+  function populateYearSelect() {
+    yearSelect.innerHTML = '';
+    // We assume racesMetadata.years is sorted descending
+    racesMetadata.years.forEach(y => {
+      const opt = document.createElement('option');
+      opt.value = y;
+      opt.text = y;
+      yearSelect.appendChild(opt);
+    });
+    
+    // Create a copy of the array and sort it in descending order
+    //const sortedYears = [...racesMetadata.years].sort((a, b) => b - a);
+    //sortedYears.forEach(y => {
+    //  const opt = document.createElement('option');
+    //  opt.value = y;
+    //  opt.text = y;
+    //  yearSelect.appendChild(opt);
+    //});
+  }
+
+  // Populate the race dropdown for the selected year
   function populateRaceSelect(year) {
     raceSelect.innerHTML = '';
     const racesForYear = racesMetadata.races[year] || [];
-
-    console.log("Selected year races:", racesForYear);
 
     racesForYear.forEach(r => {
       const opt = document.createElement('option');
@@ -124,10 +175,15 @@
     });
   }
 
-  // Show race info (name/description) and filtered results table
+  // Main function to filter + sort data, then update the table
   function updateRaceInfoAndResults(year, raceId) {
-    // Find the selected race's metadata
+    // 1. Find the selected race's metadata to show name/description
     const raceData = racesMetadata.races[year].find(r => r.race_id === raceId);
+
+    // log for debugging:
+    console.log("Selected races year data:", racesMetadata.races[year]);
+    console.log("Selected race data:", raceData);
+
     if (raceData) {
       raceInfo.style.display = 'block';
       raceNameElem.textContent = raceData.race_name;
@@ -136,36 +192,95 @@
       raceInfo.style.display = 'none';
     }
 
-    // Filter raceResults by this race_id
-    const filteredRows = raceResults.rows.filter(row => row[0] === raceId);
+    // 2. Filter by race_id + discipline
+    const disciplineSelected = document.querySelector('input[name="discipline"]:checked').value;
     const columns = raceResults.columns;
 
+    // Determine the indexes of relevant columns
+    const raceIdIndex = columns.indexOf('race_id');      // so we can match the chosen race
+    const disciplineIndex = columns.indexOf('discipline'); // so we can match "SKI" or "SNBD"
+
+    let filteredRows = raceResults.rows.filter(row => {
+      return row[raceIdIndex] === raceId && row[disciplineIndex] === disciplineSelected;
+    });
+
+    // 3. Sort the filtered rows based on orderBy selection
+    const orderByValue = orderBySelect.value;
+    filteredRows = sortRows(filteredRows, columns, orderByValue);
+
+    // 4. Update the table
     updateTable(columns, filteredRows);
   }
 
-  function updateTable(columns, rows) {
-    raceResultsHead.innerHTML = '';
-    raceResultsBody.innerHTML = '';
+  // Helper to sort rows based on the user's selection
+  function sortRows(rows, columns, orderByValue) {
+    // Identify column indexes we'll need
+    const bibIndex = columns.indexOf('bib');
+    const bestTimeIndex = columns.indexOf('best_time');
+    const tierIndex = columns.indexOf('tier');
 
-    // Create table header
-    const headerRow = document.createElement('tr');
-    columns.forEach(col => {
-      const th = document.createElement('th');
-      th.textContent = col;
-      headerRow.appendChild(th);
-    });
-    raceResultsHead.appendChild(headerRow);
+    // Make a shallow copy so we don't mutate the original array
+    const sortedRows = [...rows];
 
-    // Populate table rows
-    rows.forEach(row => {
-      const tr = document.createElement('tr');
-      row.forEach(cell => {
-        const td = document.createElement('td');
-        td.textContent = cell;
-        tr.appendChild(td);
-      });
-      raceResultsBody.appendChild(tr);
-    });
+    switch (orderByValue) {
+      case 'bib_asc':
+        // Sort by bib ascending
+        if (bibIndex !== -1) {
+          sortedRows.sort((a, b) => (a[bibIndex] || 0) - (b[bibIndex] || 0));
+        }
+        break;
+
+      case 'best_time_desc':
+        // Sort by best_time descending
+        if (bestTimeIndex !== -1) {
+          sortedRows.sort((a, b) => (a[bestTimeIndex] || 0) - (b[bestTimeIndex] || 0));
+        }
+        break;
+
+      default:
+        // If for some reason there's an unknown order, do nothing or a default
+        break;
+    }
+
+    return sortedRows;
   }
+
+
+  function updateTable(columns, rows) {
+  // Columns we don’t want to display in the table
+  const excludedColumns = ["discipline", "race_id"];
+
+  // Figure out which column indices are allowed
+  const includedIndices = [];
+  columns.forEach((col, idx) => {
+    if (!excludedColumns.includes(col)) {
+      includedIndices.push(idx);
+    }
+  });
+
+  raceResultsHead.innerHTML = '';
+  raceResultsBody.innerHTML = '';
+
+  // Create table header, skipping excluded columns
+  const headerRow = document.createElement('tr');
+  includedIndices.forEach(idx => {
+    const th = document.createElement('th');
+    th.textContent = columns[idx];
+    headerRow.appendChild(th);
+  });
+  raceResultsHead.appendChild(headerRow);
+
+  // Populate table rows, skipping excluded columns
+  rows.forEach(row => {
+    const tr = document.createElement('tr');
+    includedIndices.forEach(idx => {
+      const td = document.createElement('td');
+      td.textContent = row[idx];
+      tr.appendChild(td);
+    });
+    raceResultsBody.appendChild(tr);
+  });
+}
+
 </script>
 {% endblock %}
