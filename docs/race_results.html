@@ -57,38 +57,14 @@
     <div class="row mb-3">
         <div class="col-md-6">
             <label for="yearSelect" class="form-label">Select Year:</label>
+            <!-- We leave this empty and let JavaScript populate the metadata -->
             <select id="yearSelect" class="form-select">
-              
-                <option value="2013">2013</option>
-              
-                <option value="2014">2014</option>
-              
-                <option value="2015">2015</option>
-              
-                <option value="2016">2016</option>
-              
-                <option value="2017">2017</option>
-              
-                <option value="2018">2018</option>
-              
-                <option value="2019">2019</option>
-              
-                <option value="2020">2020</option>
-              
-                <option value="2022">2022</option>
-              
-                <option value="2023">2023</option>
-              
-                <option value="2024">2024</option>
-              
             </select>
         </div>
         <div class="col-md-6">
             <label for="raceSelect" class="form-label">Select Race:</label>
+            <!-- We leave this empty and let JavaScript populate the races -->
             <select id="raceSelect" class="form-select">
-
-              <!-- Missing some code here perhaps?! -->
-
             </select>
         </div>
     </div>
@@ -118,65 +94,88 @@
   let racesMetadata = null;
   let raceResults = null;
 
-  // Load the metadata and results as soon as the page loads
+  // Load the metadata and results JSON as soon as the page loads
   Promise.all([
     fetch("../data/races_metadata.json").then(res => res.json()),
     fetch("../data/race_results.json").then(res => res.json())
   ])
   .then(([metadata, resultsData]) => {
+    console.log("Metadata fetched:", metadata);
+    console.log("Results fetched:", resultsData);
+
     racesMetadata = metadata;
     raceResults = resultsData;
 
+    // Populate the years, and
+    // sort years in descending order right after you fetch them
+    racesMetadata.years.sort((a, b) => b - a);
     populateYearSelect();
-    // Default to the most recent year and the first race of that year
+
+    // Default to the most recent year
     const defaultYear = racesMetadata.years[0];
     yearSelect.value = defaultYear;
+
+    // Populate the races for the default year
     populateRaceSelect(defaultYear);
+
+    // Default to the first race in that year's array
     const defaultRace = racesMetadata.races[defaultYear][0].race_id;
     raceSelect.value = defaultRace;
+
+    // Show the results for that race
     updateRaceInfoAndResults(defaultYear, defaultRace);
   })
   .catch(err => console.error("Error loading data:", err));
 
-  // When year changes, update race select and results
+  // When the year changes, update the race dropdown
   yearSelect.addEventListener('change', () => {
     const selectedYear = yearSelect.value;
     populateRaceSelect(selectedYear);
 
-    // Default to the first race of the selected year
-    const defaultRace = racesMetadata.races[selectedYear][0].race_id;
-    raceSelect.value = defaultRace;
-    updateRaceInfoAndResults(selectedYear, defaultRace);
+    // Default to the first race in that year's array
+    const firstRace = racesMetadata.races[selectedYear][0].race_id;
+    raceSelect.value = firstRace;
+    updateRaceInfoAndResults(selectedYear, firstRace);
   });
 
-  // When race changes, update results
+  // When the race changes, update the results table
   raceSelect.addEventListener('change', () => {
     const selectedYear = yearSelect.value;
     const selectedRace = parseInt(raceSelect.value, 10);
     updateRaceInfoAndResults(selectedYear, selectedRace);
   });
 
+  // If you want to build the year dropdown fully in JS (not required if you use Jinja)
   function populateYearSelect() {
-    yearSelect.innerHTML = '';
-    racesMetadata.years.forEach(y => {
-      const opt = document.createElement('option');
-      opt.value = y;
-      opt.text = y;
-      yearSelect.appendChild(opt);
-    });
-  }
+  yearSelect.innerHTML = '';
+  
+  // Create a copy of the array and sort it in descending order
+  const sortedYears = [...racesMetadata.years].sort((a, b) => b - a);
 
+  sortedYears.forEach(y => {
+    const opt = document.createElement('option');
+    opt.value = y;
+    opt.text = y;
+    yearSelect.appendChild(opt);
+  });
+}
+
+  // Build the race dropdown for the chosen year
   function populateRaceSelect(year) {
     raceSelect.innerHTML = '';
-    const racesForYear = racesMetadata.races[year];
+    const racesForYear = racesMetadata.races[year] || [];
+
+    console.log("Selected year races:", racesForYear);
+
     racesForYear.forEach(r => {
       const opt = document.createElement('option');
       opt.value = r.race_id;
-      opt.text = r.race_name;
+      opt.text = r.description;
       raceSelect.appendChild(opt);
     });
   }
 
+  // Show race info (name/description) and filtered results table
   function updateRaceInfoAndResults(year, raceId) {
     // Find the selected race's metadata
     const raceData = racesMetadata.races[year].find(r => r.race_id === raceId);
@@ -184,9 +183,11 @@
       raceInfo.style.display = 'block';
       raceNameElem.textContent = raceData.race_name;
       raceDescriptionElem.textContent = raceData.race_description;
+    } else {
+      raceInfo.style.display = 'none';
     }
 
-    // Filter raceResults by race_id
+    // Filter raceResults by this race_id
     const filteredRows = raceResults.rows.filter(row => row[0] === raceId);
     const columns = raceResults.columns;
 

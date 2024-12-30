@@ -41,7 +41,7 @@ def create_or_update_standings_data(years, data_dir):
 
 def create_or_update_race_data(years, data_dir):
     # Get race metadata
-    race_list = get_races_list(CONN)
+    race_list = get_races_list(CONN)  # returns a DataFrame
     races_by_year = {}
     for y in years:
         races_for_year = race_list[race_list['year'] == y]
@@ -53,7 +53,7 @@ def create_or_update_race_data(years, data_dir):
         "races": races_by_year
     }
 
-    # loop through all the races to get all results! 
+    # Gather race results
     race_results = []
     for year in races_metadata["years"]:
         for race_meta in races_metadata["races"][year]:
@@ -65,11 +65,16 @@ def create_or_update_race_data(years, data_dir):
             )
             race_df["race_id"] = race_meta["race_id"]
             
-            # If race data is found, add to the list:
             if race_df.shape[0] > 0:
                 race_results.append(race_df)
-    
-    all_races = pd.concat(race_results)
+
+    # Combine all race DataFrames
+    all_races = pd.concat(race_results, ignore_index=True)
+
+    # Convert float columns to object & replace NaN with None
+    all_races = all_races.astype(object).where(pd.notnull(all_races), None)
+
+    # Build the dictionary for JSON
     results_data = {
         "columns": all_races.columns.tolist(),
         "rows": all_races.values.tolist()
