@@ -20,6 +20,7 @@ def get_race_data(order_by, race_id, year, conn):
         bib, 
         CASE
             WHEN team.name is NOT NULL THEN team.name
+            WHEN names.name is NOT NULL THEN names.name
             ELSE race.racer_id
         END AS name,
         race.discipline,
@@ -41,7 +42,12 @@ def get_race_data(order_by, race_id, year, conn):
     ) AS team
     ON race.racer_id = team.racer_id
     AND race.discipline = team.discipline
-    ORDER BY {order_by}
+    LEFT JOIN (
+        SELECT racer_id, CONCAT(first_name, ' ', last_name) AS name
+        from Racers
+    ) AS names
+    ON race.racer_id = names.racer_id
+    ORDER BY {order_by};
     """
     
     return pd.read_sql_query(sql, conn)
@@ -97,7 +103,7 @@ def get_table_schema(tablename, conn):
 
 def get_races_list(conn):
     return pd.read_sql_query(
-        "select *, strftime('%Y', race_date) as year From Races order by race_date DESC"
+        "select *, substr(description, 1,4) as year From Races order by race_date DESC"
         , conn
     )
 
