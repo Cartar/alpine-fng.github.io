@@ -2,8 +2,9 @@ import pandas as pd
 
 
 def get_race_years(conn):
+    # Used to use: `strftime('%Y', race_date) as year`; but switched to description for easy of use...
     df = pd.read_sql("""
-        SELECT strftime('%Y', race_date) as year
+        SELECT substr(description, 1,4) as year
         FROM Races
         GROUP BY 1
         ORDER BY CAST(year AS INT) DESC
@@ -17,7 +18,11 @@ def get_race_data(order_by, race_id, year, conn):
     # Uses a left join for the default racer points
     sql = f"""
     SELECT 
-        bib, 
+        CASE
+            WHEN team.bib is NOT NULL THEN team.bib
+            ELSE race.bib
+        END AS bib
+        ,
         CASE
             WHEN team.name is NOT NULL THEN team.name
             WHEN names.name is NOT NULL THEN names.name
@@ -31,7 +36,7 @@ def get_race_data(order_by, race_id, year, conn):
         best_time,
         points
     FROM (
-        select racer_id, discipline, team, tier, run1, run2, best_time, points
+        select racer_id, discipline, team, tier, run1, run2, best_time, points, bib
         from RaceResults
         where race_id = {race_id}
     ) AS race 
@@ -68,7 +73,7 @@ def _points_sql_base(year):
                 ) AS rn
             FROM RaceResults rr
             JOIN Races r ON rr.race_id = r.race_id
-            WHERE strftime('%Y', r.race_date) = '{year}'
+            WHERE substr(r.description, 1,4) = '{year}'
         )
         , top3 AS (
             SELECT
@@ -111,7 +116,7 @@ def get_races_list(conn):
 def audit_df(year, conn):
     # get all race IDs from a given year:
     ids = pd.read_sql_query(
-        f"select race_id From Races where strftime('%Y', race_date) = '{year}' order by race_date ASC",
+        f"select race_id From Races where substr(description, 1,4) = '{year}' order by race_date ASC",
         conn
     )
 

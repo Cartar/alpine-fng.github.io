@@ -88,8 +88,8 @@
       <div class="col-md-3">
         <label for="orderBySelect" class="form-label">Order By:</label>
         <select id="orderBySelect" class="form-select">
-            <option value="bib_asc" selected>Bib</option>
-            <option value="best_time_desc">Best Time</option>
+            <option value="best_time_desc" selected>Best Time</option>
+            <option value="bib_asc">Bib</option>
         </select>
       </div>
     </div>
@@ -202,15 +202,6 @@
       opt.text = y;
       yearSelect.appendChild(opt);
     });
-    
-    // Create a copy of the array and sort it in descending order
-    //const sortedYears = [...racesMetadata.years].sort((a, b) => b - a);
-    //sortedYears.forEach(y => {
-    //  const opt = document.createElement('option');
-    //  opt.value = y;
-    //  opt.text = y;
-    //  yearSelect.appendChild(opt);
-    //});
   }
 
   // Populate the race dropdown for the selected year
