@@ -119,6 +119,13 @@ def generate_race_results_page(years):
         f.write(html)
 
 
+def generate_contact():
+    template = env.get_template('contact.html')
+    html = template.render(current_year=CURRENT_YEAR)
+    with open('docs/contact.html', 'w') as f:
+        f.write(html)
+
+
 def generate_pages():
     years = get_race_years(CONN)
     standing_years = [year for year in years if int(year) > 2023]
@@ -136,6 +143,7 @@ def generate_pages():
     generate_index()
     #generate_team_standings_pages(standing_years) # Commented out waiting for 2025 data!
     generate_race_results_page(years)
+    generate_contact()
 
 
 if __name__ == '__main__':
