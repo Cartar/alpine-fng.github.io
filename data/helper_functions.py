@@ -2,7 +2,7 @@ import re
 import pandas as pd
 import numpy as np
 
-RACE_RESULT_COL_ORDER = ["racer_id", "discipline", "team", "tier", "run1", "run2", "best_time", "points", "race_id"]
+RACE_RESULT_COL_ORDER = ["racer_id", "discipline", "team", "tier", "run1", "run2", "best_time", "points", "race_id", "bib"]
 
 
 def load_clean_results(path, startList, race_id=None):
@@ -66,8 +66,9 @@ def upload_new_race_results(
     results = load_clean_results(path, startList, race_id)
         
     # Assert results have the right dims:
+    N_cols = 10 # As of 2025, now we upload bib as well!
     for i in range (N_tiers, 0, -1):
-        assert results[results.tier == i].sort_values(["tier", 'points'], ascending=False).shape == (N_teams,9), "results are the wrong dims"
+        assert results[results.tier == i].sort_values(["tier", 'points'], ascending=False).shape == (N_teams, N_cols), "results are the wrong dims"
 
     # upload results:
     upload_results(results, race_id, race_date, description, conn)

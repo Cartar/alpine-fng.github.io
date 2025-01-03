@@ -38,9 +38,11 @@
             <li class="nav-item">
               <a class="nav-link" href="../race_results.html">Race Results</a>
             </li>
+            <!-- # Removing racer stats for now... TODO!
             <li class="nav-item">
               <a class="nav-link" href="../racer_stats.html">Racer Statistics</a>
             </li>
+            -->
             <li class="nav-item">
               <a class="nav-link" href="../contact.html">Contact</a>
             </li>
@@ -88,8 +90,8 @@
       <div class="col-md-3">
         <label for="orderBySelect" class="form-label">Order By:</label>
         <select id="orderBySelect" class="form-select">
-            <option value="bib_asc" selected>Bib</option>
-            <option value="best_time_desc">Best Time</option>
+            <option value="best_time_desc" selected>Best Time</option>
+            <option value="bib_asc">Bib</option>
         </select>
       </div>
     </div>
@@ -132,8 +134,8 @@
     fetch("../data/race_results.json").then(res => res.json())
   ])
   .then(([metadata, resultsData]) => {
-    console.log("Metadata fetched:", metadata);
-    console.log("Results fetched:", resultsData);
+    //console.log("Metadata fetched:", metadata);
+    //console.log("Results fetched:", resultsData);
 
     racesMetadata = metadata;
     raceResults = resultsData;
@@ -202,15 +204,6 @@
       opt.text = y;
       yearSelect.appendChild(opt);
     });
-    
-    // Create a copy of the array and sort it in descending order
-    //const sortedYears = [...racesMetadata.years].sort((a, b) => b - a);
-    //sortedYears.forEach(y => {
-    //  const opt = document.createElement('option');
-    //  opt.value = y;
-    //  opt.text = y;
-    //  yearSelect.appendChild(opt);
-    //});
   }
 
   // Populate the race dropdown for the selected year
@@ -232,8 +225,8 @@
     const raceData = racesMetadata.races[year].find(r => r.race_id === raceId);
 
     // log for debugging:
-    console.log("Selected races year data:", racesMetadata.races[year]);
-    console.log("Selected race data:", raceData);
+    //console.log("Selected races year data:", racesMetadata.races[year]);
+    //console.log("Selected race data:", raceData);
 
     if (raceData) {
       raceInfo.style.display = 'block';
@@ -254,6 +247,9 @@
     let filteredRows = raceResults.rows.filter(row => {
       return row[raceIdIndex] === raceId && row[disciplineIndex] === disciplineSelected;
     });
+
+    // Log filteredRows
+    //console.log("Filtered race rows:", filteredRows);
 
     // 3. Sort the filtered rows based on orderBy selection
     const orderByValue = orderBySelect.value;
