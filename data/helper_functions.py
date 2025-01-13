@@ -5,7 +5,7 @@ import numpy as np
 RACE_RESULT_COL_ORDER = ["racer_id", "discipline", "team", "tier", "run1", "run2", "best_time", "points", "race_id", "bib"]
 
 
-def load_clean_results(path, startList, race_id=None):
+def load_clean_results(path, startList, race_id=None, max_points=10):
     assert race_id is not None, "failed to provide a race ID"
         
     join_keys = ["bib", "racer_id"]
@@ -15,7 +15,7 @@ def load_clean_results(path, startList, race_id=None):
     results["racer_id"] = results["racer_id"].apply(clean_string)
 
     combined = startList.merge(results, how="left", on=join_keys)
-    _, points = calculate_points(combined, top_points=8)
+    _, points = calculate_points(combined, top_points=max_points)
 
     points.loc[points.racer_id.isnull(), 'racer_id'] = 'avg_tier_points'
     points["race_id"]=race_id
@@ -40,19 +40,20 @@ def upload_results(results, race_id, race_date, description, conn):
     conn.commit()
 
 
-def upload_new_race_results(
+def prep_race_results(
     path,
-    race_date,
+    #race_date,
     race_id,
-    description,
+    #description,
+    year,
     N_tiers,
     N_teams,
+    max_points,
     conn
 ):
-    assert len(race_date.split("/")) == 3, "race date wrong format"
-    assert len(race_date) == 10, "race date wrong format"
-    
-    year = race_date[-4:]
+    #assert len(race_date.split("/")) == 3, "race date wrong format"
+    #assert len(race_date) == 10, "race date wrong format"
+    #year = race_date[-4:]
 
     # Get start list
     sql = f"""
@@ -63,15 +64,15 @@ def upload_new_race_results(
     startList = pd.read_sql_query(sql, conn)
 
     # get results:
-    results = load_clean_results(path, startList, race_id)
+    results = load_clean_results(path, startList, race_id, max_points)
         
-    # Assert results have the right dims:
-    N_cols = 10 # As of 2025, now we upload bib as well!
-    for i in range (N_tiers, 0, -1):
-        assert results[results.tier == i].sort_values(["tier", 'points'], ascending=False).shape == (N_teams, N_cols), "results are the wrong dims"
+    ## Assert results have the right dims:
+    ## removed this because we now have 9 racers in on tier 11...
+    #N_cols = 10 # As of 2025, now we upload bib as well!
+    #for i in range (N_tiers, 0, -1):
+    #    assert results[results.tier == i].sort_values(["tier", 'points'], ascending=False).shape == (N_teams, N_cols), f"results are the wrong dims: {results[results.tier == i].sort_values(['tier', 'points'], ascending=False).shape} != {(N_teams, N_cols)}"
 
-    # upload results:
-    upload_results(results, race_id, race_date, description, conn)
+    return results
 
 
 def drop_nulls(df, col):
@@ -94,7 +95,7 @@ def clean_string(s):
         return ''  # Handle non-string cases, e.g., None or NaN
 
 
-def calculate_points(df, top_points=10):
+def calculate_points(df, top_points):
     df.replace({'DNF': 9998,"DSQ": 9998, "DNS": 9999, pd.NA: 9999}, inplace=True)
     df['run1'] = pd.to_numeric(df['run1']) # errors='coerce')
     df['run2'] = pd.to_numeric(df['run2']) # errors='coerce')
@@ -130,7 +131,7 @@ def calculate_points(df, top_points=10):
     teams = df['team'].unique()
     team_dfs = []
     team_points = {}
-    avg_points = (top_points + (top_points - num_racers)) / 2
+    avg_points = (top_points + (top_points - (num_racers-1))) / 2
     for team in teams:
         team_df = df[df['team'] == team]
         # If a team is missing a racer in a tier, give them the average points of that tier

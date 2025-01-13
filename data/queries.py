@@ -89,11 +89,22 @@ def _points_sql_base(year):
     """
 
 def get_point_total(year, conn):
+    # Only take top points per top racer's top_3_points
     sql = _points_sql_base(year) + f"""
+    , top3_filtered AS (
+            SELECT
+                team,
+                discipline,
+                tier,
+                Max(total_top_3_points) AS best_total_top_3_points
+            FROM top3
+            GROUP BY team, discipline, tier
+        )
+
     SELECT
         team,
-        SUM(total_top_3_points) AS team_points
-    FROM top3
+        SUM(best_total_top_3_points) AS team_points
+    FROM top3_filtered
     GROUP BY team
     ORDER BY team_points DESC;
     """
@@ -151,12 +162,11 @@ def audit_df(year, conn):
     sql = _points_sql_base(year) + "SELECT * FROM top3"
     top_points = pd.read_sql_query(sql, conn)
 
-    # Join and return results:
+    # Join and return results:    
     return audit_df.merge(
         top_points[join_keys + ["total_top_3_points"]],
         how="inner",
         on=join_keys
     )
-
 
     

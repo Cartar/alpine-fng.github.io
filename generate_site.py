@@ -136,12 +136,12 @@ def generate_pages():
     os.makedirs(data_dir, exist_ok=True)
 
     # create or update data:
-    # create_or_update_standings_data(standing_years, data_dir) # Commented out waiting for 2025 data!
+    create_or_update_standings_data(standing_years, data_dir) # Commented out waiting for 2025 data!
     create_or_update_race_data(years, data_dir)
 
     # Generate html:
     generate_index()
-    #generate_team_standings_pages(standing_years) # Commented out waiting for 2025 data!
+    generate_team_standings_pages(standing_years) # Commented out waiting for 2025 data!
     generate_race_results_page(years)
     generate_contact()
 
