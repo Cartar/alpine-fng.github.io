@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-100">
 <head>
     <meta charset="UTF-8">
-    <title>Home - Ski Race League</title>
+    <title>Home - Fun and Glory</title>
     <!-- Favicon -->
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
@@ -15,16 +15,16 @@
     >
     <!-- Optional custom CSS -->
     <link rel="stylesheet" href="../static/css/styles.css">
-
+    
     <!-- In base.html -->
-
 </head>
-<body>
+<body class="d-flex flex-column h-100">
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="../index.html">Ski Race League</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-brand" href="../index.html">Fun and Glory</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
@@ -52,11 +52,53 @@
     </nav>
 
     <!-- Main Content -->
-    <main class="container my-4">
+    <!-- flex-shrink-0 ensures the main section doesn't shrink too much -->
+    <main class="flex-shrink-0 container my-4">
         
 <div class="text-center">
-    <h1>Welcome to the Ski Race League</h1>
-    <p class="lead">Your hub for the latest ski race results and statistics.</p>
+    <h1>Welcome to Alpine's Fun and Glory Ski Race League!</h1>
+    <p class="lead">
+        Your hub for the latest ski race results and everything you need 
+        to know about our 2025 season.
+    </p>
+    
+    <h2>2025 Race Schedule</h2>
+    <p>
+        Get ready for an action-packed season! Mark your calendars for the
+        following dates:
+    </p>
+    <ul class="list-unstyled">
+        <li>
+            <strong>Dec. 29:</strong> Time Trials on Kent<br>
+            &emsp;Snowboarders run first at <strong>1:00 PM</strong>
+        </li>
+        <li>
+            <strong>Jan. 12:</strong> Ski GS on Kent / SB, 
+            <em>Time TBA</em>
+        </li>
+        <li>
+            <strong>Jan. 26:</strong> Ski GS on Kent / SB on Kent, 
+            <strong>1:00 PM</strong>
+        </li>
+        <li>
+            <strong>Feb. 9:</strong> Ski SL on Kent / SB GS on Kent, 
+            <strong>1:00 PM</strong>
+        </li>
+        <li>
+            <strong>Feb. 16:</strong> Ski GS on Challenge / SB on Kent, 
+            <strong>1:00 PM</strong>
+        </li>
+        <li>
+            <strong>Feb. 22:</strong> Dual After Dark on Lower Alpine, 
+            <strong>4:30 PM</strong> (optional)
+        </li>
+    </ul>
+
+    <p>
+        Stay tuned for more details and post-race updates. 
+        Good luck to all participants, and see you on the slopes!
+    </p>
+
     <a href="../team_standings.html" class="btn btn-primary">View Team Standings</a>
     <a href="../race_results.html" class="btn btn-secondary">Latest Race Results</a>
 </div>
@@ -64,8 +106,9 @@
     </main>
 
     <!-- Footer -->
-    <footer class="bg-dark text-white text-center py-3">
-        <p>&copy; 2024 Ski Race League</p>
+    <!-- mt-auto pushes the footer to the bottom of the page when content is short -->
+    <footer class="bg-dark text-white text-center py-3 mt-auto">
+        <p>&copy; 2025 Alpine's Fun and Glory</p>
     </footer>
 
     <!-- Bootstrap JS and dependencies (Popper.js) -->

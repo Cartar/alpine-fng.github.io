@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-100">
 <head>
     <meta charset="UTF-8">
-    <title> - Ski Race League</title>
+    <title> - Fun and Glory</title>
     <!-- Favicon -->
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
@@ -15,16 +15,16 @@
     >
     <!-- Optional custom CSS -->
     <link rel="stylesheet" href="../static/css/styles.css">
-
+    
     <!-- In base.html -->
-
 </head>
-<body>
+<body class="d-flex flex-column h-100">
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="../index.html">Ski Race League</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-brand" href="../index.html">Fun and Glory</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
@@ -52,7 +52,8 @@
     </nav>
 
     <!-- Main Content -->
-    <main class="container my-4">
+    <!-- flex-shrink-0 ensures the main section doesn't shrink too much -->
+    <main class="flex-shrink-0 container my-4">
         
 <main class="container my-4">
     <h2>Race Results</h2>
@@ -334,8 +335,9 @@
     </main>
 
     <!-- Footer -->
-    <footer class="bg-dark text-white text-center py-3">
-        <p>&copy; 2024 Ski Race League</p>
+    <!-- mt-auto pushes the footer to the bottom of the page when content is short -->
+    <footer class="bg-dark text-white text-center py-3 mt-auto">
+        <p>&copy; 2025 Alpine's Fun and Glory</p>
     </footer>
 
     <!-- Bootstrap JS and dependencies (Popper.js) -->

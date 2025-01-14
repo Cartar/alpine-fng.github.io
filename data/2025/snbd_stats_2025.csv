@@ -1,10 +1,12 @@
-Name,racer_id,all_time_avg_percentile,median_percentile_2022,median_percentile_2024,median_percentile_2025,rank,avg_position_last5,median_position_last5
-Joel Farber,joelfarber,0.24944740776938917,,0.1871345029239766,,0.1871345029239766,3.6,4.0
-Thomas Daly,thomasdaly,0.3333333333333333,,,0.3333333333333333,0.3333333333333333,1.0,1.0
-Graham Ramshaw,grahamramshaw,0.37741228070175437,,0.39166666666666666,,0.39166666666666666,7.25,7.5
-Bernard Oegema,bernardoegema,0.30316653862706494,,0.4064327485380117,,0.4064327485380117,6.2,7.0
-Mark Sandell,marksandell,0.5429824561403508,,0.5789473684210527,,0.5789473684210527,10.666666666666666,11.0
-Steve Crawford,stevecrawford,0.6723976608187134,,0.6476608187134503,0.6666666666666666,0.6547880116959063,10.8,12.0
-Sheri Ramshaw,sheriramshaw,0.6863493359710465,,0.72953216374269,,0.72953216374269,12.2,13.0
-Kyla Taylor,kylataylor,0.9782163742690059,,0.9486842105263158,1.0,0.9679276315789472,15.4,18.0
-Jacob Max Farber,jacobmaxfarber,,,,,,,
+Name,racer_id,all_time_avg_percentile,median_percentile_2022,median_percentile_2024,median_percentile_2025,rank,avg_position_last5,median_position_last5,,,Team,Tier Picked,Picked,,Teams
+Jacob Max Farber,jacobmaxfarber,,,,,,,,1,1,Emma Williamson,1,1,,Will Stewart
+Joel Farber,joelfarber,0.249447408,,0.187134503,,0.187134503,3.6,4,2,1,Stephanie Coward,1,4,,Thomas Daly
+Graham Ramshaw,grahamramshaw,0.377412281,,0.391666667,,0.391666667,7.25,7.5,3,1,Todd Robertson,1,3,,Emma Williamson
+Thomas Daly,thomasdaly,0.333333333,,,0.333333333,0.333333333,1,1,4,1,Thomas Daly,1,2,,Tori Johnston
+Will Stewart,willstewart,,,,,,,,5,1,Will Stewart,1,5,,Alana Cox
+Bernard Oegema,bernardoegema,0.303166539,,0.406432749,,0.406432749,6.2,7,6,1,Alana Cox,1,6,,Todd Robertson
+Terence Woodside,terencewoodside,0.256186024,,0.460526316,,0.460526316,8.2,8,7,1,Tori Johnston,1,7,,Bengie Maxwell
+Mark Sandell,marksandell,0.542982456,,0.578947368,,0.578947368,10.66666667,11,8,1,Bengie Maxwell,1,8,,Stephanie Coward
+Steve Crawford,stevecrawford,0.672397661,,0.647660819,0.666666667,0.654788012,10.8,12,1,2,Bengie Maxwell,2,1,,
+Sheri Ramshaw,sheriramshaw,0.686349336,,0.729532164,,0.729532164,12.2,13,2,2,Thomas Daly,2,2,,
+Kyla Taylor,kylataylor,0.978216374,,0.948684211,1,0.967927632,15.4,18,3,2,Will Stewart,2,3,,

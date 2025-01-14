@@ -1,7 +1,40 @@
 {% extends "base.html" %}
 {% block content %}
 <div class="text-center">
-    <h1>Contact</h1>
-    TODO...
+    <h1>Contact Us</h1>
+    <p class="mb-4">
+        Have questions or feedback about Alpine's Fun and Glory Ski Race League? 
+        We would love to hear from you!
+    </p>
+
+    <!-- Direct Email Link -->
+    <div class="mb-4">
+      <h4>Email:</h4>
+      <p>
+        <a href="mailto:alpine.fng@gmail.com">
+          alpine.fng@gmail.com
+        </a>
+      </p>
+    </div>
+    
+    <hr class="my-4">
+
+    <!-- Optional Contact Form (if you plan to implement form handling) -->
+    <h4>Get in Touch</h4>
+    <form>
+      <div class="mb-3">
+        <label for="contactName" class="form-label">Name:</label>
+        <input type="text" class="form-control" id="contactName" placeholder="Your name here">
+      </div>
+      <div class="mb-3">
+        <label for="contactEmail" class="form-label">Email:</label>
+        <input type="email" class="form-control" id="contactEmail" placeholder="Your email address here">
+      </div>
+      <div class="mb-3">
+        <label for="contactMessage" class="form-label">Message:</label>
+        <textarea class="form-control" id="contactMessage" rows="5" placeholder="Your message here"></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary">Send Message</button>
+    </form>
 </div>
 {% endblock %}
