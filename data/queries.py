@@ -28,6 +28,7 @@ def get_race_data(order_by, race_id, year, conn):
             WHEN names.name is NOT NULL THEN names.name
             ELSE race.racer_id
         END AS name,
+        race.racer_id,
         race.discipline,
         team,
         tier,
@@ -74,6 +75,7 @@ def _points_sql_base(year):
             FROM RaceResults rr
             JOIN Races r ON rr.race_id = r.race_id
             WHERE substr(r.description, 1,4) = '{year}'
+            and lower(description) not like '%time%' and lower(description) not like '%trial%'
         )
         , top3 AS (
             SELECT
@@ -118,6 +120,10 @@ def get_table_schema(tablename, conn):
 
 
 def get_races_list(conn):
+    """
+    Unlike other queries from Races, we want to include time trails here
+    to display them in the website.
+    """
     return pd.read_sql_query(
         "select *, substr(description, 1,4) as year From Races order by race_date DESC"
         , conn
@@ -127,13 +133,13 @@ def get_races_list(conn):
 def audit_df(year, conn):
     # get all race IDs from a given year:
     ids = pd.read_sql_query(
-        f"select race_id From Races where substr(description, 1,4) = '{year}' order by race_date ASC",
+        f"select * From Races where substr(description, 1,4) = '{year}' and lower(description) not like '%time%' and lower(description) not like '%trial%' order by race_date ASC",
         conn
     )
 
     # gather all race data
     order_by='team, tier'
-    join_keys = ["team", "tier"]
+    join_keys = ["team", "tier", "racer_id"]
     cols_to_keep = ["run1", "run2", "best_time", "points"]
 
     for i, race_id in enumerate(list(ids.race_id)):
@@ -167,6 +173,4 @@ def audit_df(year, conn):
         top_points[join_keys + ["total_top_3_points"]],
         how="inner",
         on=join_keys
-    )
-
-    
+    ).drop(columns=["racer_id"])
