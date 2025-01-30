@@ -18,11 +18,13 @@ def get_race_data(order_by, race_id, year, conn):
     # Uses a left join for the default racer points
     sql = f"""
     SELECT 
+        RANK() OVER (
+            ORDER BY COALESCE(race.best_time,99999) ASC
+        ) AS rank,
         CASE
             WHEN team.bib is NOT NULL THEN team.bib
             ELSE race.bib
-        END AS bib
-        ,
+        END AS bib,
         CASE
             WHEN team.name is NOT NULL THEN team.name
             WHEN names.name is NOT NULL THEN names.name
@@ -45,6 +47,7 @@ def get_race_data(order_by, race_id, year, conn):
         select bib, discipline, racer_id, name
         from Teams
         where year = {year}
+        AND is_active = TRUE
     ) AS team
     ON race.racer_id = team.racer_id
     AND race.discipline = team.discipline

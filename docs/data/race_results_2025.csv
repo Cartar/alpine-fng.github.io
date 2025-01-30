@@ -1,106 +1,106 @@
-bib,name,discipline,team,tier,run1_race1,run2_race1,best_time_race1,points_race1,total_top_3_points
-87.0,Michael McTaggart,SKI,Black,1.0,9999.0,9999.0,9999.0,0.0,0.0
-79.0,hunter king,SKI,Black,2.0,26.21,26.49,26.21,5.0,5.0
-70.0,Kenneth Stoneham,SKI,Black,3.0,27.75,27.79,27.75,4.0,4.0
-62.0,Sean Cotnam,SKI,Black,4.0,27.14,27.13,27.13,6.0,6.0
-56.0,Alana Cox,SKI,Black,5.0,29.0,9998.0,29.0,4.0,4.0
-47.0,Corbin Seligman,SKI,Black,6.0,28.7,29.66,28.7,6.0,6.0
-40.0,Joseph Lo,SKI,Black,7.0,30.11,30.85,30.11,3.0,3.0
-26.0,Chris Reid ,SKI,Black,8.0,28.39,28.38,28.38,10.0,10.0
-25.0,Eric Rosen,SKI,Black,9.0,32.81,33.42,32.81,5.0,5.0
-11.0,Richard Sawicki,SKI,Black,10.0,35.03,34.55,34.55,6.0,6.0
-7.0,Mark Sandell,SKI,Black,11.0,9999.0,9999.0,9999.0,0.0,0.0
-117.0,Bernard Oegema,SNBD,Black,12.0,35.45,9999.0,35.45,6.0,6.0
-,avg_tier_points,,Black,13.0,,,,9.0,9.0
-85.0,Rob Kansun,SKI,Blue,1.0,25.58,25.61,25.58,9.0,9.0
-80.0,Thomas Daly,SKI,Blue,2.0,9999.0,9999.0,9999.0,0.0,0.0
-68.0,David Garber,SKI,Blue,3.0,27.5,27.6,27.5,7.0,7.0
-59.0,Robert Smejkal,SKI,Blue,4.0,9999.0,9999.0,9999.0,0.0,0.0
-52.0,Robert Hawtin,SKI,Blue,5.0,27.5,28.0,27.5,10.0,10.0
-44.0,Parker Brown,SKI,Blue,6.0,27.03,27.14,27.03,10.0,10.0
-41.0,Justin Trevan,SKI,Blue,7.0,29.5,29.5,29.5,8.0,8.0
-31.0,Tushar Mehta,SKI,Blue,8.0,30.12,29.94,29.94,9.0,9.0
-22.0,Ryan Wood,SKI,Blue,9.0,9999.0,9999.0,9999.0,0.0,0.0
-15.0,Mark Swalwell,SKI,Blue,10.0,35.11,33.41,33.41,7.0,7.0
-9.0,Raymond Hu,SKI,Blue,11.0,32.77,32.55,32.55,10.0,10.0
-180.0,Thomas Daly,SNBD,Blue,12.0,9999.0,9999.0,9999.0,0.0,0.0
-132.0,Sheri Ramshaw,SNBD,Blue,13.0,40.13,40.37,40.13,9.0,9.0
-84.0,Mclean Wood,SKI,HULK SMASH (Green),1.0,25.36,9999.0,25.36,10.0,10.0
-74.0,William Cartar,SKI,HULK SMASH (Green),2.0,25.74,25.49,25.49,8.0,8.0
-67.0,Brad Brock,SKI,HULK SMASH (Green),3.0,27.63,28.48,27.63,6.0,6.0
-63.0,Mark Laurie,SKI,HULK SMASH (Green),4.0,27.05,27.36,27.05,8.0,8.0
-57.0,Todd Robertson,SKI,HULK SMASH (Green),5.0,28.86,28.76,28.76,5.0,5.0
-46.0,Craig Pitman,SKI,HULK SMASH (Green),6.0,28.91,9998.0,28.91,5.0,5.0
-38.0,David Eva,SKI,HULK SMASH (Green),7.0,29.29,30.43,29.29,9.0,9.0
-30.0,Sarah Robertson,SKI,HULK SMASH (Green),8.0,34.37,34.56,34.37,3.0,3.0
-19.0,Audun Breder,SKI,HULK SMASH (Green),9.0,30.39,29.97,29.97,10.0,10.0
-12.0,Antonio Liberatore,SKI,HULK SMASH (Green),10.0,37.13,36.23,36.23,4.0,4.0
-1.0,David Moull,SKI,HULK SMASH (Green),11.0,38.27,37.49,37.49,4.0,4.0
-4.0,Dave Graff,SKI,HULK SMASH (Green),11.0,35.79,34.61,34.61,9.0,9.0
-182.0,Graham Ramshaw,SNBD,HULK SMASH (Green),12.0,33.75,36.11,33.75,8.0,8.0
-,avg_tier_points,,HULK SMASH (Green),13.0,,,,9.0,9.0
-86.0,Andrew Moscoe,SKI,Orange Crush,1.0,26.46,26.94,26.46,4.0,4.0
-81.0,Jeffrey Solomon ,SKI,Orange Crush,2.0,9999.0,9999.0,9999.0,0.0,0.0
-72.0,Shane Henry,SKI,Orange Crush,3.0,26.58,27.0,26.58,9.0,9.0
-64.0,Tyler Pridham,SKI,Orange Crush,4.0,27.68,9999.0,27.68,4.0,4.0
-55.0,Joanna Perreault,SKI,Orange Crush,5.0,27.97,9998.0,27.97,8.0,8.0
-48.0,Mackenzie Balan,SKI,Orange Crush,6.0,28.34,28.67,28.34,8.0,8.0
-35.0,Gil Nayot,SKI,Orange Crush,7.0,29.7,29.65,29.65,6.0,6.0
-33.0,Bengie Maxwell,SKI,Orange Crush,8.0,30.1,30.14,30.1,8.0,8.0
-24.0,Jocelyn French,SKI,Orange Crush,9.0,31.72,32.74,31.72,7.0,7.0
-17.0,Bernard Oegema,SKI,Orange Crush,10.0,35.22,9999.0,35.22,5.0,5.0
-3.0,Devesh Varma,SKI,Orange Crush,11.0,34.78,34.74,34.74,7.0,7.0
-107.0,Mark Sandell,SNBD,Orange Crush,12.0,9999.0,9999.0,9999.0,0.0,0.0
-105.0,Steve Crawford,SNBD,Orange Crush,13.0,36.89,37.21,36.89,10.0,10.0
-83.0,Nicholas Balan,SKI,Pink,1.0,9998.0,26.29,26.29,5.0,5.0
-76.0,Emma Williamson,SKI,Pink,2.0,25.5,26.05,25.5,7.0,7.0
-71.0,Jamie Haggart,SKI,Pink,3.0,27.63,27.67,27.63,5.0,5.0
-60.0,Jeff Parr,SKI,Pink,4.0,26.58,26.67,26.58,10.0,10.0
-54.0,Don French,SKI,Pink,5.0,28.41,28.87,28.41,6.0,6.0
-49.0,Rebecca Henry,SKI,Pink,6.0,30.43,31.15,30.43,3.0,3.0
-34.0,John Glover,SKI,Pink,7.0,29.39,28.83,28.83,10.0,10.0
-29.0,Kevin Brown,SKI,Pink,8.0,33.83,33.8,33.8,4.0,4.0
-20.0,Ron Herczeg,SKI,Pink,9.0,32.78,33.51,32.78,6.0,6.0
-16.0,Jay MacDonald,SKI,Pink,10.0,27.2,9999.0,27.2,10.0,10.0
-6.0,Talia Laurie,SKI,Pink,11.0,41.65,9999.0,41.65,3.0,3.0
-104.0,Jacob Max Farber,SNBD,Pink,12.0,28.28,28.43,28.28,10.0,10.0
-,avg_tier_points,,Pink,13.0,,,,9.0,9.0
-82.0,Graham Ramshaw,SKI,Purple,1.0,25.81,25.81,25.81,8.0,8.0
-77.0,Mike Parr,SKI,Purple,2.0,25.46,25.54,25.46,9.0,9.0
-66.0,Tori Johnston,SKI,Purple,3.0,27.88,27.87,27.87,3.0,3.0
-58.0,Peter Moorhead,SKI,Purple,4.0,26.73,9998.0,26.73,9.0,9.0
-50.0,Shane Hambly,SKI,Purple,5.0,27.52,9999.0,27.52,9.0,9.0
-43.0,Adam Grossman,SKI,Purple,6.0,28.43,29.44,28.43,7.0,7.0
-37.0,David Rosenblatt,SKI,Purple,7.0,29.64,30.17,29.64,7.0,7.0
-28.0,Lisa Bugler,SKI,Purple,8.0,31.92,31.58,31.58,7.0,7.0
-21.0,Catherine Capek,SKI,Purple,9.0,35.38,35.26,35.26,4.0,4.0
-10.0,Rachel Megitt,SKI,Purple,10.0,30.48,31.26,30.48,9.0,9.0
-2.0,Shanna Reid,SKI,Purple,11.0,35.16,9999.0,35.16,6.0,6.0
-101.0,Terence Woodside,SNBD,Purple,12.0,33.63,9999.0,33.63,9.0,9.0
-,avg_tier_points,,Purple,13.0,,,,9.0,9.0
-89.0,Will Stewart,SKI,Red,1.0,26.2,26.81,26.2,6.0,6.0
-78.0,Jeff Cox,SKI,Red,2.0,24.95,25.47,24.95,10.0,10.0
-73.0,Laura Coward,SKI,Red,3.0,26.63,27.05,26.63,8.0,8.0
-61.0,Alexandra Kansun,SKI,Red,4.0,27.47,27.1,27.1,7.0,7.0
-51.0,Rob Reid,SKI,Red,5.0,28.27,28.65,28.27,7.0,7.0
-42.0,Laura Libby,SKI,Red,6.0,29.86,29.31,29.31,4.0,4.0
-36.0,Mitch Perreault,SKI,Red,7.0,29.83,30.88,29.83,5.0,5.0
-27.0,Tony Petrella,SKI,Red,8.0,32.3,33.7,32.3,5.0,5.0
-18.0,Stephen Lewis,SKI,Red,9.0,30.51,30.12,30.12,9.0,9.0
-13.0,Alex Henry,SKI,Red,10.0,39.23,9999.0,39.23,3.0,3.0
-8.0,Jennifer Hsiung,SKI,Red,11.0,35.54,35.82,35.54,5.0,5.0
-189.0,Will Stewart,SNBD,Red,12.0,37.45,34.69,34.69,7.0,7.0
-103.0,Kyla Taylor,SNBD,Red,13.0,40.24,9999.0,40.24,8.0,8.0
-88.0,Brandon Hune,SKI,Yellow,1.0,25.92,25.97,25.92,7.0,7.0
-75.0,Jeremy Ramshaw,SKI,Yellow,2.0,26.12,25.88,25.88,6.0,6.0
-69.0,Stephanie Coward,SKI,Yellow,3.0,25.96,26.14,25.96,10.0,10.0
-65.0,Brook Hamilton,SKI,Yellow,4.0,27.24,30.1,27.24,5.0,5.0
-53.0,Kevin Beattie,SKI,Yellow,5.0,29.48,29.04,29.04,3.0,3.0
-45.0,Josh Erlick,SKI,Yellow,6.0,28.26,28.78,28.26,9.0,9.0
-39.0,Earl Duffy,SKI,Yellow,7.0,30.36,29.93,29.93,4.0,4.0
-32.0,Sheri Ramshaw,SKI,Yellow,8.0,31.91,31.58,31.58,6.0,6.0
-23.0,Michael Godfrey,SKI,Yellow,9.0,31.42,31.12,31.12,8.0,8.0
-14.0,Dara Moncarz,SKI,Yellow,10.0,30.97,34.69,30.97,8.0,8.0
-5.0,JD Etter,SKI,Yellow,11.0,36.12,34.7,34.7,8.0,8.0
-102.0,Joel Farber,SNBD,Yellow,12.0,36.3,36.92,36.3,5.0,5.0
-,avg_tier_points,,Yellow,13.0,,,,9.0,9.0
+rank,bib,name,discipline,team,tier,run1_race1,run2_race1,best_time_race1,points_race1,run1_race2,run2_race2,best_time_race2,points_race2,total_top_3_points
+98,,avg_tier_points,,Black,1.0,,,,7.0,,,,7.0,14.0
+12,79.0,hunter king,SKI,Black,2.0,26.21,26.49,26.21,5.0,24.38,24.15,24.15,10.0,15.0
+31,70.0,Kenneth Stoneham,SKI,Black,3.0,27.75,27.79,27.75,4.0,9999.0,9999.0,9999.0,0.0,4.0
+22,62.0,Sean Cotnam,SKI,Black,4.0,27.14,27.13,27.13,6.0,25.63,25.42,25.42,8.0,14.0
+44,56.0,Alana Cox,SKI,Black,5.0,29.0,9998.0,29.0,4.0,26.86,26.91,26.86,6.0,10.0
+40,47.0,Corbin Seligman,SKI,Black,6.0,28.7,29.66,28.7,7.0,28.44,27.72,27.72,8.0,15.0
+56,40.0,Joseph Lo,SKI,Black,7.0,30.11,30.85,30.11,3.0,29.74,9999.0,29.74,4.0,7.0
+38,26.0,Chris Reid ,SKI,Black,8.0,28.39,28.38,28.38,10.0,9999.0,9999.0,9999.0,0.0,10.0
+68,25.0,Eric Rosen,SKI,Black,9.0,32.81,33.42,32.81,5.0,32.34,31.91,31.91,8.0,13.0
+74,11.0,Richard Sawicki,SKI,Black,10.0,35.03,34.55,34.55,6.0,33.81,32.36,32.36,6.0,12.0
+92,7.0,Mark Sandell,SKI,Black,11.0,9999.0,9999.0,9999.0,0.0,32.14,9999.0,32.14,10.0,10.0
+82,117.0,Bernard Oegema,SNBD,Black,12.0,35.45,9999.0,35.45,6.0,35.79,9999.0,35.79,7.0,13.0
+98,,avg_tier_points,,Black,13.0,,,,9.0,,,,9.0,18.0
+6,85.0,Rob Kansun,SKI,Blue,1.0,25.58,25.61,25.58,9.0,24.26,23.93,23.93,8.0,17.0
+92,80.0,Thomas Daly,SKI,Blue,2.0,9999.0,9999.0,9999.0,0.0,9999.0,9999.0,9999.0,0.0,0.0
+25,68.0,David Garber,SKI,Blue,3.0,27.5,27.6,27.5,7.0,9999.0,9999.0,9999.0,0.0,7.0
+92,59.0,Robert Smejkal,SKI,Blue,4.0,9999.0,9999.0,9999.0,0.0,25.8,25.67,25.67,7.0,7.0
+25,52.0,Robert Hawtin,SKI,Blue,5.0,27.5,28.0,27.5,10.0,26.32,26.05,26.05,10.0,20.0
+19,44.0,Parker Brown,SKI,Blue,6.0,27.03,27.14,27.03,10.0,25.86,25.12,25.12,10.0,20.0
+48,41.0,Justin Trevan,SKI,Blue,7.0,29.5,29.5,29.5,8.0,27.7,27.43,27.43,10.0,18.0
+53,31.0,Tushar Mehta,SKI,Blue,8.0,30.12,29.94,29.94,9.0,29.91,29.24,29.24,9.0,18.0
+98,,avg_tier_points,,Blue,9.0,,,,7.0,,,,7.0,14.0
+69,15.0,Mark Swalwell,SKI,Blue,10.0,35.11,33.41,33.41,7.0,32.13,33.05,32.13,7.0,14.0
+66,9.0,Raymond Hu,SKI,Blue,11.0,32.77,32.55,32.55,10.0,34.02,33.08,33.08,9.0,19.0
+92,180.0,Thomas Daly,SNBD,Blue,12.0,9999.0,9999.0,9999.0,0.0,9999.0,9999.0,9999.0,0.0,0.0
+89,132.0,Sheri Ramshaw,SNBD,Blue,13.0,40.13,40.37,40.13,9.0,9999.0,9999.0,9999.0,0.0,9.0
+2,84.0,Mclean Wood,SKI,HULK SMASH (Green),1.0,25.36,9999.0,25.36,10.0,23.84,9999.0,23.84,9.0,19.0
+4,74.0,William Cartar,SKI,HULK SMASH (Green),2.0,25.74,25.49,25.49,8.0,24.54,24.74,24.54,7.0,15.0
+28,67.0,Brad Brock,SKI,HULK SMASH (Green),3.0,27.63,28.48,27.63,5.5,26.77,27.33,26.77,5.0,10.5
+20,63.0,Mark Laurie,SKI,HULK SMASH (Green),4.0,27.05,27.36,27.05,8.0,26.28,26.52,26.28,5.0,13.0
+41,57.0,Todd Robertson,SKI,HULK SMASH (Green),5.0,28.86,28.76,28.76,5.0,27.44,28.45,27.44,3.0,8.0
+43,46.0,Craig Pitman,SKI,HULK SMASH (Green),6.0,28.91,9998.0,28.91,6.0,28.35,28.42,28.35,5.0,11.0
+46,38.0,David Eva,SKI,HULK SMASH (Green),7.0,29.29,30.43,29.29,9.0,29.73,29.28,29.28,6.0,15.0
+73,30.0,Sarah Robertson,SKI,HULK SMASH (Green),8.0,34.37,34.56,34.37,3.0,33.2,33.05,33.05,5.0,8.0
+54,19.0,Audun Breder,SKI,HULK SMASH (Green),9.0,30.39,29.97,29.97,10.0,9999.0,9999.0,9999.0,0.0,10.0
+84,12.0,Antonio Liberatore,SKI,HULK SMASH (Green),10.0,37.13,36.23,36.23,4.0,34.86,33.77,33.77,4.0,8.0
+75,4.0,Dave Graff,SKI,HULK SMASH (Green),11.0,35.79,34.61,34.61,9.0,34.6,33.34,33.34,7.0,16.0
+87,1.0,David Moull,SKI,HULK SMASH (Green),11.0,38.27,37.49,37.49,4.0,36.55,36.97,36.55,4.0,8.0
+71,182.0,Graham Ramshaw,SNBD,HULK SMASH (Green),12.0,33.75,36.11,33.75,8.0,9999.0,9999.0,9999.0,0.0,8.0
+98,,avg_tier_points,,HULK SMASH (Green),13.0,,,,9.0,,,,9.0,18.0
+14,86.0,Andrew Moscoe,SKI,Orange Crush,1.0,26.46,26.94,26.46,4.0,9999.0,9999.0,9999.0,0.0,4.0
+92,81.0,Jeffrey Solomon ,SKI,Orange Crush,2.0,9999.0,9999.0,9999.0,0.0,24.26,24.56,24.26,9.0,9.0
+15,72.0,Shane Henry,SKI,Orange Crush,3.0,26.58,27.0,26.58,9.0,25.64,25.46,25.46,8.0,17.0
+30,64.0,Tyler Pridham,SKI,Orange Crush,4.0,27.68,9999.0,27.68,4.0,25.06,24.58,24.58,10.0,14.0
+33,55.0,Joanna Perreault,SKI,Orange Crush,5.0,27.97,9998.0,27.97,8.0,27.43,26.46,26.46,9.0,17.0
+37,48.0,Mackenzie Balan,SKI,Orange Crush,6.0,28.34,28.67,28.34,8.0,28.03,27.88,27.88,7.0,15.0
+50,35.0,Gil Nayot,SKI,Orange Crush,7.0,29.7,29.65,29.65,6.0,28.4,29.1,28.4,8.0,14.0
+55,33.0,Bengie Maxwell,SKI,Orange Crush,8.0,30.1,30.14,30.1,8.0,9998.0,28.45,28.45,10.0,18.0
+64,24.0,Jocelyn French,SKI,Orange Crush,9.0,31.72,32.74,31.72,7.0,30.6,30.4,30.4,9.0,16.0
+80,17.0,Bernard Oegema,SKI,Orange Crush,10.0,35.22,9999.0,35.22,5.0,33.33,9999.0,33.33,5.0,10.0
+78,3.0,Devesh Varma,SKI,Orange Crush,11.0,34.78,34.74,34.74,7.0,33.27,33.62,33.27,8.0,15.0
+92,107.0,Mark Sandell,SNBD,Orange Crush,12.0,9999.0,9999.0,9999.0,0.0,36.77,35.64,35.64,8.0,8.0
+86,105.0,Steve Crawford,SNBD,Orange Crush,13.0,36.89,37.21,36.89,10.0,39.76,37.84,37.84,10.0,20.0
+13,83.0,Nicholas Balan,SKI,Pink,1.0,9998.0,26.29,26.29,5.0,23.72,24.42,23.72,10.0,15.0
+5,76.0,Emma Williamson,SKI,Pink,2.0,25.5,26.05,25.5,7.0,9999.0,9999.0,9999.0,0.0,7.0
+28,71.0,Jamie Haggart,SKI,Pink,3.0,27.63,27.67,27.63,5.5,26.36,26.25,26.25,6.0,11.5
+15,60.0,Jeff Parr,SKI,Pink,4.0,26.58,26.67,26.58,10.0,9999.0,9999.0,9999.0,0.0,10.0
+39,54.0,Don French,SKI,Pink,5.0,28.41,28.87,28.41,6.0,26.48,26.68,26.48,8.0,14.0
+58,49.0,Rebecca Henry,SKI,Pink,6.0,30.43,31.15,30.43,4.0,29.66,9999.0,29.66,4.0,8.0
+42,34.0,John Glover,SKI,Pink,7.0,29.39,28.83,28.83,10.0,9999.0,9999.0,9999.0,0.0,10.0
+72,29.0,Kevin Brown,SKI,Pink,8.0,33.83,33.8,33.8,4.0,33.0,9999.0,33.0,6.0,10.0
+67,20.0,Ron Herczeg,SKI,Pink,9.0,32.78,33.51,32.78,6.0,9999.0,9999.0,9999.0,0.0,6.0
+23,16.0,Jay MacDonald,SKI,Pink,10.0,27.2,9999.0,27.2,10.0,24.79,24.66,24.66,10.0,20.0
+91,6.0,Talia Laurie,SKI,Pink,11.0,41.65,9999.0,41.65,3.0,39.28,9999.0,39.28,3.0,6.0
+36,104.0,Jacob Max Farber,SNBD,Pink,12.0,28.28,28.43,28.28,10.0,9999.0,9999.0,9999.0,0.0,10.0
+98,,avg_tier_points,,Pink,13.0,,,,9.0,,,,9.0,18.0
+7,82.0,Graham Ramshaw,SKI,Purple,1.0,25.81,25.81,25.81,8.0,9999.0,9999.0,9999.0,0.0,8.0
+3,77.0,Mike Parr,SKI,Purple,2.0,25.46,25.54,25.46,9.0,9999.0,9999.0,9999.0,0.0,9.0
+32,66.0,Tori Johnston,SKI,Purple,3.0,27.88,27.87,27.87,3.0,25.99,25.79,25.79,7.0,10.0
+18,58.0,Peter Moorhead,SKI,Purple,4.0,26.73,9998.0,26.73,9.0,25.6,25.41,25.41,9.0,18.0
+27,50.0,Shane Hambly,SKI,Purple,5.0,27.52,9999.0,27.52,9.0,26.7,26.57,26.57,7.0,16.0
+98,,avg_tier_points,,Purple,6.0,,,,7.0,,,,7.0,14.0
+49,37.0,David Rosenblatt,SKI,Purple,7.0,29.64,30.17,29.64,7.0,28.42,28.36,28.36,9.0,16.0
+62,28.0,Lisa Bugler,SKI,Purple,8.0,31.92,31.58,31.58,6.5,9999.0,9999.0,9999.0,0.0,6.5
+81,21.0,Catherine Capek,SKI,Purple,9.0,35.38,35.26,35.26,4.0,33.32,9999.0,33.32,6.0,10.0
+59,10.0,Rachel Megitt,SKI,Purple,10.0,30.48,31.26,30.48,9.0,30.03,29.64,29.64,9.0,18.0
+79,2.0,Shanna Reid,SKI,Purple,11.0,35.16,9999.0,35.16,6.0,34.78,9999.0,34.78,6.0,12.0
+70,101.0,Terence Woodside,SNBD,Purple,12.0,33.63,9999.0,33.63,9.0,35.16,35.29,35.16,10.0,19.0
+98,,avg_tier_points,,Purple,13.0,,,,9.0,,,,9.0,18.0
+11,89.0,Will Stewart,SKI,Red,1.0,26.2,26.81,26.2,6.0,9998.0,25.18,25.18,6.0,12.0
+1,78.0,Jeff Cox,SKI,Red,2.0,24.95,25.47,24.95,10.0,24.53,24.42,24.42,8.0,18.0
+17,73.0,Laura Coward,SKI,Red,3.0,26.63,27.05,26.63,8.0,25.21,25.38,25.21,9.0,17.0
+21,61.0,Alexandra Kansun,SKI,Red,4.0,27.47,27.1,27.1,7.0,26.6,26.47,26.47,4.0,11.0
+35,51.0,Rob Reid,SKI,Red,5.0,28.27,28.65,28.27,7.0,27.27,26.95,26.95,5.0,12.0
+47,42.0,Laura Libby,SKI,Red,6.0,29.86,29.31,29.31,5.0,28.17,9999.0,28.17,6.0,11.0
+51,36.0,Mitch Perreault,SKI,Red,7.0,29.83,30.88,29.83,5.0,29.47,29.46,29.46,5.0,10.0
+65,27.0,Tony Petrella,SKI,Red,8.0,32.3,33.7,32.3,5.0,31.71,33.8,31.71,7.0,12.0
+57,18.0,Stephen Lewis,SKI,Red,9.0,30.51,30.12,30.12,9.0,29.49,29.76,29.49,10.0,19.0
+88,13.0,Alex Henry,SKI,Red,10.0,39.23,9999.0,39.23,3.0,37.87,9999.0,37.87,3.0,6.0
+83,8.0,Jennifer Hsiung,SKI,Red,11.0,35.54,35.82,35.54,5.0,9999.0,9999.0,9999.0,0.0,5.0
+76,189.0,Will Stewart,SNBD,Red,12.0,37.45,34.69,34.69,7.0,37.56,36.61,36.61,6.0,13.0
+90,103.0,Kyla Taylor,SNBD,Red,13.0,40.24,9999.0,40.24,8.0,41.95,41.19,41.19,9.0,17.0
+9,88.0,Brandon Hune,SKI,Yellow,1.0,25.92,25.97,25.92,7.0,24.41,24.34,24.34,7.0,14.0
+8,75.0,Jeremy Ramshaw,SKI,Yellow,2.0,26.12,25.88,25.88,6.0,24.84,24.72,24.72,6.0,12.0
+10,69.0,Stephanie Coward,SKI,Yellow,3.0,25.96,26.14,25.96,10.0,24.86,24.8,24.8,10.0,20.0
+24,65.0,Brook Hamilton,SKI,Yellow,4.0,27.24,30.1,27.24,5.0,26.06,26.2,26.06,6.0,11.0
+45,53.0,Kevin Beattie,SKI,Yellow,5.0,29.48,29.04,29.04,3.0,27.24,27.33,27.24,4.0,7.0
+34,45.0,Josh Erlick,SKI,Yellow,6.0,28.26,28.78,28.26,9.0,27.37,27.74,27.37,9.0,18.0
+52,39.0,Earl Duffy,SKI,Yellow,7.0,30.36,29.93,29.93,4.0,29.76,28.7,28.7,7.0,11.0
+62,32.0,Sheri Ramshaw,SKI,Yellow,8.0,31.91,31.58,31.58,6.5,30.42,30.35,30.35,8.0,14.5
+61,23.0,Michael Godfrey,SKI,Yellow,9.0,31.42,31.12,31.12,8.0,32.18,9999.0,32.18,7.0,15.0
+60,14.0,Dara Moncarz,SKI,Yellow,10.0,30.97,34.69,30.97,8.0,32.25,30.62,30.62,8.0,16.0
+77,5.0,JD Etter,SKI,Yellow,11.0,36.12,34.7,34.7,8.0,36.42,35.44,35.44,5.0,13.0
+85,102.0,Joel Farber,SNBD,Yellow,12.0,36.3,36.92,36.3,5.0,36.37,35.52,35.52,9.0,14.0
+98,,avg_tier_points,,Yellow,13.0,,,,9.0,,,,9.0,18.0
