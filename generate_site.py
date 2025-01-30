@@ -65,6 +65,9 @@ def create_or_update_race_data(years, data_dir):
             )
             race_df["race_id"] = race_meta["race_id"]
             
+            # Drop racer ID:
+            race_df = race_df.drop(columns=["racer_id"])
+            
             if race_df.shape[0] > 0:
                 race_results.append(race_df)
 

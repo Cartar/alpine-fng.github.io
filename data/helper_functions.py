@@ -20,6 +20,14 @@ def load_clean_results(path, startList, race_id=None, max_points=10):
     points.loc[points.racer_id.isnull(), 'racer_id'] = 'avg_tier_points'
     points["race_id"]=race_id
 
+    # add anyone not on a team:
+    results_no_team = results[~results['racer_id'].isin(points['racer_id'])]
+    results_no_team =  get_best_time(results_no_team)
+    results_no_team = results_no_team[results_no_team.best_time < 9998]
+
+    # Append the new results to the points dataframe
+    points = pd.concat([points, results_no_team], ignore_index=True)
+
     return points[RACE_RESULT_COL_ORDER]
 
 
@@ -32,10 +40,12 @@ def upload_results(results, race_id, race_date, description, conn):
     }
     race_upload = pd.DataFrame(race_data)
     race_upload['race_date'] = pd.to_datetime(race_upload['race_date'], format='%m/%d/%Y')
-    
-    # Upload results
-    race_upload.to_sql('Races', conn, if_exists='append', index=False)
-    results.to_sql('RaceResults', conn, if_exists='append', index=False)
+
+    # Check that the race ID isn't already in Races and RaceResults before upload:
+    if pd.read_sql_query(f"SELECT * FROM Races where race_id = {race_id}", conn).shape[0] == 0:
+        race_upload.to_sql('Races', conn, if_exists='append', index=False)
+    if pd.read_sql_query(f"SELECT * FROM RaceResults where race_id = {race_id}", conn).shape[0] == 0:
+        results.to_sql('RaceResults', conn, if_exists='append', index=False)
     
     conn.commit()
 
@@ -46,8 +56,8 @@ def prep_race_results(
     race_id,
     #description,
     year,
-    N_tiers,
-    N_teams,
+    #N_tiers,
+    #N_teams,
     max_points,
     conn
 ):
@@ -60,6 +70,7 @@ def prep_race_results(
         select bib, discipline, racer_id, tier, team
         from Teams
         where year = {year}
+        and is_active = TRUE
     """
     startList = pd.read_sql_query(sql, conn)
 
@@ -95,11 +106,16 @@ def clean_string(s):
         return ''  # Handle non-string cases, e.g., None or NaN
 
 
-def calculate_points(df, top_points):
+def get_best_time(df):
     df.replace({'DNF': 9998,"DSQ": 9998, "DNS": 9999, pd.NA: 9999}, inplace=True)
     df['run1'] = pd.to_numeric(df['run1']) # errors='coerce')
     df['run2'] = pd.to_numeric(df['run2']) # errors='coerce')
     df['best_time'] = df[['run1', 'run2']].min(axis=1)
+    return df
+
+
+def calculate_points(df, top_points):
+    df =  get_best_time(df)
     # Initialize a column for points
     df['points'] = 0
     
@@ -110,11 +126,20 @@ def calculate_points(df, top_points):
     
         # Sort by best_time
         tier_sorted = tier_df.sort_values(by='best_time')
-    
+
         # Assign points based on the number of racers in the tier
         num_racers = len(tier_sorted)
         tier_sorted['points'] = range(top_points, top_points - num_racers, -1)
     
+        # Handle ties for racers with the same best_time
+        tie_groups = tier_sorted.groupby('best_time')
+        for best_time, group in tie_groups:
+            if len(group) > 1:  # Check for ties
+                tie_indices = group.index
+                # Average the points of the tied positions
+                tied_points = tier_sorted.loc[tie_indices, 'points'].mean()
+                tier_sorted.loc[tie_indices, 'points'] = tied_points
+
         # Set absent racer points to zero:
         tier_sorted.loc[tier_sorted['best_time'] == 9999, 'points'] = 0
         
@@ -131,14 +156,30 @@ def calculate_points(df, top_points):
     teams = df['team'].unique()
     team_dfs = []
     team_points = {}
-    avg_points = (top_points + (top_points - (num_racers-1))) / 2
     for team in teams:
         team_df = df[df['team'] == team]
         # If a team is missing a racer in a tier, give them the average points of that tier
         for tier in df['tier'].unique():
             if tier not in team_df['tier'].values:
-                team_df.loc[-1] = [pd.NA, pd.NA, pd.NA, tier, team, pd.NA, pd.NA, pd.NA, avg_points]
-                team_df.reset_index(drop=True, inplace=True)
+                # Get tier average:
+                tier_df = df[df['tier'] == tier]
+                num_racers = len(tier_df)
+                avg_points = (top_points + (top_points - (num_racers-1))) / 2
+                ## Old way of adding avg points:
+                #team_df.loc[-1] = [pd.NA, pd.NA, pd.NA, tier, team, pd.NA, pd.NA, pd.NA, avg_points]
+                #team_df.reset_index(drop=True, inplace=True)
+                # Add a row for the missing tier with average points
+                missing_row = {
+                    'best_time': pd.NA,
+                    'points': avg_points,
+                    'tier': tier,
+                    'team': team,
+                }
+                # Add additional columns to maintain the dataframe structure
+                for col in [col for col in df.columns if col not in missing_row]:
+                    missing_row[col] = pd.NA
+                team_df = pd.concat([team_df, pd.DataFrame([missing_row])], ignore_index=True)
+
         team_points[team] = team_df['points'].sum()
         team_dfs.append(team_df)
     
