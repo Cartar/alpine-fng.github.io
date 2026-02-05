@@ -5,7 +5,7 @@ import numpy as np
 RACE_RESULT_COL_ORDER = ["racer_id", "discipline", "team", "tier", "run1", "run2", "best_time", "points", "race_id", "bib"]
 
 
-def load_clean_results(path, startList, race_id=None, max_points=10):
+def load_clean_results(path, startList, race_id=None, max_points=10, name_fixes={}):
     assert race_id is not None, "failed to provide a race ID"
         
     join_keys = ["bib", "racer_id"]
@@ -13,6 +13,7 @@ def load_clean_results(path, startList, race_id=None, max_points=10):
     
     results = pd.read_csv(path, header=None, names=result_cols)
     results["racer_id"] = results["racer_id"].apply(clean_string)
+    results["racer_id"] = results["racer_id"].replace(name_fixes)
 
     combined = startList.merge(results, how="left", on=join_keys)
     _, points = calculate_points(combined, top_points=max_points)
@@ -59,6 +60,7 @@ def prep_race_results(
     #N_tiers,
     #N_teams,
     max_points,
+    name_fixes,
     conn
 ):
     #assert len(race_date.split("/")) == 3, "race date wrong format"
@@ -71,11 +73,12 @@ def prep_race_results(
         from Teams
         where year = {year}
         and is_active = TRUE
+        and tier is not null;
     """
     startList = pd.read_sql_query(sql, conn)
 
     # get results:
-    results = load_clean_results(path, startList, race_id, max_points)
+    results = load_clean_results(path, startList, race_id, max_points, name_fixes)
         
     ## Assert results have the right dims:
     ## removed this because we now have 9 racers in on tier 11...
@@ -108,6 +111,7 @@ def clean_string(s):
 
 def get_best_time(df):
     df.replace({'DNF': 9998,"DSQ": 9998, "DNS": 9999, pd.NA: 9999}, inplace=True)
+    df.replace({'dnf': 9998,"dsq": 9998, "dns": 9999, pd.NA: 9999}, inplace=True)
     df['run1'] = pd.to_numeric(df['run1']) # errors='coerce')
     df['run2'] = pd.to_numeric(df['run2']) # errors='coerce')
     df['best_time'] = df[['run1', 'run2']].min(axis=1)
