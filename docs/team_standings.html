@@ -61,6 +61,8 @@
         <label for="yearSelect" class="form-label">Select Year:</label>
         <select id="yearSelect" class="form-select">
             
+            <option value="2026">2026</option>
+            
             <option value="2025">2025</option>
             
             <option value="2024">2024</option>
@@ -87,7 +89,7 @@
   const auditLink = document.getElementById('auditLink');
 
   // Construct a JavaScript array of available years from Jinja variable
-  const availableYears = [2025, 2024];
+  const availableYears = [2026, 2025, 2024];
 
   // Select the latest year by default (assuming the first year in 'years' is the latest)
   yearSelect.value = availableYears[0];
@@ -142,7 +144,7 @@
     <!-- Footer -->
     <!-- mt-auto pushes the footer to the bottom of the page when content is short -->
     <footer class="bg-dark text-white text-center py-3 mt-auto">
-        <p>&copy; 2025 Alpine's Fun and Glory</p>
+        <p>&copy; 2026 Alpine's Fun and Glory</p>
     </footer>
 
     <!-- Bootstrap JS and dependencies (Popper.js) -->
